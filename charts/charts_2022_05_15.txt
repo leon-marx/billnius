@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+First Class;Jack Harlow;1;3;5;1;False
+As It Was;Harry Styles;1;2;6;2;False
+Wait For U;Future Featuring Drake & Tems;1;1;2;3;False
+Moscow Mule;Bad Bunny;4;0;1;4;True
+Titi Me Pregunto;Bad Bunny;5;0;1;5;True
+Despues de La Playa;Bad Bunny;6;0;1;6;True
+Heat Waves;Glass Animals;1;5;69;7;False
+Big Energy;Latto;3;6;29;8;False
+About Damn Time;Lizzo;9;19;4;9;False
+Me Porto Bonito;Bad Bunny & Chencho Corleone;10;0;1;10;True
+Enemy;Imagine Dragons X JID;5;7;25;11;False
+Thought You Should Know;Morgan Wallen;12;0;1;12;True
+Stay;The Kid LAROI & Justin Bieber;1;9;44;13;False
+Party;Bad Bunny & Rauw Alejandro;14;0;1;14;True
+The Heart Part 5;Kendrick Lamar;15;0;1;15;True
+Un Ratito;Bad Bunny;16;0;1;16;True
+Ghost;Justin Bieber;5;14;33;17;False
+Tarot;Bad Bunny & Jhay Cortez;18;0;1;18;True
+Puffin On Zootiez;Future;4;4;2;19;False
+Woman;Doja Cat;7;13;41;20;False
+Dua Lipa;Jack Harlow;21;0;1;21;True
+Yo No Soy Celoso;Bad Bunny;22;0;1;22;True
+Churchill Downs;Jack Harlow Featuring Drake;23;0;1;23;True
+Bad Habits;Ed Sheeran;2;18;46;24;False
+Super Gremlin;Kodak Black;3;16;27;25;False
+Ojitos Lindos;Bad Bunny & Bomba Estereo;26;0;1;26;True
+Provenza;Karol G;25;25;3;27;False
+Thats What I Want;Lil Nas X;8;17;34;28;False
+Shivers;Ed Sheeran;4;21;35;29;False
+Cold Heart (PNAU Remix);Elton John & Dua Lipa;7;22;36;30;False
+Neverita;Bad Bunny;31;0;1;31;True
+La Corriente;Bad Bunny & Tony Dize;32;0;1;32;True
+Wasted On You;Morgan Wallen;9;30;26;33;False
+Efecto;Bad Bunny;34;0;1;34;True
+Boyfriend;Dove Cameron;31;34;13;35;False
+Bam Bam;Camila Cabello Featuring Ed Sheeran;21;28;10;36;False
+'Til You Can't;Cody Johnson;18;32;31;37;False
+MAMIII;Becky G X Karol G;15;27;13;38;False
+Sweetest Pie;Megan Thee Stallion & Dua Lipa;15;41;9;39;False
+AA;Walker Hayes;28;35;18;40;False
+abcdefu;GAYLE;3;23;25;41;False
+Industry Baby;Lil Nas X & Jack Harlow;1;31;42;42;False
+Numb Little Bug;Em Beihold;37;40;15;43;False
+Aguacero;Bad Bunny;44;0;1;44;True
+Dos Mil 16;Bad Bunny;45;0;1;45;True
+Easy On Me;Adele;1;36;31;46;False
+Need To Know;Doja Cat;8;33;48;47;False
+Trouble With A Heartbreak;Jason Aldean;33;50;8;48;False
+Otro Atardecer;Bad Bunny & The Marias;49;0;1;49;True
+This Love (Taylor's Version);Taylor Swift;50;0;1;50;True
+Andrea;Bad Bunny & Buscabulla;51;0;1;51;True
+Doin' This;Luke Combs;26;48;22;52;False
+In A Minute;Lil Baby;14;38;5;53;False
+El Apagon;Bad Bunny;54;0;1;54;True
+Un Verano Sin Ti;Bad Bunny;55;0;1;55;True
+Un Coco;Bad Bunny;56;0;1;56;True
+To The Moon!;JNR CHOI & Sam Tompkins;38;42;11;57;False
+Thousand Miles;The Kid LAROI;15;43;3;58;False
+Me Fui de Vacaciones;Bad Bunny;59;0;1;59;True
+Ensename A Bailar;Bad Bunny;60;0;1;60;True
+Love You Better;Future;12;12;2;61;False
+Hrs And Hrs;Muni Long;16;47;20;62;False
+I'm On One;Future Featuring Drake;11;11;2;63;False
+712PM;Future;8;8;2;64;False
+Nail Tech;Jack Harlow;18;85;12;65;False
+Take My Name;Parmalee;57;57;6;66;False
+Never Say Never;Cole Swindell / Lainey Wilson;27;53;17;67;False
+She's All I Wanna Be;Tate McRae;44;56;14;68;False
+Right On;Lil Baby;13;52;5;69;False
+We Don't Talk About Bruno;Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast;1;51;20;70;False
+Damn Strait;Scotty McCreery;62;62;6;71;False
+When You're Gone;Shawn Mendes;38;59;6;72;False
+If I Was A Cowboy;Miranda Lambert;53;55;15;73;False
+Agosto;Bad Bunny;74;0;1;74;True
+2step;Ed Sheeran Featuring Lil Baby;51;70;3;75;False
+Freaky Deaky;Tyga X Doja Cat;43;65;11;76;False
+Something In The Orange;Zach Bryan;55;77;3;77;False
+What Happened To Virgil;Lil Durk Featuring Gunna;22;61;9;78;False
+I'm Dat N***a;Future;10;10;2;79;False
+Never Wanted To Be That Girl;Carly Pearce & Ashley McBryde;63;67;18;80;False
+Get Into It (Yuh);Doja Cat;68;72;23;81;False
+Hold My Hand;Lady Gaga;82;0;1;82;True
+Slow Down Summer;Thomas Rhett;43;74;12;83;False
+Whiskey On You;Nate Smith;84;0;1;84;True
+Don't Think Jesus;Morgan Wallen;7;66;4;85;False
+Peru;Fireboy DML & Ed Sheeran;53;63;15;86;False
+Massaging Me;Future;20;20;2;87;False
+I'd Do Anything To Make You Smile;Jack Harlow;88;0;1;88;True
+Pushin P;Gunna & Future Featuring Young Thug;7;68;18;89;False
+Flower Shops;ERNEST Featuring Morgan Wallen;64;83;16;90;False
+Me Or Sum;Nardo Wick, Lil Baby & Future;58;76;18;91;False
+Beers On Me;Dierks Bentley, BRELAND & HARDY;40;71;20;92;False
+Flowers;Lauren Spencer-Smith;55;73;4;93;False
+Fingers Crossed;Lauren Spencer-Smith;19;69;19;94;False
+The Motto;Tiesto & Ava Max;42;64;15;95;False
+Frozen;Lil Baby;54;54;2;96;False
+Young Harleezy;Jack Harlow;97;0;1;97;True
+23;Sam Hunt;50;75;20;98;False
+Poison;Jack Harlow Featuring Lil Wayne;99;0;1;99;True
+Honest;Justin Bieber & Don Toliver;44;44;2;100;False

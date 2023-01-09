@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+All Too Well (Taylor's Version);Taylor Swift;1;0;1;1;True
+Easy On Me;Adele;1;1;6;2;False
+Stay;The Kid LAROI & Justin Bieber;1;2;19;3;False
+Industry Baby;Lil Nas X & Jack Harlow;1;3;17;4;False
+Smokin Out The Window;Silk Sonic (Bruno Mars & Anderson .Paak);5;8;2;5;False
+Bad Habits;Ed Sheeran;2;4;21;6;False
+Shivers;Ed Sheeran;5;5;10;7;False
+Heat Waves;Glass Animals;8;10;44;8;False
+Need To Know;Doja Cat;8;9;23;9;False
+Fancy Like;Walker Hayes;3;7;22;10;False
+Cold Heart (PNAU Remix);Elton John & Dua Lipa;11;14;11;11;False
+Way 2 Sexy;Drake Featuring Future & Young Thug;1;12;11;12;False
+Good 4 U;Olivia Rodrigo;1;15;27;13;False
+You Right;Doja Cat & The Weeknd;11;19;21;14;False
+Essence;Wizkid Featuring Justin Bieber & Tems;9;16;20;15;False
+Beggin';Maneskin;13;17;21;16;False
+Levitating;Dua Lipa;2;18;59;17;False
+State Of Grace (Taylor's Version);Taylor Swift;18;0;1;18;True
+One Right Now;Post Malone & The Weeknd;6;6;2;19;False
+Already Dead;Juice WRLD;20;0;1;20;True
+Kiss Me More;Doja Cat Featuring SZA;3;20;32;21;False
+I Bet You Think About Me (Taylor's Version) (From The Vault);Taylor Swift Featuring Chris Stapleton;22;0;1;22;True
+Leave The Door Open;Silk Sonic (Bruno Mars & Anderson .Paak);1;46;37;23;False
+If I Didn't Love You;Jason Aldean & Carrie Underwood;15;21;17;24;False
+Red (Taylor's Version);Taylor Swift;25;0;1;25;True
+Save Your Tears;The Weeknd & Ariana Grande;1;22;49;26;False
+Knife Talk;Drake Featuring 21 Savage & Project Pat;4;23;11;27;False
+Meet Me At Our Spot;THE ANXIETY: WILLOW & Tyler Cole;21;27;10;28;False
+Better Days;NEIKED X Mae Muller X Polo G;29;29;5;29;False
+Thinking 'Bout You;Dustin Lynch Featuring Lauren Alaina Or MacKenzie Porter;30;40;14;30;False
+Girls Want Girls;Drake Featuring Lil Baby;2;28;11;31;False
+Cold As You;Luke Combs;32;39;16;32;False
+Ghost;Justin Bieber;32;36;8;33;False
+Love Nwantiti (Ah Ah Ah);CKay;31;32;9;34;False
+Chasing After You;Ryan Hurd With Maren Morris;23;24;29;35;False
+All I Want For Christmas Is You;Mariah Carey;1;0;45;36;False
+My Universe;Coldplay x BTS;1;43;8;37;False
+Buy Dirt;Jordan Davis Featuring Luke Bryan;30;30;15;38;False
+Thats What I Want;Lil Nas X;10;38;9;39;False
+Happier Than Ever;Billie Eilish;11;31;16;40;False
+Pepas;Farruko;25;37;17;41;False
+You Should Probably Leave;Chris Stapleton;39;47;20;42;False
+Nothing New (Taylor's Version) (From The Vault);Taylor Swift Featuring Phoebe Bridgers;43;0;1;43;True
+Who Want Smoke??;Nardo Wick Featuring G Herbo, Lil Durk & 21 Savage;17;35;6;44;False
+Message In A Bottle (Taylor's Version) (From The Vault);Taylor Swift;45;0;1;45;True
+I Knew You Were Trouble (Taylor's Version);Taylor Swift;46;0;1;46;True
+Run (Taylor's Version) (From The Vault);Taylor Swift Featuring Ed Sheeran;47;0;1;47;True
+Montero (Call Me By Your Name);Lil Nas X;1;42;34;48;False
+Bad Man (Smooth Criminal);Polo G;49;0;1;49;True
+Same Boat;Zac Brown Band;48;51;9;50;False
+Better Man (Taylor's Version) (From The Vault);Taylor Swift;51;0;1;51;True
+22 (Taylor's Version);Taylor Swift;52;0;1;52;True
+Doin' This;Luke Combs;53;0;1;53;True
+Treacherous (Taylor's Version);Taylor Swift;54;0;1;54;True
+We Are Never Ever Getting Back Together (Taylor's Version);Taylor Swift;55;0;1;55;True
+No Love;Summer Walker & SZA;13;13;2;56;False
+Wild Side;Normani Featuring Cardi B;14;53;18;57;False
+Have Mercy;Chloe;28;55;10;58;False
+I Almost Do (Taylor's Version);Taylor Swift;59;0;1;59;True
+Chosen;Blxst & Tyga Featuring Ty Dolla $ign;53;61;8;60;False
+The Very First Night (Taylor's Version) (From The Vault);Taylor Swift;61;0;1;61;True
+Family Ties;Baby Keem & Kendrick Lamar;18;57;12;62;False
+Everything Has Changed (Taylor's Version);Taylor Swift Featuring Ed Sheeran;63;0;1;63;True
+Sand In My Boots;Morgan Wallen;32;69;18;64;False
+Gyalis;Capella Grey;38;58;16;65;False
+The Last Time (Taylor's Version);Taylor Swift Featuring Gary Lightbody Of Snow Patrol;66;0;1;66;True
+Stay Stay Stay (Taylor's Version);Taylor Swift;67;0;1;67;True
+After Last Night;Silk Sonic (Bruno Mars & Anderson .Paak) With Thundercat & Bootsy Collins;68;0;1;68;True
+Babe (Taylor's Version) (From The Vault);Taylor Swift;69;0;1;69;True
+Sharing Locations;Meek Mill Featuring Lil Baby & Lil Durk;22;62;12;70;False
+Escape Plan;Travis Scott;11;11;2;71;False
+One Mississippi;Kane Brown;59;63;8;72;False
+Blast Off;Silk Sonic (Bruno Mars & Anderson .Paak);73;0;1;73;True
+Knowing You;Kenny Chesney;57;67;14;74;False
+Skate;Silk Sonic (Bruno Mars & Anderson .Paak);14;0;9;75;False
+Holy Ground (Taylor's Version);Taylor Swift;76;0;1;76;True
+Begin Again (Taylor's Version);Taylor Swift;77;0;1;77;True
+Put On A Smile;Silk Sonic (Bruno Mars & Anderson .Paak);78;0;1;78;True
+Forever Winter (Taylor's Version) (From The Vault);Taylor Swift;79;0;1;79;True
+Whiskey And Rain;Michael Ray;67;75;7;80;False
+Fly As Me;Silk Sonic (Bruno Mars & Anderson .Paak);81;0;1;81;True
+Super Gremlin;Kodak Black;82;97;2;82;False
+The Moment I Knew (Taylor's Version);Taylor Swift;83;0;1;83;True
+The Lucky One (Taylor's Version);Taylor Swift;84;0;1;84;True
+Sad Beautiful Tragic (Taylor's Version);Taylor Swift;85;0;1;85;True
+Fair Trade;Drake Featuring Travis Scott;3;66;11;86;False
+Come Back...Be Here (Taylor's Version);Taylor Swift;87;0;1;87;True
+Sad Girlz Luv Money;Amaarae & Moliy Featuring Kali Uchis;80;80;2;88;False
+Tequila Little Time;Jon Pardi;68;78;6;89;False
+Starlight (Taylor's Version);Taylor Swift;90;0;1;90;True
+Bubbly;Young Thug With Drake & Travis Scott;20;74;5;91;False
+Ex For A Reason;Summer Walker & JT;33;33;3;92;False
+Freedom Was A Highway;Jimmie Allen & Brad Paisley;82;84;6;93;False
+La Fama;Rosalia Featuring The Weeknd;94;0;1;94;True
+Big Energy;Latto;76;86;4;95;False
+Moth To A Flame;Swedish House Mafia & The Weeknd;27;71;4;96;False
+'Til You Can't;Cody Johnson;65;82;6;97;False
+Woman;Doja Cat;62;83;16;98;False
+Take My Breath;The Weeknd;6;70;15;99;False
+For Tonight;Giveon;80;92;7;100;False

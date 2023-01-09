@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+Anti-Hero;Taylor Swift;1;1;4;1;False
+Rich Flex;Drake & 21 Savage;2;2;2;2;False
+Unholy;Sam Smith & Kim Petras;1;10;8;3;False
+Bad Habit;Steve Lacy;1;13;20;4;False
+As It Was;Harry Styles;1;17;33;5;False
+Major Distribution;Drake & 21 Savage;3;3;2;6;False
+I'm Good (Blue);David Guetta & Bebe Rexha;7;20;12;7;False
+Lift Me Up;Rihanna;2;22;3;8;False
+Spin Bout U;Drake & 21 Savage;5;5;2;9;False
+On BS;Drake & 21 Savage;4;4;2;10;False
+Super Freaky Girl;Nicki Minaj;1;21;14;11;False
+Die For You;The Weeknd;12;34;16;12;False
+You Proof;Morgan Wallen;5;25;27;13;False
+Circo Loco;Drake & 21 Savage;8;8;2;14;False
+Pussy & Millions;Drake & 21 Savage Featuring Travis Scott;6;6;2;15;False
+I Like You (A Happier Song);Post Malone Featuring Doja Cat;3;24;24;16;False
+Under The Influence;Chris Brown;17;32;10;17;False
+Vegas;Doja Cat;10;29;24;18;False
+Something In The Orange;Zach Bryan;12;26;30;19;False
+Cuff It;Beyonce;13;38;14;20;False
+Lavender Haze;Taylor Swift;2;23;4;21;False
+Privileged Rappers;Drake & 21 Savage;7;7;2;22;False
+Wasted On You;Morgan Wallen;9;37;53;23;False
+I Ain't Worried;OneRepublic;6;28;23;24;False
+All I Want For Christmas Is You;Mariah Carey;1;0;52;25;False
+BackOutsideBoyz;Drake;9;9;2;26;False
+Jimmy Cooks;Drake Featuring 21 Savage;1;31;22;27;False
+Sunroof;Nicky Youre & dazy;4;35;25;28;False
+Tomorrow 2;GloRilla & Cardi B;9;49;8;29;False
+Wait For U;Future Featuring Drake & Tems;1;41;29;30;False
+She Had Me At Heads Carolina;Cole Swindell;16;47;25;31;False
+Titi Me Pregunto;Bad Bunny;5;43;28;32;False
+Midnight Rain;Taylor Swift;5;30;4;33;False
+Broke Boys;Drake & 21 Savage;12;12;2;34;False
+Bejeweled;Taylor Swift;6;33;4;35;False
+The Kind Of Love We Make;Luke Combs;8;45;22;36;False
+Hours In Silence;Drake & 21 Savage;11;11;2;37;False
+About Damn Time;Lizzo;1;48;31;38;False
+Maroon;Taylor Swift;3;36;4;39;False
+Made You Look;Meghan Trainor;40;61;4;40;False
+Rockin' Around The Christmas Tree;Brenda Lee;2;0;46;41;False
+Golden Hour;JVKE;42;57;12;42;False
+Thank God;Kane Brown With Katelyn Brown;22;52;10;43;False
+Unstoppable;Sia;28;50;20;44;False
+Karma;Taylor Swift;9;39;4;45;False
+Hold Me Closer;Elton John & Britney Spears;6;55;12;46;False
+Just Wanna Rock;Lil Uzi Vert;44;44;5;47;False
+You're On Your Own, Kid;Taylor Swift;8;42;4;48;False
+Snow On The Beach;Taylor Swift Featuring Lana Del Rey;4;40;4;49;False
+Jingle Bell Rock;Bobby Helms;3;0;43;50;False
+Wait In The Truck;HARDY Featuring Lainey Wilson;51;75;11;51;False
+Jumbotron Shit Poppin;Drake;16;16;2;52;False
+Half Of Me;Thomas Rhett Featuring Riley Green;52;60;13;53;False
+Fall In Love;Bailey Zimmerman;29;59;29;54;False
+Shirt;SZA;11;46;3;55;False
+Until I Found You;Stephen Sanchez;38;64;20;56;False
+Rock And A Hard Place;Bailey Zimmerman;24;58;23;57;False
+Treacherous Twins;Drake & 21 Savage;14;14;2;58;False
+Hotel Lobby (Unc And Phew);Quavo & Takeoff;59;62;19;59;False
+What My World Spins Around;Jordan Davis;41;63;14;60;False
+Victoria's Secret;Jax;35;66;16;61;False
+Vigilante Shit;Taylor Swift;10;51;4;62;False
+Son Of A Sinner;Jelly Roll;31;69;20;63;False
+Star Walkin' (League Of Legends Worlds Anthem);Lil Nas X;32;68;8;64;False
+Question...?;Taylor Swift;7;56;4;65;False
+Don't Come Lookin';Jackson Dean;50;70;12;66;False
+Middle Of The Ocean;Drake;15;15;2;67;False
+Romantic Homicide;d4vd;33;72;11;68;False
+More M’s;Drake & 21 Savage;18;18;2;69;False
+Mastermind;Taylor Swift;13;65;4;70;False
+Billie Eilish.;Armani White;58;74;10;71;False
+Die For You;Joji;53;53;2;72;False
+Labyrinth;Taylor Swift;14;67;4;73;False
+Whiskey On You;Nate Smith;44;82;22;74;False
+Free Mind;Tems;46;79;18;75;False
+California Breeze;Lil Baby;4;73;5;76;False
+Sweet Nothing;Taylor Swift;15;71;4;77;False
+Heyy;Lil Baby;21;77;6;78;False
+No Se Va;Grupo Frontera;57;81;8;79;False
+Would've, Could've, Should've;Taylor Swift;20;76;4;80;False
+I Guess It's Fuck Me;Drake;19;19;2;81;False
+Calm Down;Rema & Selena Gomez;74;88;11;82;False
+All Mine;Brent Faiyaz;42;86;15;83;False
+Freestyle;Lil Baby;63;92;10;84;False
+Country On;Luke Bryan;72;95;13;85;False
+Heart Like A Truck;Lainey Wilson;86;0;1;86;True
+Miss You;Oliver Tree & Robin Schulz;84;89;4;87;False
+Wishful Drinking;Ingrid Andress With Sam Hunt;47;78;20;88;False
+Music For A Sushi Restaurant;Harry Styles;8;80;18;89;False
+Pick Me Up;Gabby Barrett;69;93;16;90;False
+Break My Heart;Rod Wave;91;0;1;91;True
+La Bachata;Manuel Turizo;67;96;13;92;False
+Forever;Lil Baby Featuring Fridayy;8;84;5;93;False
+Last Last;Burna Boy;44;91;19;94;False
+3AM On Glenwood;21 Savage;27;27;2;95;False
+The Great War;Taylor Swift;26;87;4;96;False
+Gotta Move On;Diddy & Bryson Tiller;79;99;7;97;False
+Forget Me;Lewis Capaldi;95;0;5;98;False
+Going, Going, Gone;Luke Combs;99;0;1;99;True
+Bigger Than The Whole Sky;Taylor Swift;21;85;4;100;False

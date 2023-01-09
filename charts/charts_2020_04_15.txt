@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+Toosie Slide;Drake;1;0;1;1;True
+Blinding Lights;The Weeknd;1;1;19;2;False
+The Box;Roddy Ricch;1;2;18;3;False
+Don't Start Now;Dua Lipa;2;3;23;4;False
+Life Is Good;Future Featuring Drake;2;5;13;5;False
+Circles;Post Malone;1;4;32;6;False
+Adore You;Harry Styles;6;6;18;7;False
+Say So;Doja Cat Featuring Nicki Minaj;7;7;14;8;False
+Intentions;Justin Bieber Featuring Quavo;8;8;9;9;False
+Everything I Wanted;Billie Eilish;8;9;22;10;False
+Someone You Loved;Lewis Capaldi;1;10;48;11;False
+The Bones;Maren Morris;12;14;29;12;False
+My Oh My;Camila Cabello Featuring DaBaby;13;15;18;13;False
+Savage;Megan Thee Stallion;14;18;4;14;False
+Memories;Maroon 5;2;13;29;15;False
+Roxanne;Arizona Zervas;4;11;23;16;False
+Hot Girl Bummer;blackbear;11;16;30;17;False
+Blueberry Faygo;Lil Mosey;18;19;9;18;False
+Heartless;The Weeknd;1;12;20;19;False
+I Hope;Gabby Barrett Featuring Charlie Puth;20;22;15;20;False
+Dance Monkey;Tones And I;4;20;27;21;False
+Find My Way;DaBaby;22;0;1;22;True
+Falling;Trevor Daniel;23;25;21;23;False
+Nobody But You;Blake Shelton Duet With Gwen Stefani;24;32;13;24;False
+Heart On Ice;Rod Wave;25;30;22;25;False
+Ballin';Mustard & Roddy Ricch;11;24;38;26;False
+Chasin' You;Morgan Wallen;27;36;11;27;False
+RITMO (Bad Boys For Life);Black Eyed Peas X J Balvin;26;26;20;28;False
+Catch;Brett Young;29;40;11;29;False
+Roses;SAINt JHN;30;39;3;30;False
+High Fashion;Roddy Ricch Featuring Mustard;20;31;15;31;False
+Stupid Love;Lady Gaga;5;27;6;32;False
+Death Bed;Powfu Featuring beabadoobee;33;43;4;33;False
+10,000 Hours;Dan + Shay & Justin Bieber;4;28;27;34;False
+BOP;DaBaby;11;29;28;35;False
+Whats Poppin;Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne;36;49;9;36;False
+More Hearts Than Mine;Ingrid Andress;37;44;15;37;False
+No Guidance;Chris Brown Featuring Drake;5;35;44;38;False
+Break My Heart;Dua Lipa;21;21;2;39;False
+Hard To Forget;Sam Hunt;40;91;2;40;False
+I Love Me;Demi Lovato;18;41;5;41;False
+Slow Dance In A Parking Lot;Jordan Davis;37;37;14;42;False
+Suicidal;YNW Melly & Juice WRLD;20;33;19;43;False
+Sunday Best;Surfaces;44;52;6;44;False
+Slide;H.E.R. Featuring YG;45;45;16;45;False
+Turks;NAV, Gunna & Travis Scott;17;17;2;46;False
+In Your Eyes;The Weeknd;16;42;3;47;False
+Homesick;Kane Brown;35;38;21;48;False
+BEST ON EARTH;Russ & BIA;46;48;18;49;False
+Does To Me;Luke Combs Featuring Eric Church;50;59;4;50;False
+I Hope You're Happy Now;Carly Pearce & Lee Brice;51;58;14;51;False
+You Should Be Sad;Halsey;26;34;13;52;False
+Godzilla;Eminem Featuring Juice WRLD;3;47;12;53;False
+Beer Can't Fix;Thomas Rhett Featuring Jon Pardi;54;56;4;54;False
+Dior;Pop Smoke;30;54;8;55;False
+Sum 2 Prove;Lil Baby;16;55;13;56;False
+Homemade;Jake Owen;39;51;11;57;False
+Believe It;PARTYNEXTDOOR & Rihanna;23;23;2;58;False
+Yo Perreo Sola;Bad Bunny;53;53;4;59;False
+Walk Em Down;NLE Choppa Featuring Roddy Ricch;57;57;3;60;False
+Supalonely;BENEE Featuring Gus Dapperton;61;62;4;61;False
+What She Wants Tonight;Luke Bryan;46;50;16;62;False
+Before You Go;Lewis Capaldi;63;66;10;63;False
+Fuck The World;Rod Wave;64;0;1;64;True
+Heartless;Diplo Presents Thomas Wesley Featuring Morgan Wallen;65;68;11;65;False
+Tusa;Karol G & Nicki Minaj;42;64;19;66;False
+Pray 4 Love;Rod Wave;67;0;1;67;True
+Come Thru;Summer Walker & Usher;42;67;15;68;False
+After A Few;Travis Denning;69;78;2;69;False
+P*$$y Fairy (OTW);Jhene Aiko;40;65;12;70;False
+Be A Light;Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban;71;0;1;71;True
+Myron;Lil Uzi Vert;13;63;4;72;False
+Out West;JACKBOYS Featuring Young Thug;38;72;13;73;False
+Thief In The Night;Rod Wave;74;0;1;74;True
+The Other Side;SZA X Justin Timberlake;61;70;6;75;False
+Tycoon;Future;76;0;1;76;True
+I Remember;Rod Wave;77;0;1;77;True
+The Greatest;Rod Wave;78;0;1;78;True
+Underdog;Alicia Keys;69;69;3;79;False
+Oprah's Bank Account;Lil Yachty, Drake & DaBaby;55;74;5;80;False
+Bluebird;Miranda Lambert;81;0;1;81;True
+B.I.T.C.H.;Megan Thee Stallion;31;76;9;82;False
+If The World Was Ending;JP Saxe Featuring Julia Michaels;83;96;2;83;False
+Ribbon In The Sky;Rod Wave;84;0;1;84;True
+Emotionally Scarred;Lil Baby;31;73;6;85;False
+Safaera;Bad Bunny, Jowell & Randy & Nengo Flow;81;86;4;86;False
+That Way;Lil Uzi Vert;20;79;6;87;False
+The Man;Taylor Swift;23;90;7;88;False
+Last Time I Say Sorry;Kane Brown & John Legend;89;93;2;89;False
+After Hours;The Weeknd;20;61;7;90;False
+Ridin' Roads;Dustin Lynch;47;88;19;91;False
+P2;Lil Uzi Vert;11;75;5;92;False
+Here And Now;Kenny Chesney;93;0;1;93;True
+Yummy;Justin Bieber;2;84;14;94;False
+Thug Life;Rod Wave;95;0;1;95;True
+Heatin Up;Lil Baby & Gunna;18;95;6;96;False
+July;Noah Cyrus & Leon Bridges;91;100;6;97;False
+What A Man Gotta Do;Jonas Brothers;16;94;12;98;False
+No Weakness;Rod Wave;99;0;1;99;True
+Grace;Lil Baby & 42 Dugg;48;82;6;100;False

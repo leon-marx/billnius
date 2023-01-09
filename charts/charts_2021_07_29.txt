@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+Butter;BTS;1;7;9;1;False
+Good 4 U;Olivia Rodrigo;1;2;10;2;False
+Levitating;Dua Lipa;2;4;42;3;False
+Stay;The Kid LAROI & Justin Bieber;3;3;2;4;False
+Kiss Me More;Doja Cat Featuring SZA;3;5;15;5;False
+Bad Habits;Ed Sheeran;5;6;4;6;False
+Permission To Dance;BTS;1;1;2;7;False
+Montero (Call Me By Your Name);Lil Nas X;1;8;17;8;False
+Deja Vu;Olivia Rodrigo;3;10;16;9;False
+Save Your Tears;The Weeknd & Ariana Grande;1;9;32;10;False
+Peaches;Justin Bieber Featuring Daniel Caesar & Giveon;1;11;18;11;False
+Leave The Door Open;Silk Sonic (Bruno Mars & Anderson .Paak);1;12;20;12;False
+Rapstar;Polo G;1;14;15;13;False
+Wild Side;Normani Featuring Cardi B;14;0;1;14;True
+Fancy Like;Walker Hayes;15;21;5;15;False
+Heartbreak Anniversary;Giveon;16;18;23;16;False
+Blinding Lights;The Weeknd;1;17;85;17;False
+Astronaut In The Ocean;Masked Wolf;6;15;23;18;False
+You Right;Doja Cat & The Weeknd;11;19;4;19;False
+Without You;The Kid LAROI;8;20;33;20;False
+Forever After All;Luke Combs;2;22;39;21;False
+Every Chance I Get;DJ Khaled Featuring Lil Baby & Lil Durk;20;23;12;22;False
+Motley Crew;Post Malone;13;13;2;23;False
+Leave Before You Love Me;Marshmello X Jonas Brothers;24;28;9;24;False
+Thot Shit;Megan Thee Stallion;16;25;6;25;False
+Lil Bit;Nelly & Florida Georgia Line;23;29;18;26;False
+Single Saturday Night;Cole Swindell;26;27;12;27;False
+Famous Friends;Chris Young + Kane Brown;21;24;17;28;False
+Beautiful Mistakes;Maroon 5 Featuring Megan Thee Stallion;13;26;20;29;False
+Whole Lotta Money;BIA Featuring Nicki Minaj;16;16;2;30;False
+Ain't Shit;Doja Cat;24;34;4;31;False
+Heat Waves;Glass Animals;19;35;27;32;False
+Late At Night;Roddy Ricch;20;33;7;33;False
+Glad You Exist;Dan + Shay;31;31;24;34;False
+Beggin';Maneskin;35;41;4;35;False
+Blame It On You;Jason Aldean;30;30;13;36;False
+Drinkin' Beer. Talkin' God. Amen.;Chase Rice Featuring Florida Georgia Line;37;40;8;37;False
+Telepatia;Kali Uchis;25;36;22;38;False
+Traitor;Olivia Rodrigo;9;45;9;39;False
+Best Friend;Saweetie Featuring Doja Cat;14;32;28;40;False
+Mood;24kGoldn Featuring iann dior;1;43;50;41;False
+My Ex's Best Friend;Machine Gun Kelly X blackbear;20;44;49;42;False
+Drivers License;Olivia Rodrigo;1;42;28;43;False
+Yonaguni;Bad Bunny;10;38;7;44;False
+Todo de Ti;Rauw Alejandro;32;47;8;45;False
+Need To Know;Doja Cat;38;63;6;46;False
+Wants And Needs;Drake Featuring Lil Baby;2;37;20;47;False
+Wockesha;Moneybagg Yo;33;46;13;48;False
+Tell The Vision;Pop Smoke Featuring Kanye West & Pusha T;49;0;1;49;True
+Holy Smokes;Trippie Redd Featuring Lil Uzi Vert;50;0;1;50;True
+Things A Man Oughta Know;Lainey Wilson;51;59;10;51;False
+pov;Ariana Grande;27;48;20;52;False
+Settling Down;Miranda Lambert;41;54;19;53;False
+Bout A Million;Pop Smoke Featuring 21 Savage & 42 Dugg;54;0;1;54;True
+One Too Many;Keith Urban Duet With P!nk;52;52;32;55;False
+Ball If I Want To;DaBaby;39;51;5;56;False
+Arcade;Duncan Laurence;57;58;15;57;False
+Chasing After You;Ryan Hurd With Maren Morris;56;56;12;58;False
+Drunk (And I Don't Wanna Go Home);Elle King & Miranda Lambert;53;53;13;59;False
+You;Regard x Troye Sivan x Tate McRae;60;61;6;60;False
+Waves;Luke Bryan;61;73;5;61;False
+Way Less Sad;AJR;54;60;13;62;False
+Gone;Dierks Bentley;26;55;19;63;False
+Woo Baby;Pop Smoke Featuring Chris Brown;64;0;1;64;True
+We Didn't Have Much;Justin Moore;65;70;5;65;False
+Country Again;Thomas Rhett;66;71;12;66;False
+Essence;Wizkid Featuring Justin Bieber & Tems;67;72;3;67;False
+Favorite Crime;Olivia Rodrigo;16;57;9;68;False
+my.life;J. Cole, 21 Savage & Morray;2;65;10;69;False
+Memory;Kane Brown X blackbear;50;50;2;70;False
+Mr. Jones;Pop Smoke Featuring Future;71;0;1;71;True
+Straightenin;Migos;23;62;10;72;False
+AM;Nio Garcia X J Balvin X Bad Bunny;41;66;4;73;False
+Ski;Young Thug & Gunna;18;64;14;74;False
+NDA;Billie Eilish;39;39;2;75;False
+Happier;Olivia Rodrigo;15;68;9;76;False
+Tombstone;Rod Wave;11;81;17;77;False
+A-O-K;Tai Verdes;78;83;3;78;False
+Red Light Green Light;DaBaby;50;67;4;79;False
+More Time;Pop Smoke;80;0;1;80;True
+Hats Off;Lil Baby, Lil Durk & Travis Scott;16;75;7;81;False
+Manslaughter;Pop Smoke Featuring Rick Ross & The-Dream;82;0;1;82;True
+Minimum Wage;Blake Shelton;67;82;11;83;False
+Come Through;H.E.R. Featuring Chris Brown;64;79;7;84;False
+Fiel;Los Legendarios, Wisin & Jhay Cortez;62;77;6;85;False
+Demeanor;Pop Smoke Featuring Dua Lipa;86;0;1;86;True
+2055;Sleepy Hallow;87;0;1;87;True
+Brutal;Olivia Rodrigo;12;76;9;88;False
+Love Again;Dua Lipa;89;0;1;89;True
+I Was On A Boat That Day;Old Dominion;85;85;3;90;False
+WUSYANAME;Tyler, The Creator Featuring YoungBoy Never Broke Again & Ty Dolla $ign;14;69;4;91;False
+transparentsoul;Willow Featuring Travis Barker;76;93;6;92;False
+Am I The Only One;Aaron Lewis;14;0;2;93;False
+Twerkulator;City Girls;51;80;7;94;False
+My Boy;Elvie Shane;88;90;4;95;False
+Build A Bitch;Bella Poarch;56;84;10;96;False
+30;Pop Smoke Featuring Bizzy Banks;97;0;1;97;True
+You Should Probably Leave;Chris Stapleton;90;91;3;98;False
+Jealousy, Jealousy;Olivia Rodrigo;24;87;9;99;False
+Cold Beer Calling My Name;Jameson Rodgers Featuring Luke Combs;95;95;3;100;False

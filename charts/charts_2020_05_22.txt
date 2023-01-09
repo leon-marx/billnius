@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+Stuck With U;Ariana Grande & Justin Bieber;1;0;1;1;True
+Say So;Doja Cat Featuring Nicki Minaj;1;1;19;2;False
+Gooba;6ix9ine;3;0;1;3;True
+Blinding Lights;The Weeknd;1;3;24;4;False
+Savage;Megan Thee Stallion;2;2;9;5;False
+Toosie Slide;Drake;1;4;6;6;False
+The Box;Roddy Ricch;1;5;23;7;False
+Rockstar;DaBaby Featuring Roddy Ricch;8;9;4;8;False
+Don't Start Now;Dua Lipa;2;6;28;9;False
+Circles;Post Malone;1;8;37;10;False
+Intentions;Justin Bieber Featuring Quavo;8;10;14;11;False
+Adore You;Harry Styles;6;11;23;12;False
+Life Is Good;Future Featuring Drake;2;13;18;13;False
+The Bones;Maren Morris;12;15;34;14;False
+The Scotts;THE SCOTTS, Travis Scott & Kid Cudi;1;12;3;15;False
+Roses;SAINt JHN;16;20;8;16;False
+My Oh My;Camila Cabello Featuring DaBaby;12;16;23;17;False
+Someone You Loved;Lewis Capaldi;1;18;53;18;False
+Everything I Wanted;Billie Eilish;8;17;27;19;False
+Blueberry Faygo;Lil Mosey;16;22;14;20;False
+Chasin' You;Morgan Wallen;21;23;16;21;False
+Falling;Trevor Daniel;22;28;26;22;False
+I Hope;Gabby Barrett Featuring Charlie Puth;16;21;20;23;False
+Memories;Maroon 5;2;26;34;24;False
+Nobody But You;Blake Shelton Duet With Gwen Stefani;18;24;18;25;False
+High Fashion;Roddy Ricch Featuring Mustard;20;33;20;26;False
+Death Bed;Powfu Featuring beabadoobee;26;31;9;27;False
+Does To Me;Luke Combs Featuring Eric Church;28;36;9;28;False
+Sunday Best;Surfaces;28;37;11;29;False
+RITMO (Bad Boys For Life);Black Eyed Peas X J Balvin;26;38;25;30;False
+Break My Heart;Dua Lipa;21;40;7;31;False
+Whats Poppin;Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne;32;44;14;32;False
+Be Kind;Marshmello & Halsey;29;29;2;33;False
+I Hope You're Happy Now;Carly Pearce & Lee Brice;34;50;19;34;False
+Hot Girl Bummer;blackbear;11;43;35;35;False
+Beer Can't Fix;Thomas Rhett Featuring Jon Pardi;36;41;9;36;False
+Before You Go;Lewis Capaldi;37;53;15;37;False
+After A Few;Travis Denning;38;48;7;38;False
+Supalonely;BENEE Featuring Gus Dapperton;39;54;9;39;False
+Heart On Ice;Rod Wave;25;46;27;40;False
+Ballin';Mustard & Roddy Ricch;11;47;43;41;False
+Dance Monkey;Tones And I;4;49;32;42;False
+3 Headed Goat;Lil Durk Featuring Lil Baby & Polo G;43;0;1;43;True
+Hard To Forget;Sam Hunt;40;55;7;44;False
+Sum 2 Prove;Lil Baby;16;57;18;45;False
+Chicago Freestyle;Drake Featuring Giveon;14;14;2;46;False
+Level Of Concern;twenty one pilots;23;60;5;47;False
+Party Girl;StaySolidRocky;48;64;3;48;False
+Righteous;Juice WRLD;11;42;3;49;False
+Can I;Kehlani Featuring Tory Lanez;50;0;1;50;True
+Pain 1993;Drake Featuring Playboi Carti;7;7;2;51;False
+Walk Em Down;NLE Choppa Featuring Roddy Ricch;52;67;8;52;False
+Dior;Pop Smoke;30;63;13;53;False
+In Your Eyes;The Weeknd;16;62;8;54;False
+We Paid;Lil Baby & 42 Dugg;55;61;2;55;False
+Emotionally Scarred;Lil Baby;31;56;11;56;False
+Bluebird;Miranda Lambert;57;76;6;57;False
+Heartless;Diplo Presents Thomas Wesley Featuring Morgan Wallen;57;66;16;58;False
+Here And Now;Kenny Chesney;59;68;6;59;False
+Turks;NAV, Gunna & Travis Scott;17;91;7;60;False
+If The World Was Ending;JP Saxe Featuring Julia Michaels;59;71;7;61;False
+Ride It.;Regard;62;74;5;62;False
+After Party;Don Toliver;63;84;4;63;False
+Yo Perreo Sola;Bad Bunny;53;73;9;64;False
+Zoo York;Lil Tjay Featuring Fivio Foreign & Pop Smoke;65;0;1;65;True
+P*$$y Fairy (OTW);Jhene Aiko;40;79;17;66;False
+Out West;JACKBOYS Featuring Young Thug;38;77;18;67;False
+Toxic;Kehlani;68;0;1;68;True
+One Margarita;Luke Bryan;69;87;2;69;False
+Believe It;PARTYNEXTDOOR & Rihanna;23;80;7;70;False
+I'm Ready;Sam Smith & Demi Lovato;36;72;4;71;False
+In Between;Scotty McCreery;72;85;5;72;False
+More Hearts Than Mine;Ingrid Andress;30;69;20;73;False
+I Love My Country;Florida Georgia Line;74;99;4;74;False
+I Love Me;Demi Lovato;18;70;10;75;False
+Go Crazy;Chris Brown & Young Thug;76;0;1;76;True
+D4L;Future, Drake & Young Thug;19;19;2;77;False
+Godzilla;Eminem Featuring Juice WRLD;3;82;17;78;False
+All In;Lil Baby;45;59;3;79;False
+Change Your Life;Kehlani Featuring Jhene Aiko;80;0;1;80;True
+God Whispered Your Name;Keith Urban;81;89;4;81;False
+Die From A Broken Heart;Maddie & Tae;80;94;5;82;False
+Catch;Brett Young;29;78;16;83;False
+Don't Rush;Young T & Bugsey Featuring Headie One;84;100;2;84;False
+Desires;Drake Featuring Future;27;27;2;85;False
+Be A Light;Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban;71;95;6;86;False
+Jump;DaBaby Featuring YoungBoy Never Broke Again;17;83;4;87;False
+Me Vs Me;Moneybagg Yo;88;0;1;88;True
+Drinking Alone;Carrie Underwood;89;0;2;89;False
+Six Feet Apart;Luke Combs;58;58;2;90;False
+Viral Moment;Lil Durk;91;0;1;91;True
+Sigues Con El;Arcangel x Sech;78;0;2;92;False
+Homemade;Jake Owen;39;92;16;93;False
+Time Flies;Drake;30;30;2;94;False
+Grace;Lil Baby & 42 Dugg;48;88;9;95;False
+Slow Dance In A Parking Lot;Jordan Davis;37;90;19;96;False
+You Should Be Sad;Halsey;26;93;18;97;False
+That Way;Lil Uzi Vert;20;0;10;98;False
+Demons;Drake Featuring Fivio Foreign & Sosa Geek;34;34;2;99;False
+July;Noah Cyrus & Leon Bridges;85;0;10;100;False

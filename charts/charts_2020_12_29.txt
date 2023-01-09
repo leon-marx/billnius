@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+All I Want For Christmas Is You;Mariah Carey;1;2;43;1;False
+Rockin' Around The Christmas Tree;Brenda Lee;2;3;38;2;False
+Jingle Bell Rock;Bobby Helms;3;4;35;3;False
+A Holly Jolly Christmas;Burl Ives;4;6;19;4;False
+It's The Most Wonderful Time Of The Year;Andy Williams;5;7;20;5;False
+Feliz Navidad;Jose Feliciano;6;10;14;6;False
+Mood;24kGoldn Featuring iann dior;1;5;20;7;False
+Let It Snow, Let It Snow, Let It Snow;Dean Martin;8;11;13;8;False
+Last Christmas;Wham!;9;14;19;9;False
+Run Rudolph Run;Chuck Berry;10;29;8;10;False
+The Christmas Song (Merry Christmas To You);Nat King Cole;11;15;26;11;False
+Underneath The Tree;Kelly Clarkson;12;28;9;12;False
+Sleigh Ride;The Ronettes;13;19;11;13;False
+Positions;Ariana Grande;1;8;9;14;False
+It's Beginning To Look A Lot Like Christmas;Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra;12;12;8;15;False
+Rudolph The Red-Nosed Reindeer;Gene Autry;16;31;12;16;False
+Santa Tell Me;Ariana Grande;17;32;8;17;False
+Happy Holiday / The Holiday Season;Andy Williams;18;26;8;18;False
+Christmas (Baby Please Come Home);Darlene Love;19;37;7;19;False
+White Christmas;Bing Crosby;12;38;20;20;False
+Holy;Justin Bieber Featuring Chance The Rapper;3;13;14;21;False
+(There's No Place Like) Home For The Holidays (1959);Perry Como With Mitchell Ayers And His Orchestra;22;43;7;22;False
+It's Beginning To Look A Lot Like Christmas;Michael Buble;23;42;5;23;False
+Go Crazy;Chris Brown & Young Thug;9;16;33;24;False
+Laugh Now Cry Later;Drake Featuring Lil Durk;2;17;19;25;False
+Here Comes Santa Claus (Right Down Santa Claus Lane);Gene Autry;26;69;10;26;False
+Levitating;Dua Lipa;20;27;12;27;False
+Wonderful Christmastime;Paul McCartney;28;46;4;28;False
+For The Night;Pop Smoke Featuring Lil Baby & DaBaby;6;25;25;29;False
+I Hope;Gabby Barrett Featuring Charlie Puth;3;20;52;30;False
+Lemonade;Internet Money & Gunna Featuring Don Toliver & NAV;6;24;19;31;False
+You're A Mean One, Mr. Grinch;Thurl Ravenscroft;32;0;2;32;False
+Blue Christmas;Elvis Presley;33;0;3;33;False
+Dakiti;Bad Bunny & Jhay Cortez;5;23;8;34;False
+Body;Megan Thee Stallion;12;22;5;35;False
+Mele Kalikimaka (Merry Christmas);Bing Crosby & The Andrews Sisters;36;0;1;36;True
+Bang!;AJR;24;33;25;37;False
+Willow;Taylor Swift;1;1;2;38;False
+This Christmas;Donny Hathaway;39;0;1;39;True
+34+35;Ariana Grande Feat. Doja Cat & Megan Thee Stallion;8;35;8;40;False
+Kings & Queens;Ava Max;13;30;20;41;False
+Therefore I Am;Billie Eilish;2;36;7;42;False
+Deck The Halls;Nat King Cole;43;47;2;43;False
+Dynamite;BTS;1;9;18;44;False
+Please Come Home For Christmas;Eagles;18;0;9;45;False
+Santa Claus Is Comin' To Town;Jackson 5;46;0;1;46;True
+Little Saint Nick;The Beach Boys;47;0;1;47;True
+Take Me Home For Christmas;Dan + Shay;48;58;3;48;False
+Have Yourself A Merry Little Christmas;Michael Buble;49;0;1;49;True
+I'll Be Home For Christmas;Bing Crosby;50;0;1;50;True
+What You Know Bout Love;Pop Smoke;25;48;16;51;False
+Whoopty;CJ;51;53;7;52;False
+Lonely;Justin Bieber & benny blanco;14;51;10;53;False
+Hallelujah;Carrie Underwood & John Legend;54;84;3;54;False
+WAP;Cardi B Featuring Megan Thee Stallion;1;55;20;55;False
+Holiday;Lil Nas X;37;56;6;56;False
+Better Together;Luke Combs;30;59;12;57;False
+On Me;Lil Baby;30;60;3;58;False
+Afterglow;Ed Sheeran;59;0;1;59;True
+Gnat;Eminem;60;0;1;60;True
+Rockin' Around The Christmas Tree;Justin Bieber;61;87;4;61;False
+Favorite Time Of Year;Carrie Underwood;62;99;4;62;False
+Hawai;Maluma & The Weeknd;12;65;18;63;False
+Monster;Shawn Mendes & Justin Bieber;8;62;5;64;False
+Diamonds;Sam Smith;40;66;14;65;False
+Starting Over;Chris Stapleton;25;72;17;66;False
+Cry Baby;Megan Thee Stallion Featuring DaBaby;67;95;3;67;False
+You Broke Me First.;Tate McRae;50;79;18;68;False
+My Ex's Best Friend;Machine Gun Kelly X blackbear;28;86;19;69;False
+Without You;The Kid LAROI;63;81;3;70;False
+Big, Big Plans;Chris Lane;42;73;12;71;False
+Mr. Right Now;21 Savage & Metro Boomin Featuring Drake;10;88;12;72;False
+Forever After All;Luke Combs;2;92;9;73;False
+Throat Baby (Go Baby);BRS Kash;69;97;10;74;False
+Under The Mistletoe;Kelly Clarkson & Brett Eldredge;59;0;3;75;False
+Tyler Herro;Jack Harlow;34;77;9;76;False
+Champagne Problems;Taylor Swift;21;21;2;77;False
+The First Noel;Gabby Barrett;78;0;1;78;True
+Love You Like I Used To;Russell Dickerson;31;83;16;79;False
+Champagne Night;Lady A;75;0;9;80;False
+Prisoner;Miley Cyrus Featuring Dua Lipa;54;94;5;81;False
+Good Time;Niko Moon;71;96;12;82;False
+7 Summers;Morgan Wallen;6;0;18;83;False
+Adderall (Corvette Corvette);Popp Hunna;84;0;1;84;True
+You're Mines Still;Yung Bleu Featuring Drake;52;0;3;85;False
+Tequila Shots;Kid Cudi;41;41;2;86;False
+Back To The Streets;Saweetie Featuring Jhene Aiko;76;0;5;87;False
+Bichota;Karol G;88;0;4;88;False
+Way Out;Jack Harlow Featuring Big Sean;74;74;2;89;False
+Hit Different;SZA Featuring Ty Dolla $ign;29;0;15;90;False
+'Tis The Damn Season;Taylor Swift;39;39;2;91;False
+Damage;H.E.R.;70;0;2;92;False
+Backdoor;Lil Durk;93;0;1;93;True
+Silent Night;Carrie Underwood;94;0;2;94;False
+Golden;Harry Styles;74;0;9;95;False
+Hole In The Bottle;Kelsea Ballerini;72;0;10;96;False
+No Body, No Crime;Taylor Swift Featuring HAIM;34;34;2;97;False
+Moonwalking In Calabasas;DDG;98;0;1;98;True
+Took Her To The O;King Von;47;0;6;99;False
+Put Your Records On;Ritt Momney;79;0;10;100;False

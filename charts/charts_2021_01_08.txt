@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+Mood;24kGoldn Featuring iann dior;1;7;21;1;False
+Positions;Ariana Grande;1;14;10;2;False
+Blinding Lights;The Weeknd;1;0;56;3;False
+Holy;Justin Bieber Featuring Chance The Rapper;3;21;15;4;False
+Dynamite;BTS;1;44;19;5;False
+Go Crazy;Chris Brown & Young Thug;6;24;34;6;False
+Laugh Now Cry Later;Drake Featuring Lil Durk;2;25;20;7;False
+I Hope;Gabby Barrett Featuring Charlie Puth;3;30;53;8;False
+All I Want For Christmas Is You;Mariah Carey;1;1;44;9;False
+Levitating;Dua Lipa;10;27;13;10;False
+Bang!;AJR;11;37;26;11;False
+Rockin' Around The Christmas Tree;Brenda Lee;2;2;39;12;False
+For The Night;Pop Smoke Featuring Lil Baby & DaBaby;6;29;26;13;False
+Lemonade;Internet Money & Gunna Featuring Don Toliver & NAV;6;31;20;14;False
+Jingle Bell Rock;Bobby Helms;3;3;36;15;False
+Kings & Queens;Ava Max;13;41;21;16;False
+A Holly Jolly Christmas;Burl Ives;4;4;20;17;False
+Therefore I Am;Billie Eilish;2;42;8;18;False
+34+35;Ariana Grande Feat. Doja Cat & Megan Thee Stallion;8;40;9;19;False
+Dakiti;Bad Bunny & Jhay Cortez;5;34;9;20;False
+Body;Megan Thee Stallion;12;35;6;21;False
+What You Know Bout Love;Pop Smoke;22;51;17;22;False
+Willow;Taylor Swift;1;38;3;23;False
+Better Together;Luke Combs;24;57;13;24;False
+Lonely;Justin Bieber & benny blanco;14;53;11;25;False
+Rockstar;DaBaby Featuring Roddy Ricch;1;0;36;26;False
+Whoopty;CJ;27;52;8;27;False
+It's The Most Wonderful Time Of The Year;Andy Williams;5;5;21;28;False
+Run Rudolph Run;Chuck Berry;10;10;9;29;False
+Before You Go;Lewis Capaldi;9;0;45;30;False
+Savage Love (Laxed - Siren Beat);Jawsh 685 x Jason Derulo;1;0;27;31;False
+Afterglow;Ed Sheeran;32;59;2;32;False
+More Than My Hometown;Morgan Wallen;15;0;27;33;False
+Whats Poppin;Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne;2;0;46;34;False
+Starting Over;Chris Stapleton;25;66;18;35;False
+WAP;Cardi B Featuring Megan Thee Stallion;1;55;21;36;False
+I Should Probably Go To Bed;Dan + Shay;37;0;21;37;False
+Good Days;SZA;38;0;1;38;True
+Feliz Navidad;Jose Feliciano;6;6;15;39;False
+Pretty Heart;Parker McCollum;36;0;21;40;False
+Let It Snow, Let It Snow, Let It Snow;Dean Martin;8;8;14;41;False
+Happy Anywhere;Blake Shelton Featuring Gwen Stefani;36;0;21;42;False
+Holiday;Lil Nas X;37;56;7;43;False
+The Christmas Song (Merry Christmas To You);Nat King Cole;11;11;27;44;False
+Monster;Shawn Mendes & Justin Bieber;8;64;6;45;False
+Diamonds;Sam Smith;40;65;15;46;False
+Watermelon Sugar;Harry Styles;1;0;38;47;False
+On Me;Lil Baby;30;58;4;48;False
+Hawai;Maluma & The Weeknd;12;63;19;49;False
+Underneath The Tree;Kelly Clarkson;12;12;10;50;False
+You Broke Me First.;Tate McRae;50;68;19;51;False
+Champagne Night;Lady A;52;80;10;52;False
+Still Trappin';Lil Durk & King Von;53;0;1;53;True
+Big, Big Plans;Chris Lane;42;71;13;54;False
+Forever After All;Luke Combs;2;73;10;55;False
+My Ex's Best Friend;Machine Gun Kelly X blackbear;28;69;20;56;False
+Cry Baby;Megan Thee Stallion Featuring DaBaby;57;67;4;57;False
+Hole In The Bottle;Kelsea Ballerini;58;96;11;58;False
+B.S.;Jhene Aiko Featuring H.E.R.;24;0;21;59;False
+Love You Like I Used To;Russell Dickerson;31;79;17;60;False
+Good Time;Niko Moon;61;82;13;61;False
+Backdoor;Lil Durk;62;93;2;62;False
+7 Summers;Morgan Wallen;6;83;19;63;False
+Mr. Right Now;21 Savage & Metro Boomin Featuring Drake;10;72;13;64;False
+Without You;The Kid LAROI;63;70;4;65;False
+Throat Baby (Go Baby);BRS Kash;66;74;11;66;False
+Prisoner;Miley Cyrus Featuring Dua Lipa;54;81;6;67;False
+Tyler Herro;Jack Harlow;34;76;10;68;False
+You're Mines Still;Yung Bleu Featuring Drake;52;85;4;69;False
+Hit Different;SZA Featuring Ty Dolla $ign;29;90;16;70;False
+Redman;Lil Durk;71;0;1;71;True
+Slay3r;Playboi Carti;72;0;1;72;True
+Stay Down;Lil Durk, 6LACK & Young Thug;73;0;2;73;False
+Adderall (Corvette Corvette);Popp Hunna;74;84;2;74;False
+Golden;Harry Styles;74;95;10;75;False
+Beers And Sunshine;Darius Rucker;76;0;3;76;False
+Back To The Streets;Saweetie Featuring Jhene Aiko;76;87;6;77;False
+Damage;H.E.R.;70;92;3;78;False
+Take You Dancing;Jason Derulo;79;0;4;79;False
+What's Your Country Song;Thomas Rhett;80;0;2;80;False
+Midnight Sky;Miley Cyrus;14;0;18;81;False
+Go2DaMoon;Playboi Carti Featuring Kanye West;82;0;1;82;True
+Ain't Always The Cowboy;Jon Pardi;55;0;17;83;False
+Put Your Records On;Ritt Momney;79;100;11;84;False
+Bichota;Karol G;85;88;5;85;False
+Refugee;Lil Durk;86;0;1;86;True
+Happy Does;Kenny Chesney;85;0;7;87;False
+Monsters;All Time Low Featuring Demi Lovato & blackbear;88;0;1;88;True
+Take Me Home For Christmas;Dan + Shay;48;48;4;89;False
+Vamp Anthem;Playboi Carti;90;0;1;90;True
+Down To One;Luke Bryan;91;0;1;91;True
+New N3on;Playboi Carti;92;0;1;92;True
+Death Ain't Easy;Lil Durk;93;0;1;93;True
+Took Her To The O;King Von;47;99;7;94;False
+Save Your Tears;The Weeknd & Ariana Grande;41;0;3;95;False
+So Done;The Kid LAROI;59;0;8;96;False
+Just The Way;Parmalee x Blanco Brown;97;0;1;97;True
+Way Out;Jack Harlow Featuring Big Sean;74;89;3;98;False
+M3tamorphosis;Playboi Carti Featuring Kid Cudi;99;0;1;99;True
+The Good Ones;Gabby Barrett;100;0;1;100;True

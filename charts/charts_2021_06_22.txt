@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+Butter;BTS;1;1;4;1;False
+Good 4 U;Olivia Rodrigo;1;2;5;2;False
+Levitating;Dua Lipa;2;3;37;3;False
+Kiss Me More;Doja Cat Featuring SZA;4;7;10;4;False
+Peaches;Justin Bieber Featuring Daniel Caesar & Giveon;1;4;13;5;False
+Leave The Door Open;Silk Sonic (Bruno Mars & Anderson .Paak);1;5;15;6;False
+Save Your Tears;The Weeknd & Ariana Grande;1;6;27;7;False
+Astronaut In The Ocean;Masked Wolf;6;8;18;8;False
+Montero (Call Me By Your Name);Lil Nas X;1;11;12;9;False
+Deja Vu;Olivia Rodrigo;3;9;11;10;False
+Rapstar;Polo G;1;14;10;11;False
+Forever After All;Luke Combs;2;13;34;12;False
+Without You;The Kid LAROI;8;12;28;13;False
+Beautiful Mistakes;Maroon 5 Featuring Megan Thee Stallion;14;18;15;14;False
+Having Our Way;Migos Featuring Drake;15;0;1;15;True
+Thot Shit;Megan Thee Stallion;16;0;1;16;True
+Blinding Lights;The Weeknd;1;15;80;17;False
+Yonaguni;Bad Bunny;10;10;2;18;False
+Drivers License;Olivia Rodrigo;1;17;23;19;False
+Best Friend;Saweetie Featuring Doja Cat;14;22;23;20;False
+Heat Waves;Glass Animals;21;24;22;21;False
+Heartbreak Anniversary;Giveon;17;23;18;22;False
+Straightenin;Migos;23;87;5;23;False
+Wants And Needs;Drake Featuring Lil Baby;2;37;15;24;False
+Traitor;Olivia Rodrigo;9;19;4;25;False
+No Return;Polo G Featuring The Kid LAROI & Lil Durk;26;0;1;26;True
+Avalanche;Migos;27;0;1;27;True
+Famous Friends;Chris Young + Kane Brown;28;38;12;28;False
+Calling My Phone;Lil Tjay Featuring 6LACK;3;25;18;29;False
+Telepatia;Kali Uchis;30;33;17;30;False
+Mood;24kGoldn Featuring iann dior;1;30;45;31;False
+Gone;Dierks Bentley;32;40;14;32;False
+pov;Ariana Grande;33;39;15;33;False
+Every Chance I Get;DJ Khaled Featuring Lil Baby & Lil Durk;20;32;7;34;False
+Late At Night;Roddy Ricch;20;20;2;35;False
+My Ex's Best Friend;Machine Gun Kelly X blackbear;20;42;44;36;False
+Lil Bit;Nelly & Florida Georgia Line;37;50;13;37;False
+Need To Know;Doja Cat;38;0;1;38;True
+Wockesha;Moneybagg Yo;33;36;8;39;False
+Happier;Olivia Rodrigo;15;28;4;40;False
+What You Know Bout Love;Pop Smoke;9;45;41;41;False
+Up;Cardi B;1;29;19;42;False
+Favorite Crime;Olivia Rodrigo;16;26;4;43;False
+Blame It On You;Jason Aldean;44;51;8;44;False
+Todo de Ti;Rauw Alejandro;45;53;3;45;False
+Beat Box;SpotemGottem Featuring Pooh Shiesty Or DaBaby;12;41;22;46;False
+Time Today;Moneybagg Yo;31;49;19;47;False
+Gang Gang;Polo G & Lil Wayne;33;88;4;48;False
+Hats Off;Lil Baby, Lil Durk & Travis Scott;16;16;2;49;False
+Settling Down;Miranda Lambert;47;55;14;50;False
+Track Star;Mooski;31;44;17;51;False
+Brutal;Olivia Rodrigo;12;35;4;52;False
+Black Hearted;Polo G;53;0;1;53;True
+Almost Maybes;Jordan Davis;51;59;21;54;False
+Nobody;Dylan Scott;50;52;16;55;False
+my.life;J. Cole, 21 Savage & Morray;2;47;5;56;False
+Glad You Exist;Dan + Shay;57;63;19;57;False
+Leave Before You Love Me;Marshmello X Jonas Brothers;58;69;4;58;False
+Painting Pictures;Polo G;59;0;1;59;True
+Single Saturday Night;Cole Swindell;60;72;7;60;False
+Modern Day;Migos;61;0;1;61;True
+Breaking Up Was Easy In The 90's;Sam Hunt;32;62;16;62;False
+Toxic;Polo G;63;0;1;63;True
+Solar Power;Lorde;64;0;1;64;True
+Malibu;Migos Featuring Polo G;65;0;1;65;True
+Ski;Young Thug & Gunna;18;66;9;66;False
+Build A Bitch;Bella Poarch;56;61;5;67;False
+Way Less Sad;AJR;68;83;8;68;False
+Jealousy, Jealousy;Olivia Rodrigo;24;57;4;69;False
+One Too Many;Keith Urban Duet With P!nk;62;78;27;70;False
+Type Shit;Migos & Cardi B;71;0;1;71;True
+Made For You;Jake Owen;32;74;17;72;False
+Enough For You;Olivia Rodrigo;14;54;4;73;False
+Arcade;Duncan Laurence;74;86;10;74;False
+No More Parties;Coi Leray Featuring Lil Durk;26;76;19;75;False
+Minimum Wage;Blake Shelton;69;81;6;76;False
+Lost Cause;Billie Eilish;27;27;2;77;False
+Drinkin' Beer. Talkin' God. Amen.;Chase Rice Featuring Florida Georgia Line;75;89;3;78;False
+Clueless;Polo G Featuring Pop Smoke & Fivio Foreign;79;0;1;79;True
+How It Feels;Lil Baby & Lil Durk;34;34;2;80;False
+Things A Man Oughta Know;Lainey Wilson;81;96;5;81;False
+Voice Of The Heroes;Lil Baby & Lil Durk;21;21;3;82;False
+Heart Of A Giant;Polo G Featuring Rod Wave;83;0;1;83;True
+pride.is.the.devil;J. Cole & Lil Baby;7;64;5;84;False
+Party Lyfe;Polo G Featuring DaBaby;85;0;1;85;True
+Go Part 1;Polo G Featuring G Herbo;86;0;1;86;True
+transparentsoul;Willow Featuring Travis Barker;87;0;1;87;True
+Epidemic;Polo G;47;0;4;88;False
+Boom;Polo G;89;0;1;89;True
+Drunk (And I Don't Wanna Go Home);Elle King & Miranda Lambert;79;98;8;90;False
+Quicksand;Morray;65;85;19;91;False
+Country Again;Thomas Rhett;73;97;7;92;False
+Fiel;Los Legendarios, Wisin & Jhay Cortez;93;0;1;93;True
+2040;Lil Baby & Lil Durk;31;31;2;94;False
+1 Step Forward, 3 Steps Back;Olivia Rodrigo;19;65;4;95;False
+Follow You;Imagine Dragons;68;90;11;96;False
+Bloody Canvas;Polo G;97;0;1;97;True
+Miss The Rage;Trippie Redd & Playboi Carti;11;82;6;98;False
+Still Runnin;Lil Baby, Lil Durk & Meek Mill;43;43;2;99;False
+You;Regard x Troye Sivan x Tate McRae;100;0;1;100;True

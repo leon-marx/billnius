@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+Unholy;Sam Smith & Kim Petras;1;2;4;1;False
+Bad Habit;Steve Lacy;1;1;16;2;False
+As It Was;Harry Styles;1;3;29;3;False
+California Breeze;Lil Baby;4;0;1;4;True
+I Like You (A Happier Song);Post Malone Featuring Doja Cat;3;4;20;5;False
+I Ain't Worried;OneRepublic;6;6;19;6;False
+You Proof;Morgan Wallen;5;5;23;7;False
+Forever;Lil Baby Featuring Fridayy;8;0;1;8;True
+Super Freaky Girl;Nicki Minaj;1;8;10;9;False
+Real Spill;Lil Baby;10;0;1;10;True
+Sunroof;Nicky Youre & dazy;4;7;21;11;False
+Something In The Orange;Zach Bryan;12;12;26;12;False
+Vegas;Doja Cat;10;10;20;13;False
+I'm Good (Blue);David Guetta & Bebe Rexha;14;16;8;14;False
+Pop Out;Lil Baby & Nardo Wick;15;0;1;15;True
+In A Minute;Lil Baby;14;40;28;16;False
+Wasted On You;Morgan Wallen;9;14;49;17;False
+Wait For U;Future Featuring Drake & Tems;1;13;25;18;False
+Never Hating;Lil Baby & Young Thug;19;0;1;19;True
+About Damn Time;Lizzo;1;11;27;20;False
+Heyy;Lil Baby;21;77;2;21;False
+Stand On It;Lil Baby;22;0;1;22;True
+The Kind Of Love We Make;Luke Combs;8;9;18;23;False
+Tomorrow 2;GloRilla & Cardi B;9;19;4;24;False
+Titi Me Pregunto;Bad Bunny;5;15;24;25;False
+Not Finished;Lil Baby;26;0;1;26;True
+Late Night Talking;Harry Styles;3;18;22;27;False
+She Had Me At Heads Carolina;Cole Swindell;16;20;21;28;False
+Under The Influence;Chris Brown;23;23;6;29;False
+Me Porto Bonito;Bad Bunny & Chencho Corleone;6;17;24;30;False
+Jimmy Cooks;Drake Featuring 21 Savage;1;22;18;31;False
+Perfect Timing;Lil Baby;32;0;1;32;True
+Cuff It;Beyonce;13;27;10;33;False
+Hold Me Closer;Elton John & Britney Spears;6;24;8;34;False
+Rock And A Hard Place;Bailey Zimmerman;24;31;19;35;False
+Fall In Love;Bailey Zimmerman;29;29;25;36;False
+Die For You;The Weeknd;33;33;12;37;False
+Thank God;Kane Brown With Katelyn Brown;22;26;6;38;False
+Unstoppable;Sia;28;28;16;39;False
+Poland;Lil Yachty;40;65;2;40;False
+5 Foot 9;Tyler Hubbard;22;25;19;41;False
+From Now On;Lil Baby Featuring Future;42;0;1;42;True
+Star Walkin' (League Of Legends Worlds Anthem);Lil Nas X;32;32;4;43;False
+First Class;Jack Harlow;1;30;28;44;False
+Waterfall Flow;Lil Baby;45;0;1;45;True
+Romantic Homicide;d4vd;33;36;7;46;False
+Victoria's Secret;Jax;35;35;12;47;False
+Until I Found You;Stephen Sanchez;38;38;16;48;False
+Son Of A Sinner;Jelly Roll;31;37;16;49;False
+Don't Come Lookin';Jackson Dean;50;52;8;50;False
+What My World Spins Around;Jordan Davis;41;41;10;51;False
+Everything;Lil Baby;52;0;1;52;True
+Bye Bye;Marshmello & Juice WRLD;53;0;1;53;True
+Double Down;Lil Baby;54;0;1;54;True
+Whiskey On You;Nate Smith;44;44;18;55;False
+Glimpse Of Us;Joji;8;34;19;56;False
+Cost To Be Alive;Lil Baby & Rylo Rodriguez;57;0;1;57;True
+Shiest Talk;Lil Baby Featuring Pooh Shiesty;58;0;1;58;True
+Betty (Get Money);Yung Gravy;30;39;15;59;False
+Wishful Drinking;Ingrid Andress With Sam Hunt;47;47;16;60;False
+Edging;Blink-182;61;0;1;61;True
+Golden Hour;JVKE;56;56;8;62;False
+Half Of Me;Thomas Rhett Featuring Riley Green;53;53;9;63;False
+Top Priority;Lil Baby;64;0;1;64;True
+Free Mind;Tems;46;50;14;65;False
+Staying Alive;DJ Khaled Featuring Drake & Lil Baby;5;49;11;66;False
+No Se Va;Grupo Frontera;57;57;4;67;False
+Back And Forth;Lil Baby & EST Gee;68;0;1;68;True
+Danger;Lil Baby;69;0;1;69;True
+Russian Roulette;Lil Baby;70;0;1;70;True
+Billie Eilish.;Armani White;58;58;6;71;False
+2 Be Loved (Am I Ready);Lizzo;55;55;10;72;False
+Last Last;Burna Boy;44;48;15;73;False
+Music For A Sushi Restaurant;Harry Styles;8;59;14;74;False
+Wait In The Truck;HARDY Featuring Lainey Wilson;54;54;7;75;False
+FR;Lil Baby;76;0;1;76;True
+Evergreen;Omar Apollo;51;60;5;77;False
+All Mine;Brent Faiyaz;42;62;11;78;False
+Gotta Move On;Diddy & Bryson Tiller;79;90;3;79;False
+No Fly Zone;Lil Baby;80;0;1;80;True
+Stop Playin;Lil Baby Featuring Jeremih;81;0;1;81;True
+La Bachata;Manuel Turizo;67;67;9;82;False
+Gatubela;Karol G x Maldy;37;66;8;83;False
+Freestyle;Lil Baby;63;63;6;84;False
+Left And Right;Charlie Puth Featuring Jung Kook;22;42;17;85;False
+Just Wanna Rock;Lil Uzi Vert;86;0;1;86;True
+Numb;Marshmello & Khalid;40;64;16;87;False
+Break My Soul;Beyonce;1;61;18;88;False
+Calm Down;Rema & Selena Gomez;74;74;7;89;False
+Pick Me Up;Gabby Barrett;69;70;12;90;False
+Country On;Luke Bryan;72;72;9;91;False
+Despecha;Rosalia;63;69;11;92;False
+She Likes It;Russell Dickerson & Jake Scott;63;73;29;93;False
+Tennessee Orange;Megan Moroney;75;75;3;94;False
+Snap;Rosa Linn;82;82;8;95;False
+Static;Steve Lacy;78;84;7;96;False
+Bzrp Music Sessions, Vol. 52;Bizarrap & Quevedo;79;79;9;97;False
+Soul;Lee Brice;83;85;6;98;False
+Forget Me;Lewis Capaldi;95;95;3;99;False
+Good Love;City Girls & Usher;70;86;5;100;False

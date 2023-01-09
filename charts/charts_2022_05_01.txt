@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+As It Was;Harry Styles;1;1;4;1;False
+First Class;Jack Harlow;1;2;3;2;False
+Heat Waves;Glass Animals;1;3;67;3;False
+Big Energy;Latto;3;4;27;4;False
+Enemy;Imagine Dragons X JID;5;5;23;5;False
+Stay;The Kid LAROI & Justin Bieber;1;6;42;6;False
+Woman;Doja Cat;7;8;39;7;False
+Ghost;Justin Bieber;5;10;31;8;False
+Super Gremlin;Kodak Black;3;9;25;9;False
+Thats What I Want;Lil Nas X;8;11;32;10;False
+Bad Habits;Ed Sheeran;2;12;44;11;False
+Shivers;Ed Sheeran;4;14;33;12;False
+abcdefu;GAYLE;3;13;23;13;False
+Cold Heart (PNAU Remix);Elton John & Dua Lipa;7;15;34;14;False
+Thousand Miles;The Kid LAROI;15;0;1;15;True
+Save Your Tears;The Weeknd & Ariana Grande;1;18;69;16;False
+One Right Now;Post Malone & The Weeknd;6;19;25;17;False
+Levitating;Dua Lipa;2;21;77;18;False
+Need To Know;Doja Cat;8;17;46;19;False
+MAMIII;Becky G X Karol G;15;24;11;20;False
+Bam Bam;Camila Cabello Featuring Ed Sheeran;21;25;8;21;False
+Industry Baby;Lil Nas X & Jack Harlow;1;23;40;22;False
+'Til You Can't;Cody Johnson;18;22;29;23;False
+Easy On Me;Adele;1;16;29;24;False
+In A Minute;Lil Baby;14;20;3;25;False
+Doin' This;Luke Combs;26;30;20;26;False
+Wasted On You;Morgan Wallen;9;31;24;27;False
+AA;Walker Hayes;28;32;16;28;False
+Plan B;Megan Thee Stallion;29;0;1;29;True
+Hrs And Hrs;Muni Long;16;26;18;30;False
+Boyfriend;Dove Cameron;31;37;11;31;False
+Sweetest Pie;Megan Thee Stallion & Dua Lipa;15;34;7;32;False
+Trouble With A Heartbreak;Jason Aldean;33;59;6;33;False
+Right On;Lil Baby;13;28;3;34;False
+Good 4 U;Olivia Rodrigo;1;33;50;35;False
+Provenza;Karol G;36;0;1;36;True
+Numb Little Bug;Em Beihold;37;40;13;37;False
+To The Moon!;JNR CHOI & Sam Tompkins;38;38;9;38;False
+I Hate U;SZA;7;36;21;39;False
+We Don't Talk About Bruno;Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast;1;27;18;40;False
+Never Say Never;Cole Swindell / Lainey Wilson;27;29;15;41;False
+Don't Think Jesus;Morgan Wallen;7;7;2;42;False
+You Right;Doja Cat & The Weeknd;11;39;43;43;False
+Fingers Crossed;Lauren Spencer-Smith;19;35;17;44;False
+Fancy Like;Walker Hayes;3;41;45;45;False
+Sand In My Boots;Morgan Wallen;30;42;41;46;False
+She's All I Wanna Be;Tate McRae;44;47;12;47;False
+The Motto;Tiesto & Ava Max;42;46;13;48;False
+What Happened To Virgil;Lil Durk Featuring Gunna;22;43;7;49;False
+When You're Gone;Shawn Mendes;38;48;4;50;False
+2step;Ed Sheeran Featuring Lil Baby;51;0;1;51;True
+Beers On Me;Dierks Bentley, BRELAND & HARDY;40;45;18;52;False
+Pushin P;Gunna & Future Featuring Young Thug;7;44;16;53;False
+Freaky Deaky;Tyga X Doja Cat;43;57;9;54;False
+Something In The Orange;Zach Bryan;55;0;1;55;True
+Peru;Fireboy DML & Ed Sheeran;53;54;13;56;False
+Hold That Heat;Southside, Travis Scott & Future;57;0;1;57;True
+If I Was A Cowboy;Miranda Lambert;53;53;13;58;False
+Scrape It Off;Pusha T Featuring Lil Uzi Vert & Don Toliver;59;0;1;59;True
+About Damn Time;Lizzo;50;50;2;60;False
+Tomorrow Me;Luke Combs;61;0;1;61;True
+Slow Down Summer;Thomas Rhett;43;64;10;62;False
+Never Wanted To Be That Girl;Carly Pearce & Ashley McBryde;63;66;16;63;False
+Light Switch;Charlie Puth;27;52;14;64;False
+23;Sam Hunt;50;58;18;65;False
+Me Or Sum;Nardo Wick, Lil Baby & Future;58;67;16;66;False
+Broadway Girls;Lil Durk Featuring Morgan Wallen;14;60;19;67;False
+Flowers;Lauren Spencer-Smith;55;55;2;68;False
+No Love;Summer Walker & SZA;13;62;17;69;False
+Flower Shops;ERNEST Featuring Morgan Wallen;64;65;14;70;False
+Nail Tech;Jack Harlow;18;56;10;71;False
+Give Heaven Some Hell;HARDY;69;69;9;72;False
+Get Into It (Yuh);Doja Cat;68;73;21;73;False
+Take My Name;Parmalee;74;75;4;74;False
+Surface Pressure;Jessica Darrow;8;63;18;75;False
+Neck & Wrist;Pusha T Featuring JAY-Z & Pharrell Williams;76;0;2;76;False
+Handsomer;Russ Featuring Ktlyn;40;70;8;77;False
+Rock N Roll;Pusha T Featuring Kanye West & Kid Cudi;78;0;1;78;True
+Ahhh Ha;Lil Durk;18;68;10;79;False
+Do We Have A Problem?;Nicki Minaj X Lil Baby;2;72;12;80;False
+Dreamin Of The Past;Pusha T Featuring Kanye West;81;0;1;81;True
+Circles Around This Town;Maren Morris;52;77;16;82;False
+Damn Strait;Scotty McCreery;76;76;4;83;False
+Envolver;Anitta;70;71;5;84;False
+Shake It;Kay Flock, Cardi B, Dougie B & Bory300;51;51;2;85;False
+I Love You So;The Walters;71;81;15;86;False
+Rumors;Gucci Mane Featuring Lil Durk;51;74;13;87;False
+She Likes It;Russell Dickerson & Jake Scott;86;89;6;88;False
+In My Head;Lil Tjay;33;78;4;89;False
+Soy El Unico;Yahritza y Su Esencia;20;80;5;90;False
+Leave You Alone;Kane Brown;86;86;2;91;False
+Out Of Time;The Weeknd;32;0;3;92;False
+Banking On Me;Gunna;61;88;10;93;False
+Come Back As A Country Boy;Blake Shelton;81;82;13;94;False
+Desesperados;Rauw Alejandro & Chencho Corleone;91;91;4;95;False
+Bones;Imagine Dragons;87;87;7;96;False
+Hate Our Love;Queen Naija & Big Sean;88;94;3;97;False
+Over;Lucky Daye;77;92;6;98;False
+City Of Gods;Fivio Foreign, Kanye West & Alicia Keys;46;84;10;99;False
+Brambleton;Pusha T;100;0;1;100;True

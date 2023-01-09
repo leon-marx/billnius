@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+As It Was;Harry Styles;1;0;1;1;True
+Heat Waves;Glass Animals;1;1;64;2;False
+Big Energy;Latto;3;3;24;3;False
+Stay;The Kid LAROI & Justin Bieber;1;2;39;4;False
+Enemy;Imagine Dragons X JID;5;5;20;5;False
+Super Gremlin;Kodak Black;3;4;22;6;False
+Ghost;Justin Bieber;5;6;28;7;False
+Woman;Doja Cat;8;10;36;8;False
+abcdefu;GAYLE;3;7;20;9;False
+Thats What I Want;Lil Nas X;8;9;29;10;False
+We Don't Talk About Bruno;Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast;1;8;15;11;False
+Bad Habits;Ed Sheeran;2;11;41;12;False
+Shivers;Ed Sheeran;4;13;30;13;False
+Easy On Me;Adele;1;12;26;14;False
+Cold Heart (PNAU Remix);Elton John & Dua Lipa;7;14;31;15;False
+Need To Know;Doja Cat;8;16;43;16;False
+Levitating;Dua Lipa;2;15;74;17;False
+Save Your Tears;The Weeknd & Ariana Grande;1;17;66;18;False
+One Right Now;Post Malone & The Weeknd;6;19;22;19;False
+Industry Baby;Lil Nas X & Jack Harlow;1;21;37;20;False
+'Til You Can't;Cody Johnson;18;18;26;21;False
+Good 4 U;Olivia Rodrigo;1;27;47;22;False
+Hrs And Hrs;Muni Long;16;24;15;23;False
+I Hate U;SZA;7;23;18;24;False
+Pushin P;Gunna & Future Featuring Young Thug;7;22;13;25;False
+MAMIII;Becky G X Karol G;15;26;8;26;False
+Doin' This;Luke Combs;27;28;17;27;False
+Bam Bam;Camila Cabello Featuring Ed Sheeran;23;34;5;28;False
+Fingers Crossed;Lauren Spencer-Smith;19;31;14;29;False
+Sweetest Pie;Megan Thee Stallion & Dua Lipa;15;32;4;30;False
+Light Switch;Charlie Puth;27;30;11;31;False
+You Right;Doja Cat & The Weeknd;11;33;40;32;False
+In My Head;Lil Tjay;33;0;1;33;True
+Never Say Never;Cole Swindell / Lainey Wilson;34;36;12;34;False
+AA;Walker Hayes;35;38;13;35;False
+Fancy Like;Walker Hayes;3;37;42;36;False
+Drunk (And I Don't Wanna Go Home);Elle King & Miranda Lambert;37;41;29;37;False
+When You're Gone;Shawn Mendes;38;0;1;38;True
+Buy Dirt;Jordan Davis Featuring Luke Bryan;22;35;35;39;False
+Boyfriend;Dove Cameron;40;47;8;40;False
+What Happened To Virgil;Lil Durk Featuring Gunna;22;25;4;41;False
+Wasted On You;Morgan Wallen;9;48;21;42;False
+Slow Down Summer;Thomas Rhett;43;55;7;43;False
+Beers On Me;Dierks Bentley, BRELAND & HARDY;40;43;15;44;False
+Sand In My Boots;Morgan Wallen;30;40;38;45;False
+She's All I Wanna Be;Tate McRae;44;44;9;46;False
+Numb Little Bug;Em Beihold;46;46;10;47;False
+Love Nwantiti (Ah Ah Ah);CKay;26;45;29;48;False
+The Motto;Tiesto & Ava Max;42;42;10;49;False
+To The Moon!;JNR CHOI & Sam Tompkins;50;54;6;50;False
+Surface Pressure;Jessica Darrow;8;39;15;51;False
+23;Sam Hunt;50;50;15;52;False
+Peru;Fireboy DML & Ed Sheeran;53;53;10;53;False
+Circles Around This Town;Maren Morris;52;52;13;54;False
+Ahhh Ha;Lil Durk;18;51;7;55;False
+No Love;Summer Walker & SZA;13;29;14;56;False
+Soy El Unico;Yahritza y Su Esencia;20;20;2;57;False
+Nail Tech;Jack Harlow;18;70;7;58;False
+Nobody Like U;4*TOWN (From Disney And Pixar's Turning Red);49;49;3;59;False
+Broadway Girls;Lil Durk Featuring Morgan Wallen;14;57;16;60;False
+Heart On Fire;Eric Church;56;61;20;61;False
+Me Or Sum;Nardo Wick, Lil Baby & Future;58;66;13;62;False
+Never Wanted To Be That Girl;Carly Pearce & Ashley McBryde;63;67;13;63;False
+Flower Shops;ERNEST Featuring Morgan Wallen;64;71;11;64;False
+Freaky Deaky;Tyga X Doja Cat;43;72;6;65;False
+The Family Madrigal;Stephanie Beatriz, Olga Merediz & Encanto Cast;20;60;14;66;False
+Thinking With My Dick;Kevin Gates Featuring Juicy J;37;56;4;67;False
+Do We Have A Problem?;Nicki Minaj X Lil Baby;2;69;9;68;False
+If I Was A Cowboy;Miranda Lambert;64;64;10;69;False
+Envolver;Anitta;70;74;2;70;False
+Stick;JID & J. Cole Featuring Kenny Mason & Sheck Wes;71;0;1;71;True
+Trouble With A Heartbreak;Jason Aldean;72;94;3;72;False
+Handsomer;Russ Featuring Ktlyn;40;63;5;73;False
+Rumors;Gucci Mane Featuring Lil Durk;51;75;10;74;False
+To Be Loved By You;Parker McCollum;41;62;19;75;False
+Dos Oruguitas;Sebastian Yatra;36;65;14;76;False
+Give Heaven Some Hell;HARDY;77;81;6;77;False
+Banking On Me;Gunna;61;82;7;78;False
+P Power;Gunna Featuring Drake;24;79;12;79;False
+Make Up Sex;Machine Gun Kelly X blackbear;59;59;2;80;False
+Come Back As A Country Boy;Blake Shelton;81;97;10;81;False
+Damn Strait;Scotty McCreery;82;0;1;82;True
+Petty Too;Lil Durk Featuring Future;26;83;4;83;False
+I Hate YoungBoy;YoungBoy Never Broke Again;79;0;4;84;False
+Over;Lucky Daye;77;77;3;85;False
+She Likes It;Russell Dickerson & Jake Scott;86;98;3;86;False
+Pressure;Ari Lennox;66;86;15;87;False
+Take My Name;Parmalee;88;0;1;88;True
+I Love You So;The Walters;71;90;12;89;False
+What Else Can I Do?;Diane Guerrero & Stephanie Beatriz;27;76;14;90;False
+Complete Mess;5 Seconds Of Summer;91;0;1;91;True
+Tom's Diner;AnnenMayKantereit & Giant Rooks;78;78;3;92;False
+Bones;Imagine Dragons;87;92;4;93;False
+Get Into It (Yuh);Doja Cat;68;0;18;94;False
+By Your Side;Rod Wave;58;93;19;95;False
+4KT Baby;YoungBoy Never Broke Again;96;0;1;96;True
+City Of Gods;Fivio Foreign, Kanye West & Alicia Keys;46;0;7;97;False
+Blood All On It;Gucci Mane Featuring Key Glock & Young Dolph;98;0;1;98;True
+Desesperados;Rauw Alejandro & Chencho Corleone;99;0;1;99;True
+Money So Big;Yeat;95;99;3;100;False

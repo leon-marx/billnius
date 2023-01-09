@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+All I Want For Christmas Is You;Mariah Carey;1;2;55;1;False
+Rockin' Around The Christmas Tree;Brenda Lee;2;3;49;2;False
+Jingle Bell Rock;Bobby Helms;3;5;46;3;False
+A Holly Jolly Christmas;Burl Ives;4;6;29;4;False
+Creepin';Metro Boomin, The Weeknd & 21 Savage;5;0;1;5;True
+Anti-Hero;Taylor Swift;1;1;7;6;False
+Unholy;Sam Smith & Kim Petras;1;4;11;7;False
+Superhero (Heroes & Villains);Metro Boomin, Future & Chris Brown;8;0;1;8;True
+Last Christmas;Wham!;7;10;28;9;False
+Rich Flex;Drake & 21 Savage;2;7;5;10;False
+It's The Most Wonderful Time Of The Year;Andy Williams;5;9;30;11;False
+Feliz Navidad;Jose Feliciano;6;13;23;12;False
+Bad Habit;Steve Lacy;1;8;23;13;False
+It's Beginning To Look A Lot Like Christmas;Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra;12;19;15;14;False
+Sleigh Ride;The Ronettes;10;16;19;15;False
+Underneath The Tree;Kelly Clarkson;12;17;18;16;False
+The Christmas Song (Merry Christmas To You);Nat King Cole;11;12;35;17;False
+I'm Good (Blue);David Guetta & Bebe Rexha;7;11;15;18;False
+Die For You;The Weeknd;12;15;19;19;False
+Santa Tell Me;Ariana Grande;17;24;15;20;False
+As It Was;Harry Styles;1;14;36;21;False
+Too Many Nights;Metro Boomin Featuring Don Toliver & Future;22;0;1;22;True
+Umbrella;Metro Boomin, 21 Savage & Young Nudy;23;0;1;23;True
+Let It Snow, Let It Snow, Let It Snow;Dean Martin;8;18;22;24;False
+Christmas (Baby Please Come Home);Darlene Love;16;23;14;25;False
+White Christmas;Bing Crosby;12;31;27;26;False
+Niagara Falls (Foot Or 2);Metro Boomin, Travis Scott & 21 Savage;27;0;1;27;True
+Cuff It;Beyonce;13;20;17;28;False
+Jingle Bells;Frank Sinatra;29;33;6;29;False
+Deck The Halls;Nat King Cole;30;30;5;30;False
+Raindrops (Insane);Metro Boomin & Travis Scott;31;0;1;31;True
+It's Beginning To Look A Lot Like Christmas;Michael Buble;20;29;12;32;False
+Under The Influence;Chris Brown;14;21;13;33;False
+You Proof;Morgan Wallen;5;25;30;34;False
+Lift Me Up;Rihanna;2;22;6;35;False
+Rudolph The Red-Nosed Reindeer;Gene Autry;16;34;19;36;False
+One Thing At A Time;Morgan Wallen;37;0;1;37;True
+Wasted On You;Morgan Wallen;9;32;56;38;False
+I Like You (A Happier Song);Post Malone Featuring Doja Cat;3;27;27;39;False
+Super Freaky Girl;Nicki Minaj;1;26;17;40;False
+Something In The Orange;Zach Bryan;12;28;33;41;False
+Trance;Metro Boomin, Travis Scott & Young Thug;42;0;1;42;True
+Metro Spider;Metro Boomin & Young Thug;43;0;1;43;True
+Here Comes Santa Claus (Right Down Santa Claus Lane);Gene Autry;26;39;12;44;False
+Blue Christmas;Elvis Presley;33;43;5;45;False
+Made You Look;Meghan Trainor;24;36;7;46;False
+Tomorrow 2;GloRilla & Cardi B;9;37;11;47;False
+On Time;Metro Boomin & John Legend;48;0;1;48;True
+Tennessee Fan;Morgan Wallen;49;0;1;49;True
+Wait For U;Future Featuring Drake & Tems;1;40;32;50;False
+Just Wanna Rock;Lil Uzi Vert;21;35;8;51;False
+Walk Em Down (Don't Kill Civilians);Metro Boomin & 21 Savage Featuring Mustafa;52;0;1;52;True
+Around Me;Metro Boomin Featuring Don Toliver;53;0;1;53;True
+Golden Hour;JVKE;35;41;15;54;False
+I Can't Save You (Interlude);Metro Boomin & Future Featuring Don Toliver;55;0;1;55;True
+Thank God;Kane Brown With Katelyn Brown;22;55;13;56;False
+Days That End In Why;Morgan Wallen;57;0;1;57;True
+Fall In Love;Bailey Zimmerman;29;51;32;58;False
+Feel The Fiyaaaah;Metro Boomin & A$AP Rocky Featuring Takeoff;59;0;1;59;True
+Until I Found You;Stephen Sanchez;38;54;23;60;False
+Lavender Haze;Taylor Swift;2;52;7;61;False
+Shirt;SZA;11;66;6;62;False
+Victoria's Secret;Jax;35;57;19;63;False
+Son Of A Sinner;Jelly Roll;31;60;23;64;False
+Rock And A Hard Place;Bailey Zimmerman;24;61;26;65;False
+All The Money (Bonus);Metro Boomin & Gunna;66;0;1;66;True
+What My World Spins Around;Jordan Davis;41;62;17;67;False
+La Jumpa;Arcangel & Bad Bunny;68;0;1;68;True
+Wait In The Truck;HARDY Featuring Lainey Wilson;51;65;14;69;False
+Spin Bout U;Drake & 21 Savage;5;53;5;70;False
+Star Walkin' (League Of Legends Worlds Anthem);Lil Nas X;32;63;11;71;False
+Lock On Me;Metro Boomin, Travis Scott & Future;72;0;1;72;True
+Circo Loco;Drake & 21 Savage;8;56;5;73;False
+Hold Me Closer;Elton John & Britney Spears;6;67;15;74;False
+On BS;Drake & 21 Savage;4;58;5;75;False
+Whiskey On You;Nate Smith;44;76;25;76;False
+Major Distribution;Drake & 21 Savage;3;59;5;77;False
+Free Mind;Tems;46;74;21;78;False
+Heart Like A Truck;Lainey Wilson;79;94;4;79;False
+Romantic Homicide;d4vd;33;72;14;80;False
+Someday At Christmas;Lizzo;81;96;2;81;False
+Pussy & Millions;Drake & 21 Savage Featuring Travis Scott;6;64;5;82;False
+Wild Flower;RM With Youjeen;83;0;1;83;True
+Billie Eilish.;Armani White;58;77;13;84;False
+All Mine;Brent Faiyaz;42;85;18;85;False
+Bejeweled;Taylor Swift;6;70;7;86;False
+Calm Down;Rema & Selena Gomez;74;87;14;87;False
+Midnight Rain;Taylor Swift;5;71;7;88;False
+Country On;Luke Bryan;72;89;16;89;False
+Heyy;Lil Baby;21;82;9;90;False
+Half Of Me;Thomas Rhett Featuring Riley Green;52;68;16;91;False
+Santa, Can't You Hear Me;Kelly Clarkson & Ariana Grande;92;0;1;92;True
+Maroon;Taylor Swift;3;73;7;93;False
+Going, Going, Gone;Luke Combs;94;99;4;94;False
+Last Christmas;Lauren Spencer-Smith;91;91;2;95;False
+Don't Come Lookin';Jackson Dean;50;69;15;96;False
+No Se Va;Grupo Frontera;57;84;11;97;False
+Blue Christmas;Kane Brown;98;0;1;98;True
+Freestyle;Lil Baby;63;90;13;99;False
+Escapism;RAYE Featuring 070 Shake;100;0;1;100;True

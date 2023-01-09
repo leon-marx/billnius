@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+All I Want For Christmas Is You;Mariah Carey;1;1;51;1;False
+Easy On Me;Adele;1;5;12;2;False
+Rockin' Around The Christmas Tree;Brenda Lee;2;2;45;3;False
+Jingle Bell Rock;Bobby Helms;3;3;42;4;False
+A Holly Jolly Christmas;Burl Ives;4;4;26;5;False
+Stay;The Kid LAROI & Justin Bieber;1;9;25;6;False
+Heat Waves;Glass Animals;7;15;50;7;False
+It's The Most Wonderful Time Of The Year;Andy Williams;5;6;27;8;False
+Shivers;Ed Sheeran;5;23;16;9;False
+Feliz Navidad;Jose Feliciano;6;8;20;10;False
+Last Christmas;Wham!;7;7;25;11;False
+Industry Baby;Lil Nas X & Jack Harlow;1;22;23;12;False
+It's Beginning To Look A Lot Like Christmas;Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra;12;17;12;13;False
+Need To Know;Doja Cat;8;24;29;14;False
+Sleigh Ride;The Ronettes;10;10;16;15;False
+Super Gremlin;Kodak Black;16;26;8;16;False
+abcdefu;GAYLE;15;27;6;17;False
+The Christmas Song (Merry Christmas To You);Nat King Cole;11;11;32;18;False
+Bad Habits;Ed Sheeran;2;31;27;19;False
+Cold Heart (PNAU Remix);Elton John & Dua Lipa;11;29;17;20;False
+Underneath The Tree;Kelly Clarkson;12;13;15;21;False
+Christmas (Baby Please Come Home);Darlene Love;16;16;12;22;False
+Santa Tell Me;Ariana Grande;17;18;13;23;False
+Rudolph The Red-Nosed Reindeer;Gene Autry;16;19;17;24;False
+White Christmas;Bing Crosby;12;21;25;25;False
+Run Rudolph Run;Chuck Berry;10;25;14;26;False
+Happy Holiday / The Holiday Season;Andy Williams;18;20;13;27;False
+Smokin Out The Window;Silk Sonic (Bruno Mars & Anderson .Paak);5;32;8;28;False
+(There's No Place Like) Home For The Holidays (1959);Perry Como With Mitchell Ayers And His Orchestra;22;28;12;29;False
+Broadway Girls;Lil Durk Featuring Morgan Wallen;14;14;2;30;False
+Good 4 U;Olivia Rodrigo;1;38;33;31;False
+Ghost;Justin Bieber;32;39;14;32;False
+Fancy Like;Walker Hayes;3;45;28;33;False
+Let It Snow, Let It Snow, Let It Snow;Dean Martin;8;12;19;34;False
+Thats What I Want;Lil Nas X;10;49;15;35;False
+Essence;Wizkid Featuring Justin Bieber & Tems;9;0;25;36;False
+Jingle Bells;Frank Sinatra;33;33;4;37;False
+Kiss Me More;Doja Cat Featuring SZA;3;0;37;38;False
+One Right Now;Post Malone & The Weeknd;6;50;8;39;False
+Oh My God;Adele;5;57;6;40;False
+Christmastime Is Here;Vince Guaraldi Trio;41;48;2;41;False
+You Right;Doja Cat & The Weeknd;11;0;26;42;False
+Happier Than Ever;Billie Eilish;11;51;22;43;False
+Thinking 'Bout You;Dustin Lynch Featuring Lauren Alaina Or MacKenzie Porter;30;54;20;44;False
+Santa Baby;Eartha Kitt With Henri Rene And His Orchestra;35;35;3;45;False
+Better Days;NEIKED X Mae Muller X Polo G;29;56;11;46;False
+It's Beginning To Look A Lot Like Christmas;Michael Buble;20;30;10;47;False
+Love Nwantiti (Ah Ah Ah);CKay;31;52;15;48;False
+I Hate U;SZA;7;42;4;49;False
+We Don't Talk About Bruno;Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast;50;0;1;50;True
+Buy Dirt;Jordan Davis Featuring Luke Bryan;30;59;21;51;False
+Knife Talk;Drake Featuring 21 Savage & Project Pat;4;53;17;52;False
+Way 2 Sexy;Drake Featuring Future & Young Thug;1;58;17;53;False
+Surface Pressure;Jessica Darrow;54;0;1;54;True
+You Should Probably Leave;Chris Stapleton;39;61;26;55;False
+Meet Me At Our Spot;THE ANXIETY: WILLOW & Tyler Cole;21;60;16;56;False
+Whiskey And Rain;Michael Ray;57;64;13;57;False
+Sand In My Boots;Morgan Wallen;32;66;24;58;False
+Girls Want Girls;Drake Featuring Lil Baby;2;65;17;59;False
+One Mississippi;Kane Brown;59;73;14;60;False
+Who Want Smoke??;Nardo Wick Featuring G Herbo, Lil Durk & 21 Savage;17;67;12;61;False
+Big Energy;Latto;62;69;10;62;False
+Chosen;Blxst & Tyga Featuring Ty Dolla $ign;53;72;14;63;False
+Enemy;Imagine Dragons X JID;64;70;6;64;False
+Pick Out A Christmas Tree;Dan + Shay;63;63;5;65;False
+All Too Well (Taylor's Version);Taylor Swift;1;68;7;66;False
+Merry Christmas;Ed Sheeran & Elton John;55;55;4;67;False
+Have Mercy;Chloe;28;75;16;68;False
+Christmas Tree Farm (Old Timey Version);Taylor Swift;62;62;5;69;False
+'Til You Can't;Cody Johnson;65;82;12;70;False
+Woman;Doja Cat;62;76;22;71;False
+My Universe;Coldplay x BTS;1;84;14;72;False
+Freedom Was A Highway;Jimmie Allen & Brad Paisley;73;86;12;73;False
+I'll Be Home For Christmas;Camila Cabello;71;71;4;74;False
+For Tonight;Giveon;75;80;13;75;False
+By Your Side;Rod Wave;58;78;5;76;False
+To Be Loved By You;Parker McCollum;77;83;5;77;False
+Heart On Fire;Eric Church;78;92;6;78;False
+Christmas Tree;V;79;0;1;79;True
+Message In A Bottle (Taylor's Version) (From The Vault);Taylor Swift;45;93;7;80;False
+Scorpio;Moneybagg Yo;81;90;6;81;False
+Burn;Juice WRLD;34;74;3;82;False
+Hrs And Hrs;Muni Long;83;0;1;83;True
+Life Goes On;Oliver Tree;81;81;4;84;False
+Tequila Little Time;Jon Pardi;68;89;12;85;False
+Same Boat;Zac Brown Band;48;94;15;86;False
+Do It To It;Acraze Featuring Cherish;87;97;2;87;False
+Doin' This;Luke Combs;53;0;3;88;False
+Half Of My Hometown;Kelsea Ballerini Featuring Kenny Chesney;87;0;7;89;False
+Poke It Out;Wale Featuring J. Cole;79;0;7;90;False
+Bubbly;Young Thug With Drake & Travis Scott;20;96;11;91;False
+I Am Woman;Emmy Meli;92;0;1;92;True
+Christmas Isn't Canceled (Just You);Kelly Clarkson;79;79;2;93;False
+Pressure;Ari Lennox;94;0;1;94;True
+Wandered To LA.;Juice WRLD & Justin Bieber;49;87;4;95;False
+Beers On Me;Dierks Bentley, BRELAND & HARDY;96;0;1;96;True
+Already Dead;Juice WRLD;20;88;6;97;False
+No Love;Summer Walker & SZA;13;98;8;98;False
+23;Sam Hunt;99;0;1;99;True
+Family Ties;Baby Keem & Kendrick Lamar;18;100;18;100;False

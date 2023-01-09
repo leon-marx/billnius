@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+The Box;Roddy Ricch;1;1;15;1;False
+Blinding Lights;The Weeknd;2;4;16;2;False
+Don't Start Now;Dua Lipa;2;2;20;3;False
+Life Is Good;Future Featuring Drake;2;3;10;4;False
+Circles;Post Malone;1;5;29;5;False
+Roxanne;Arizona Zervas;4;7;20;6;False
+Adore You;Harry Styles;7;16;15;7;False
+Intentions;Justin Bieber Featuring Quavo;8;10;6;8;False
+Someone You Loved;Lewis Capaldi;1;15;45;9;False
+Everything I Wanted;Billie Eilish;8;14;19;10;False
+Hot Girl Bummer;blackbear;11;17;27;11;False
+Memories;Maroon 5;2;13;26;12;False
+Myron;Lil Uzi Vert;13;0;1;13;True
+Say So;Doja Cat Featuring Nicki Minaj;14;19;11;14;False
+Dance Monkey;Tones And I;4;12;24;15;False
+Heartless;The Weeknd;1;21;17;16;False
+The Bones;Maren Morris;17;23;26;17;False
+My Oh My;Camila Cabello Featuring DaBaby;18;26;15;18;False
+Bean (Kobe);Lil Uzi Vert Featuring Chief Keef;19;0;1;19;True
+Suicidal;YNW Melly & Juice WRLD;20;0;16;20;False
+Ballin';Mustard & Roddy Ricch;11;29;35;21;False
+10,000 Hours;Dan + Shay & Justin Bieber;4;27;24;22;False
+Godzilla;Eminem Featuring Juice WRLD;3;32;9;23;False
+BOP;DaBaby;11;35;25;24;False
+Stupid Love;Lady Gaga;5;30;3;25;False
+Yessirskiii;Lil Uzi Vert & 21 Savage;26;0;1;26;True
+Baby Pluto;Lil Uzi Vert;6;6;2;27;False
+Woah;Lil Baby;15;31;19;28;False
+Falling;Trevor Daniel;25;42;18;29;False
+RITMO (Bad Boys For Life);Black Eyed Peas X J Balvin;30;47;17;30;False
+Lose You To Love Me;Selena Gomez;1;38;22;31;False
+No Guidance;Chris Brown Featuring Drake;5;46;41;32;False
+High Fashion;Roddy Ricch Featuring Mustard;20;43;12;33;False
+You Should Be Sad;Halsey;26;41;10;34;False
+Homesick;Kane Brown;35;44;18;35;False
+I Hope;Gabby Barrett Featuring Charlie Puth;36;50;12;36;False
+P2;Lil Uzi Vert;11;11;2;37;False
+Blueberry Faygo;Lil Mosey;38;53;6;38;False
+Homemade;Jake Owen;39;60;8;39;False
+Heart On Ice;Rod Wave;40;58;19;40;False
+That Way;Lil Uzi Vert;20;20;3;41;False
+Lo Mein;Lil Uzi Vert;8;8;2;42;False
+I Love Me;Demi Lovato;18;18;2;43;False
+Good As Hell;Lizzo;3;49;30;44;False
+Lotus;Lil Uzi Vert;45;0;1;45;True
+BEST ON EARTH;Russ & BIA;46;62;15;46;False
+Slide;H.E.R. Featuring YG;47;61;13;47;False
+Whats Poppin;Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne;48;73;6;48;False
+What She Wants Tonight;Luke Bryan;49;78;13;49;False
+Dior;Pop Smoke;30;55;5;50;False
+Sum 2 Prove;Lil Baby;16;52;10;51;False
+Silly Watch;Lil Uzi Vert;9;9;2;52;False
+Nobody But You;Blake Shelton Duet With Gwen Stefani;43;69;10;53;False
+Wassup;Lil Uzi Vert Featuring Future;54;0;1;54;True
+Oprah's Bank Account;Lil Yachty, Drake & DaBaby;55;89;2;55;False
+More Hearts Than Mine;Ingrid Andress;56;85;12;56;False
+B.S.;Jhene Aiko Featuring H.E.R.;24;24;2;57;False
+Chasin' You;Morgan Wallen;58;70;8;58;False
+Slow Dance In A Parking Lot;Jordan Davis;59;77;11;59;False
+Strawberry Peels;Lil Uzi Vert Featuring Young Thug & Gunna;60;0;1;60;True
+P*$$y Fairy (OTW);Jhene Aiko;40;40;9;61;False
+Moon Relate;Lil Uzi Vert;62;0;1;62;True
+What A Man Gotta Do;Jonas Brothers;16;63;9;63;False
+Tusa;Karol G & Nicki Minaj;42;75;16;64;False
+Catch;Brett Young;65;86;8;65;False
+I Can Show You;Lil Uzi Vert;66;0;1;66;True
+We Back;Jason Aldean;62;81;16;67;False
+Trap This Way (This Way);Lil Uzi Vert;68;0;1;68;True
+I Wish Grandpas Never Died;Riley Green;66;82;12;69;False
+Si Veo A Tu Mama;Bad Bunny;32;56;3;70;False
+Death Bed;Powfu Featuring beabadoobee;71;0;1;71;True
+Leaders;Lil Uzi Vert Featuring NAV;72;0;1;72;True
+Heatin Up;Lil Baby & Gunna;18;57;3;73;False
+Sunday Best;Surfaces;74;99;3;74;False
+Grace;Lil Baby & 42 Dugg;48;98;3;75;False
+No Auto;Lil Uzi Vert Featuring Lil Durk;76;0;1;76;True
+The Other Side;SZA X Justin Timberlake;61;80;3;77;False
+Yummy;Justin Bieber;2;67;11;78;False
+B.I.T.C.H.;Megan Thee Stallion;31;59;6;79;False
+La Dificil;Bad Bunny;33;54;3;80;False
+I Hope You're Happy Now;Carly Pearce & Lee Brice;65;91;11;81;False
+Homecoming;Lil Uzi Vert;22;22;2;82;False
+Come This Way;Lil Uzi Vert;83;0;1;83;True
+To Die For;Sam Smith;46;96;5;84;False
+Emotionally Scarred;Lil Baby;31;64;3;85;False
+Does To Me;Luke Combs Featuring Eric Church;86;0;1;86;True
+Got The Guap;Lil Uzi Vert Featuring Young Thug;87;0;1;87;True
+Supalonely;BENEE Featuring Gus Dapperton;88;0;1;88;True
+Money Spread;Lil Uzi Vert Featuring Young Nudy;89;0;1;89;True
+Cardigan;Don Toliver;90;0;1;90;True
+Beer Can't Fix;Thomas Rhett Featuring Jon Pardi;91;0;1;91;True
+Vete;Bad Bunny;33;66;16;92;False
+Know Your Worth;Khalid x Disclosure;57;94;6;93;False
+Futsal Shuffle 2020;Lil Uzi Vert;5;48;11;94;False
+Prices;Lil Uzi Vert;25;25;2;95;False
+Go Stupid;Polo G Featuring NLE Choppa & Stunna 4 Vegas;60;90;5;96;False
+Before You Go;Lewis Capaldi;71;0;7;97;False
+Savage;Megan Thee Stallion;98;0;1;98;True
+Come Thru;Summer Walker & Usher;42;0;12;99;False
+Make No Sense;YoungBoy Never Broke Again;57;0;18;100;False

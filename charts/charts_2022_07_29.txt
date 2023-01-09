@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+About Damn Time;Lizzo;1;2;14;1;False
+As It Was;Harry Styles;1;1;16;2;False
+Running Up That Hill (A Deal With God);Kate Bush;3;4;28;3;False
+First Class;Jack Harlow;1;3;15;4;False
+Wait For U;Future Featuring Drake & Tems;1;5;12;5;False
+Me Porto Bonito;Bad Bunny & Chencho Corleone;6;6;11;6;False
+Break My Soul;Beyonce;7;9;5;7;False
+Heat Waves;Glass Animals;1;7;79;8;False
+Late Night Talking;Harry Styles;4;11;9;9;False
+Jimmy Cooks;Drake Featuring 21 Savage;1;8;5;10;False
+Big Energy;Latto;3;10;39;11;False
+I Like You (A Happier Song);Post Malone Featuring Doja Cat;9;14;7;12;False
+Wasted On You;Morgan Wallen;9;12;36;13;False
+Bad Habit;Steve Lacy;14;50;3;14;False
+Titi Me Pregunto;Bad Bunny;5;13;11;15;False
+Sunroof;Nicky Youre & dazy;16;17;8;16;False
+The Kind Of Love We Make;Luke Combs;13;19;5;17;False
+Stay;The Kid LAROI & Justin Bieber;1;15;54;18;False
+Glimpse Of Us;Joji;8;16;6;19;False
+Numb Little Bug;Em Beihold;18;18;25;20;False
+Ghost;Justin Bieber;5;21;43;21;False
+Get Into It (Yuh);Doja Cat;20;20;33;22;False
+You Proof;Morgan Wallen;6;22;10;23;False
+Moscow Mule;Bad Bunny;4;27;11;24;False
+Bad Habits;Ed Sheeran;2;24;56;25;False
+She Had Me At Heads Carolina;Cole Swindell;25;25;8;26;False
+I Ain't Worried;OneRepublic;27;31;6;27;False
+Shivers;Ed Sheeran;4;33;45;28;False
+Cold Heart (PNAU Remix);Elton John & Dua Lipa;7;29;46;29;False
+Boyfriend;Dove Cameron;16;23;23;30;False
+Vegas;Doja Cat;31;32;7;31;False
+Sticky;Drake;6;28;5;32;False
+Something In The Orange;Zach Bryan;30;30;13;33;False
+In A Minute;Lil Baby;14;43;15;34;False
+Fall In Love;Bailey Zimmerman;35;37;12;35;False
+Hot Shit;Cardi B, Ye & Lil Durk;13;34;3;36;False
+Like I Love Country Music;Kane Brown;26;26;9;37;False
+Enemy;Imagine Dragons X JID;5;36;35;38;False
+Damn Strait;Scotty McCreery;38;38;16;39;False
+Woman;Doja Cat;7;40;51;40;False
+Provenza;Karol G;25;39;13;41;False
+Rock And A Hard Place;Bailey Zimmerman;24;49;6;42;False
+Super Gremlin;Kodak Black;3;41;37;43;False
+Thats What I Want;Lil Nas X;8;44;44;44;False
+Efecto;Bad Bunny;34;47;11;45;False
+Take My Name;Parmalee;22;45;16;46;False
+Thousand Miles;The Kid LAROI;15;46;13;47;False
+What Happened To Virgil;Lil Durk Featuring Gunna;22;53;19;48;False
+Sweetest Pie;Megan Thee Stallion & Dua Lipa;15;54;19;49;False
+Master Of Puppets;Metallica;35;35;3;50;False
+Left And Right;Charlie Puth Featuring Jung Kook;22;51;4;51;False
+Sleazy Flow;SleazyWorld Go Featuring Lil Baby;47;55;8;52;False
+2step;Ed Sheeran Featuring Lil Baby;48;48;13;53;False
+5 Foot 9;Tyler Hubbard;54;57;6;54;False
+Cooped Up;Post Malone Featuring Roddy Ricch;12;60;10;55;False
+Despues de La Playa;Bad Bunny;6;56;11;56;False
+Party;Bad Bunny & Rauw Alejandro;14;59;11;57;False
+Last Night Lonely;Jon Pardi;58;63;8;58;False
+Ojitos Lindos;Bad Bunny & Bomba Estereo;26;61;11;59;False
+Trouble With A Heartbreak;Jason Aldean;32;58;18;60;False
+Son Of A Sinner;Jelly Roll;61;72;3;61;False
+So Good;Halsey;55;65;6;62;False
+Betty (Get Money);Yung Gravy;63;68;2;63;False
+Puffin On Zootiez;Future;4;62;12;64;False
+Wishful Drinking;Ingrid Andress With Sam Hunt;65;69;3;65;False
+F.N.F. (Let's Go);Hitkidd & GloRilla;66;78;8;66;False
+Tarot;Bad Bunny & Jhay Cortez;18;71;11;67;False
+Flower Shops;ERNEST Featuring Morgan Wallen;64;73;26;68;False
+Numb;Marshmello & Khalid;69;76;3;69;False
+Massive;Drake;14;64;5;70;False
+New Truck;Dylan Scott;71;81;6;71;False
+Last Last;Burna Boy;72;86;2;72;False
+Love Me More;Sam Smith;73;79;7;73;False
+Silent Hill;Kendrick Lamar & Kodak Black;7;75;10;74;False
+Whiskey On You;Nate Smith;75;83;5;75;False
+Hotel Lobby (Unc And Phew);Quavo & Takeoff;59;77;9;76;False
+See Wat I'm Sayin;Moneybagg Yo;59;0;2;77;False
+Unstoppable;Sia;78;90;3;78;False
+Wild As Her;Corey Kent;79;82;5;79;False
+7500 OBO;Tim McGraw;66;66;8;80;False
+Thought You Should Know;Morgan Wallen;12;89;11;81;False
+Ghost Story;Carrie Underwood;61;96;9;82;False
+Best Thing Since Backroads;Jake Owen;83;0;2;83;False
+2 Be Loved (Am I Ready);Lizzo;84;0;1;84;True
+Truth About You;Mitchell Tenpenny;85;0;1;85;True
+Bones;Imagine Dragons;86;0;9;86;False
+She Likes It;Russell Dickerson & Jake Scott;63;92;16;87;False
+Plan B;Megan Thee Stallion;29;94;8;88;False
+All Mine;Brent Faiyaz;42;42;2;89;False
+Free Mind;Tems;90;0;1;90;True
+Un Ratito;Bad Bunny;16;95;11;91;False
+Until I Found You;Stephen Sanchez;92;0;3;92;False
+Bam Bam;Camila Cabello Featuring Ed Sheeran;21;85;20;93;False
+At The End Of A Bar;Chris Young With Mitchell Tenpenny;94;0;1;94;True
+Te Felicito;Shakira & Rauw Alejandro;67;100;7;95;False
+Arson;j-hope;96;0;1;96;True
+Right On;Lil Baby;13;0;14;97;False
+Cash In Cash Out;Pharrell Williams Featuring 21 Savage & Tyler, The Creator;26;99;6;98;False
+La Corriente;Bad Bunny & Tony Dize;32;0;8;99;False
+Pick Me Up;Gabby Barrett;100;0;1;100;True

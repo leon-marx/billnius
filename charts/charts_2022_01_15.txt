@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+Easy On Me;Adele;1;2;13;1;False
+Stay;The Kid LAROI & Justin Bieber;1;6;26;2;False
+Heat Waves;Glass Animals;3;7;51;3;False
+Shivers;Ed Sheeran;4;9;17;4;False
+We Don't Talk About Bruno;Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast;5;50;2;5;False
+Industry Baby;Lil Nas X & Jack Harlow;1;12;24;6;False
+Cold Heart (PNAU Remix);Elton John & Dua Lipa;7;20;18;7;False
+Bad Habits;Ed Sheeran;2;19;28;8;False
+Need To Know;Doja Cat;8;14;30;9;False
+Super Gremlin;Kodak Black;10;16;9;10;False
+abcdefu;GAYLE;11;17;7;11;False
+Levitating;Dua Lipa;2;0;61;12;False
+Smokin Out The Window;Silk Sonic (Bruno Mars & Anderson .Paak);5;28;9;13;False
+Surface Pressure;Jessica Darrow;14;54;2;14;False
+Good 4 U;Olivia Rodrigo;1;31;34;15;False
+Fancy Like;Walker Hayes;3;33;29;16;False
+Ghost;Justin Bieber;17;32;15;17;False
+Save Your Tears;The Weeknd & Ariana Grande;1;0;53;18;False
+Kiss Me More;Doja Cat Featuring SZA;3;38;38;19;False
+Thats What I Want;Lil Nas X;10;35;16;20;False
+Essence;Wizkid Featuring Justin Bieber & Tems;9;36;26;21;False
+One Right Now;Post Malone & The Weeknd;6;39;9;22;False
+Better Days;NEIKED X Mae Muller X Polo G;23;46;12;23;False
+Oh My God;Adele;5;40;7;24;False
+You Right;Doja Cat & The Weeknd;11;42;27;25;False
+Happier Than Ever;Billie Eilish;11;43;23;26;False
+Broadway Girls;Lil Durk Featuring Morgan Wallen;14;30;3;27;False
+Buy Dirt;Jordan Davis Featuring Luke Bryan;28;51;22;28;False
+Love Nwantiti (Ah Ah Ah);CKay;29;48;16;29;False
+I Hate U;SZA;7;49;5;30;False
+Knife Talk;Drake Featuring 21 Savage & Project Pat;4;52;18;31;False
+You Should Probably Leave;Chris Stapleton;32;55;27;32;False
+Way 2 Sexy;Drake Featuring Future & Young Thug;1;53;18;33;False
+Hrs And Hrs;Muni Long;34;83;2;34;False
+If I Didn't Love You;Jason Aldean & Carrie Underwood;15;0;21;35;False
+Thinking 'Bout You;Dustin Lynch Featuring Lauren Alaina Or MacKenzie Porter;30;44;21;36;False
+Whiskey And Rain;Michael Ray;37;57;14;37;False
+Beggin';Maneskin;13;0;25;38;False
+Meet Me At Our Spot;THE ANXIETY: WILLOW & Tyler Cole;21;56;17;39;False
+One Mississippi;Kane Brown;40;60;15;40;False
+Montero (Call Me By Your Name);Lil Nas X;1;0;35;41;False
+Big Energy;Latto;42;62;11;42;False
+Sand In My Boots;Morgan Wallen;32;58;25;43;False
+Girls Want Girls;Drake Featuring Lil Baby;2;59;18;44;False
+Freedom Was A Highway;Jimmie Allen & Brad Paisley;45;73;13;45;False
+Pepas;Farruko;25;0;21;46;False
+Who Want Smoke??;Nardo Wick Featuring G Herbo, Lil Durk & 21 Savage;17;61;13;47;False
+Enemy;Imagine Dragons X JID;48;64;7;48;False
+Leave The Door Open;Silk Sonic (Bruno Mars & Anderson .Paak);1;0;39;49;False
+Chasing After You;Ryan Hurd With Maren Morris;23;0;30;50;False
+Chosen;Blxst & Tyga Featuring Ty Dolla $ign;51;63;15;51;False
+To Be Loved By You;Parker McCollum;52;77;6;52;False
+Half Of My Hometown;Kelsea Ballerini Featuring Kenny Chesney;53;89;8;53;False
+Have Mercy;Chloe;28;68;17;54;False
+All Too Well (Taylor's Version);Taylor Swift;1;66;8;55;False
+Woman;Doja Cat;56;71;23;56;False
+'Til You Can't;Cody Johnson;57;70;13;57;False
+My Universe;Coldplay x BTS;1;72;15;58;False
+Heart On Fire;Eric Church;59;78;7;59;False
+Tequila Little Time;Jon Pardi;60;85;13;60;False
+For Tonight;Giveon;61;75;14;61;False
+The Family Madrigal;Stephanie Beatriz, Olga Merediz & Encanto Cast;62;0;1;62;True
+Message In A Bottle (Taylor's Version) (From The Vault);Taylor Swift;45;80;8;63;False
+By Your Side;Rod Wave;58;76;6;64;False
+Do It To It;Acraze Featuring Cherish;65;87;3;65;False
+Scorpio;Moneybagg Yo;66;81;7;66;False
+What Else Can I Do?;Diane Guerrero & Stephanie Beatriz;67;0;1;67;True
+Flower Shops;ERNEST Featuring Morgan Wallen;68;0;1;68;True
+Fingers Crossed;Lauren Spencer-Smith;69;0;1;69;True
+Same Boat;Zac Brown Band;48;86;16;70;False
+Life Goes On;Oliver Tree;71;84;5;71;False
+Beers On Me;Dierks Bentley, BRELAND & HARDY;72;96;2;72;False
+Poke It Out;Wale Featuring J. Cole;73;90;8;73;False
+I Am Woman;Emmy Meli;74;92;2;74;False
+23;Sam Hunt;75;99;2;75;False
+Doin' This;Luke Combs;53;88;4;76;False
+Burn;Juice WRLD;34;82;4;77;False
+Bubbly;Young Thug With Drake & Travis Scott;20;91;12;78;False
+Pressure;Ari Lennox;79;94;2;79;False
+No Love;Summer Walker & SZA;13;98;9;80;False
+Family Ties;Baby Keem & Kendrick Lamar;18;100;19;81;False
+Waiting On A Miracle;Stephanie Beatriz;82;0;1;82;True
+Dos Oruguitas;Sebastian Yatra;83;0;1;83;True
+Too Easy;Gunna & Future;38;0;10;84;False
+Fair Trade;Drake Featuring Travis Scott;3;0;15;85;False
+Volvi;Aventura x Bad Bunny;22;0;18;86;False
+AA;Walker Hayes;87;0;1;87;True
+Come Through;H.E.R. Featuring Chris Brown;64;0;18;88;False
+Wandered To LA.;Juice WRLD & Justin Bieber;49;95;5;89;False
+Home Sweet;Russell Dickerson;90;0;1;90;True
+Come Back As A Country Boy;Blake Shelton;91;0;1;91;True
+Already Dead;Juice WRLD;20;97;7;92;False
+Black Ball;YoungBoy Never Broke Again & Birdman;93;0;1;93;True
+Baddest;Yung Bleu, Chris Brown & 2 Chainz;56;0;18;94;False
+Moth To A Flame;Swedish House Mafia & The Weeknd;27;0;7;95;False
+Me Or Sum;Nardo Wick, Lil Baby & Future;86;0;2;96;False
+I Love You So;The Walters;97;0;1;97;True
+Bad Man (Smooth Criminal);Polo G;49;0;6;98;False
+Never Wanted To Be That Girl;Carly Pearce & Ashley McBryde;99;0;1;99;True
+Just About Over You;Priscilla Block;81;0;7;100;False

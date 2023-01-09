@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+Anti-Hero;Taylor Swift;1;1;6;1;False
+All I Want For Christmas Is You;Mariah Carey;1;5;54;2;False
+Rockin' Around The Christmas Tree;Brenda Lee;2;6;48;3;False
+Unholy;Sam Smith & Kim Petras;1;3;10;4;False
+Jingle Bell Rock;Bobby Helms;3;9;45;5;False
+A Holly Jolly Christmas;Burl Ives;4;10;28;6;False
+Rich Flex;Drake & 21 Savage;2;2;4;7;False
+Bad Habit;Steve Lacy;1;4;22;8;False
+It's The Most Wonderful Time Of The Year;Andy Williams;5;19;29;9;False
+Last Christmas;Wham!;7;23;27;10;False
+I'm Good (Blue);David Guetta & Bebe Rexha;7;7;14;11;False
+The Christmas Song (Merry Christmas To You);Nat King Cole;11;34;34;12;False
+Feliz Navidad;Jose Feliciano;6;42;22;13;False
+As It Was;Harry Styles;1;8;35;14;False
+Die For You;The Weeknd;12;12;18;15;False
+Sleigh Ride;The Ronettes;10;40;18;16;False
+Underneath The Tree;Kelly Clarkson;12;48;17;17;False
+Let It Snow, Let It Snow, Let It Snow;Dean Martin;8;41;21;18;False
+It's Beginning To Look A Lot Like Christmas;Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra;12;43;14;19;False
+Cuff It;Beyonce;13;16;16;20;False
+Under The Influence;Chris Brown;14;14;12;21;False
+Lift Me Up;Rihanna;2;11;5;22;False
+Christmas (Baby Please Come Home);Darlene Love;16;0;13;23;False
+Santa Tell Me;Ariana Grande;17;0;14;24;False
+You Proof;Morgan Wallen;5;13;29;25;False
+Super Freaky Girl;Nicki Minaj;1;15;16;26;False
+I Like You (A Happier Song);Post Malone Featuring Doja Cat;3;18;26;27;False
+Something In The Orange;Zach Bryan;12;17;32;28;False
+It's Beginning To Look A Lot Like Christmas;Michael Buble;20;0;11;29;False
+Deck The Halls;Nat King Cole;30;0;4;30;False
+White Christmas;Bing Crosby;12;0;26;31;False
+Wasted On You;Morgan Wallen;9;20;55;32;False
+Jingle Bells;Frank Sinatra;33;0;5;33;False
+Rudolph The Red-Nosed Reindeer;Gene Autry;16;0;18;34;False
+Just Wanna Rock;Lil Uzi Vert;21;21;7;35;False
+Made You Look;Meghan Trainor;24;24;6;36;False
+Tomorrow 2;GloRilla & Cardi B;9;22;10;37;False
+Vegas;Doja Cat;10;25;26;38;False
+Here Comes Santa Claus (Right Down Santa Claus Lane);Gene Autry;26;0;11;39;False
+Wait For U;Future Featuring Drake & Tems;1;29;31;40;False
+Golden Hour;JVKE;35;35;14;41;False
+You're A Mean One, Mr. Grinch;Thurl Ravenscroft;32;0;5;42;False
+Blue Christmas;Elvis Presley;33;0;4;43;False
+Titi Me Pregunto;Bad Bunny;5;28;30;44;False
+I Ain't Worried;OneRepublic;6;27;25;45;False
+Jimmy Cooks;Drake Featuring 21 Savage;1;36;24;46;False
+Sunroof;Nicky Youre & dazy;4;33;27;47;False
+About Damn Time;Lizzo;1;44;33;48;False
+Santa Claus Is Comin' To Town;Jackson 5;41;0;3;49;False
+She Had Me At Heads Carolina;Cole Swindell;16;38;27;50;False
+Fall In Love;Bailey Zimmerman;29;49;31;51;False
+Lavender Haze;Taylor Swift;2;26;6;52;False
+Spin Bout U;Drake & 21 Savage;5;31;4;53;False
+Until I Found You;Stephen Sanchez;38;45;22;54;False
+Thank God;Kane Brown With Katelyn Brown;22;46;12;55;False
+Circo Loco;Drake & 21 Savage;8;37;4;56;False
+Victoria's Secret;Jax;35;59;18;57;False
+On BS;Drake & 21 Savage;4;39;4;58;False
+Major Distribution;Drake & 21 Savage;3;30;4;59;False
+Son Of A Sinner;Jelly Roll;31;61;22;60;False
+Rock And A Hard Place;Bailey Zimmerman;24;54;25;61;False
+What My World Spins Around;Jordan Davis;41;55;16;62;False
+Star Walkin' (League Of Legends Worlds Anthem);Lil Nas X;32;64;10;63;False
+Pussy & Millions;Drake & 21 Savage Featuring Travis Scott;6;47;4;64;False
+Wait In The Truck;HARDY Featuring Lainey Wilson;51;53;13;65;False
+Shirt;SZA;11;63;5;66;False
+Hold Me Closer;Elton John & Britney Spears;6;51;14;67;False
+Half Of Me;Thomas Rhett Featuring Riley Green;52;56;15;68;False
+Don't Come Lookin';Jackson Dean;50;60;14;69;False
+Bejeweled;Taylor Swift;6;50;6;70;False
+Midnight Rain;Taylor Swift;5;52;6;71;False
+Romantic Homicide;d4vd;33;72;13;72;False
+Maroon;Taylor Swift;3;58;6;73;False
+Free Mind;Tems;46;74;20;74;False
+Privileged Rappers;Drake & 21 Savage;7;62;4;75;False
+Whiskey On You;Nate Smith;44;71;24;76;False
+Billie Eilish.;Armani White;58;75;12;77;False
+Karma;Taylor Swift;9;65;6;78;False
+Broke Boys;Drake & 21 Savage;12;68;4;79;False
+You're On Your Own, Kid;Taylor Swift;8;67;6;80;False
+BackOutsideBoyz;Drake;9;66;4;81;False
+Heyy;Lil Baby;21;80;8;82;False
+Snow On The Beach;Taylor Swift Featuring Lana Del Rey;4;69;6;83;False
+No Se Va;Grupo Frontera;57;79;10;84;False
+All Mine;Brent Faiyaz;42;93;17;85;False
+California Breeze;Lil Baby;4;81;7;86;False
+Calm Down;Rema & Selena Gomez;74;82;13;87;False
+Hours In Silence;Drake & 21 Savage;11;70;4;88;False
+Country On;Luke Bryan;72;83;15;89;False
+Freestyle;Lil Baby;63;90;12;90;False
+Last Christmas;Lauren Spencer-Smith;91;0;1;91;True
+Jumbotron Shit Poppin;Drake;16;77;4;92;False
+Pick Me Up;Gabby Barrett;69;87;18;93;False
+Heart Like A Truck;Lainey Wilson;86;86;3;94;False
+La Bachata;Manuel Turizo;67;94;15;95;False
+Someday At Christmas;Lizzo;96;0;1;96;True
+Vigilante Shit;Taylor Swift;10;73;6;97;False
+Forget Me;Lewis Capaldi;95;0;6;98;False
+Going, Going, Gone;Luke Combs;98;98;3;99;False
+Miss You;Oliver Tree & Robin Schulz;84;91;6;100;False
