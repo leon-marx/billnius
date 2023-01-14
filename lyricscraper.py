@@ -7,9 +7,6 @@ import langdetect
 with open("./../genius_credentials.txt", "r") as f:
     CLIENT_ID, CLIENT_SECRET, CLIENT_TOKEN = f.read().split(",")
 
-# PROBLEMS:
-# some are gibberish, random lists -> Better Days by NEIKED X Mae Muller X Polo G
-
 special_check = [
     "\\",
     "?",
