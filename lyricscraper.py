@@ -2,12 +2,15 @@ from lyricsgenius import Genius
 import pandas as pd
 import os
 import unicodedata
-from langdetect import detect
+import langdetect
 
 with open("./../genius_credentials.txt", "r") as f:
     CLIENT_ID, CLIENT_SECRET, CLIENT_TOKEN = f.read().split(",")
 
-title_check = [
+# PROBLEMS:
+# some are gibberish, random lists -> Better Days by NEIKED X Mae Muller X Polo G
+
+special_check = [
     "\\",
     "?",
     ".",
@@ -15,10 +18,13 @@ title_check = [
     ",",
     ";",
     "/",
+    "*",
 ]
-artist_check = [
+feat_check = [
     "Feat",
     "feat",
+    "Feat.",
+    "feat.",
     "Featuring",
     "featuring",
     "With",
@@ -26,13 +32,17 @@ artist_check = [
     "And",
     "and",
     "&",
+    ",",
+    ";",
+    "X",  # Some features are depicted by X, added here because this is more common than artist names like "Lil Nas X", we hope the latter case is still found without the X
+    "x",
 ]
 
 # for file in os.listdir("./charts"):
 #     df = pd.read_csv(f"./charts/{file}", sep=";", encoding="cp1252")
 #     print(df.head())
 
-df = pd.read_csv(f"./charts/{os.listdir('./charts')[110]}", sep=";", encoding="cp1252")
+df = pd.read_csv(f"./charts/{os.listdir('./charts')[0]}", sep=";", encoding="cp1252")
 print(df.head())
 
 genius = Genius(CLIENT_TOKEN, timeout=50)
@@ -41,26 +51,49 @@ genius.skip_non_songs = True  # Skip lists
 genius.verbose = False  # Less spam
 for title, artist in zip(df["title"], df["artist"]):
     print(f'Searching for "{title}" by {artist}')
-    for symbol in title_check:
+    for flag in feat_check:
+        if flag in artist.split(" "):
+            # print("    ARTIST NAME PROBABLY CONTAINING A FEATURE! TRYING SIMPLER NAME...")
+            artist = artist.split(" ")[:artist.split(" ").index(flag)]
+            artist = " ".join(artist)
+    for symbol in special_check:
         if symbol in title:
             # print("    TITLE PROBABLY WEIRD! REMOVING SPECIAL CHARACTERS...")
             title = title.replace(symbol, "")
-    for flag in artist_check:
-        if flag in artist.split(" "):
-            # print("    ARTIST NAME PROBABLY WEIRD! TRYING SIMPLER NAME...")
-            artist = artist.split(" ")[:artist.split(" ").index(flag)]
-            artist = " ".join(artist)
+        if symbol in artist:
+            # print("    ARTIST PROBABLY WEIRD! REMOVING SPECIAL CHARACTERS...")
+            artist = artist.replace(symbol, "")
     if not os.path.exists(f"./songs/{title} by {artist}.txt"):
-        song = genius.search_song(title, artist, get_full_info=False)
+        # song = genius.search_song(title, artist, get_full_info=False)
         try:
-            if detect(song.lyrics) != "en":
+            song_id = genius.search_songs(f"{title} {artist}", per_page=1)["hits"][0]["result"]["id"]
+            song = genius.search_song(song_id=song_id, get_full_info=False)
+        except IndexError:
+            song = None
+        if song != None:
+            if (song.lyrics.split().count("-") >= 5) | (sum([int(item.isnumeric()) for item in song.lyrics.split()]) >= 20):
+                print("    POSSIBLE LIST DETECTED! TRYING AGAIN TO FIND THE LYRICS...")
+                song_list = genius.search_songs(f"{title} {artist}", per_page=5)
+                id_list = [song_list["hits"][i]["result"]["id"] for i in range(len(song_list))]
+                lyrics_list = []
+                song = 0
+                for id in id_list:
+                    s = genius.search_song(song_id=id)
+                    if (s.lyrics.split().count("-") < 5) & ((s.lyrics.split().count("-") >= 5) | (sum([int(item.isnumeric()) for item in s.lyrics.split()])) < 20):
+                        song = s
+                        break
+        try:
+            if langdetect.detect(song.lyrics) != "en":
                 print("    NON_ENGLISH SONG DETECTED! CHECKING FOR FALSE TRANSLATION...")
                 songs = genius.search_artist(artist, max_songs=5)
                 d = []
                 for s in songs.songs:
-                    d.append(detect(s.lyrics))
+                    try:
+                        d.append(langdetect.detect(s.lyrics))
+                    except langdetect.lang_detect_exception.LangDetectException:
+                        continue
                 lang = max(set(d), key=d.count)
-                if detect(song.lyrics) != lang:  # TRANSLATION DETECTED
+                if langdetect.detect(song.lyrics) != lang:  # TRANSLATION DETECTED
                     print("        TRANSLATION DETECTED! TRYING TO FIND ORIGINAL VERSION...")
                     song_list = genius.search_songs(f"{title} {artist}", per_page=5)
                     id_list = [song_list["hits"][i]["result"]["id"] for i in range(len(song_list))]
@@ -69,7 +102,7 @@ for title, artist in zip(df["title"], df["artist"]):
                     for id in id_list:
                         s = genius.search_song(song_id=id)
                         lyrics_list.append(s.lyrics)
-                        if detect(lyrics_list[-1]) == lang:
+                        if langdetect.detect(lyrics_list[-1]) == lang:
                             song = s
                             break
         except AttributeError:
@@ -82,13 +115,16 @@ for title, artist in zip(df["title"], df["artist"]):
             print("    SONG NOT FOUND! TRYING AGAIN IGNORING THE ARTIST...")
             song = genius.search_song(title, get_full_info=False)
             try:
-                if detect(song.lyrics) != "en":
+                if langdetect.detect(song.lyrics) != "en":
                     songs = genius.search_artist(artist, max_songs=10)
                     d = []
                     for s in songs.songs:
-                        d.append(detect(s.lyrics))
+                        try:
+                            d.append(langdetect.detect(s.lyrics))
+                        except langdetect.lang_detect_exception.LangDetectException:
+                            continue
                     lang = max(set(d), key=d.count)
-                    if detect(song.lyrics) != lang:  # TRANSLATION DETECTED
+                    if langdetect.detect(song.lyrics) != lang:  # TRANSLATION DETECTED
                         print("        TRANSLATION DETECTED! TRYING TO FIND ORIGINAL VERSION...")
                         song_list = genius.search_songs(f"{title} {artist}", per_page=5)
                         id_list = [song_list["hits"][i]["result"]["id"] for i in range(len(song_list))]
@@ -97,7 +133,7 @@ for title, artist in zip(df["title"], df["artist"]):
                         for id in id_list:
                             s = genius.search_song(song_id=id)
                             lyrics_list.append(s.lyrics)
-                            if detect(lyrics_list[-1]) == lang:
+                            if langdetect.detect(lyrics_list[-1]) == lang:
                                 song = s
                                 break
             except AttributeError:

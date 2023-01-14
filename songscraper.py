@@ -1,7 +1,7 @@
 import billboard
 
 #years = [str(i) for i in range(1955, 2024, 1)]
-years = [str(i) for i in range(2020, 2023, 1)]
+years = [str(i) for i in range(2018, 2019, 1)]
 months = ["01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11", "12"]
 days = ["01", "08", "15", "22", "29"]
 

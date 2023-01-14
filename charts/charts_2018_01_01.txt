@@ -1,0 +1,101 @@
+title;artist;peakpos;lastpos;weeks;rank;isnew
+Perfect;Ed Sheeran;1;1;17;1;False
+Rockstar;Post Malone Featuring 21 Savage;1;2;14;2;False
+Havana;Camila Cabello Featuring Young Thug;2;3;19;3;False
+Gucci Gang;Lil Pump;3;4;15;4;False
+No Limit;G-Eazy Featuring A$AP Rocky & Cardi B;5;10;15;5;False
+Thunder;Imagine Dragons;4;5;34;6;False
+MotorSport;Migos, Nicki Minaj & Cardi B;6;6;8;7;False
+Too Good At Goodbyes;Sam Smith;4;7;15;8;False
+All I Want For Christmas Is You;Mariah Carey;9;9;23;9;False
+Bad At Love;Halsey;8;8;16;10;False
+River;Eminem Featuring Ed Sheeran;11;0;1;11;True
+Bodak Yellow (Money Moves);Cardi B;1;11;25;12;False
+New Rules;Dua Lipa;13;14;21;13;False
+Gummo;6ix9ine;12;12;6;14;False
+Him & I;G-Eazy & Halsey;15;26;3;15;False
+I Fall Apart;Post Malone;16;19;13;16;False
+What Lovers Do;Maroon 5 Featuring SZA;9;13;17;17;False
+Let You Down;NF;16;16;10;18;False
+I Get The Bag;Gucci Mane Featuring Migos;11;15;18;19;False
+Feel It Still;Portugal. The Man;4;17;27;20;False
+Sorry Not Sorry;Demi Lovato;6;18;24;21;False
+Love.;Kendrick Lamar Featuring Zacari;18;25;26;22;False
+Wolves;Selena Gomez X Marshmello;20;21;9;23;False
+Shape Of You;Ed Sheeran;1;23;50;24;False
+Mi Gente;J Balvin & Willy William Featuring Beyonce;3;20;25;25;False
+Plain Jane;A$AP Ferg Featuring Nicki Minaj;26;46;13;26;False
+The Way Life Goes;Lil Uzi Vert Featuring Nicki Minaj;24;24;17;27;False
+Meant To Be;Bebe Rexha & Florida Georgia Line;28;28;9;28;False
+The Weekend;SZA;29;39;21;29;False
+Rockin' Around The Christmas Tree;Brenda Lee;14;34;21;30;False
+How Long;Charlie Puth;26;29;11;31;False
+It's The Most Wonderful Time Of The Year;Andy Williams;32;35;4;32;False
+Young Dumb & Broke;Khalid;22;32;23;33;False
+1-800-273-8255;Logic Featuring Alessia Cara & Khalid;3;22;34;34;False
+Bank Account;21 Savage;12;27;24;35;False
+Despacito;Luis Fonsi & Daddy Yankee Featuring Justin Bieber;1;31;49;36;False
+The Christmas Song (Merry Christmas To You);Nat King Cole;37;38;11;37;False
+A Holly Jolly Christmas;Burl Ives;38;41;4;38;False
+Silence;Marshmello Featuring Khalid;30;30;19;39;False
+Believer;Imagine Dragons;4;33;46;40;False
+Sky Walker;Miguel Featuring Travis Scott;35;36;13;41;False
+End Game;Taylor Swift Featuring Ed Sheeran & Future;39;49;5;42;False
+Last Christmas;Wham!;41;44;4;43;False
+Attention;Charlie Puth;5;42;35;44;False
+Ric Flair Drip;Offset & Metro Boomin;44;45;8;45;False
+Lemon;N*E*R*D & Rihanna;46;58;7;46;False
+Unforgettable;French Montana Featuring Swae Lee;3;40;37;47;False
+That's What I Like;Bruno Mars;1;43;49;48;False
+Feliz Navidad;Jose Feliciano;44;0;2;49;False
+Jingle Bell Rock;Bobby Helms;29;0;20;50;False
+Roll In Peace;Kodak Black Featuring XXXTENTACION;51;51;18;51;False
+Let Me Go;Hailee Steinfeld & Alesso Featuring Florida Georgia Line & Watt;52;56;13;52;False
+Pills And Automobiles;Chris Brown Featuring Yo Gotti, A Boogie Wit da Hoodie & Kodak Black;46;53;15;53;False
+Kooda;6ix9ine;50;50;3;54;False
+Rubbin Off The Paint;YBN Nahmir;46;55;7;55;False
+Like I Loved You;Brett Young;54;54;13;56;False
+Lights Down Low;MAX Featuring gnash;57;59;11;57;False
+Candy Paint;Post Malone;58;62;9;58;False
+...Ready For It?;Taylor Swift;4;37;16;59;False
+Greatest Love Story;LANCO;45;52;16;60;False
+Good Old Days;Macklemore Featuring Kesha;61;64;9;61;False
+What About Us;P!nk;13;57;20;62;False
+Marry Me;Thomas Rhett;63;92;3;63;False
+Codeine Dreaming;Kodak Black Featuring Lil Wayne;52;63;4;64;False
+I'll Name The Dogs;Blake Shelton;58;60;15;65;False
+Yours;Russell Dickerson;66;66;10;66;False
+Tennessee Rain;Addison Agen;67;0;1;67;True
+The Race;Tay-K;44;0;19;68;False
+Wish I Didn't Love You;Chloe Kohanski;69;0;1;69;True
+Round Here Buzz;Eric Church;68;69;13;70;False
+My Dawg;Lil Baby;71;77;2;71;False
+Light It Up;Luke Bryan;57;65;17;72;False
+Tell Me You Love Me;Demi Lovato;53;81;4;73;False
+Pick It Up;Famous Dex Featuring A$AP Rocky;73;76;6;74;False
+Echame La Culpa;Luis Fonsi & Demi Lovato;47;75;5;75;False
+Look What You Made Me Do;Taylor Swift;1;70;18;76;False
+Betrayed;Lil Xan;67;73;6;77;False
+Losing Sleep;Chris Young;63;74;13;78;False
+MIC Drop;BTS Featuring Desiigner;28;79;4;79;False
+No Smoke;YoungBoy Never Broke Again;80;93;3;80;False
+I Could Use A Love Song;Maren Morris;75;78;18;81;False
+Ice Tray;Quavo & Lil Yachty;82;0;1;82;True
+You Broke Up With Me;Walker Hayes;83;83;9;83;False
+I Pray;Red Marlow;84;0;1;84;True
+Wanted You;NAV Featuring Lil Uzi Vert;64;84;6;85;False
+Mayores;Becky G Featuring Bad Bunny;74;87;9;86;False
+Walk On Water;Eminem Featuring Beyonce;14;0;4;87;False
+Dusk Till Dawn;Zayn Featuring Sia;44;85;15;88;False
+Written In The Sand;Old Dominion;88;89;5;89;False
+Home;Machine Gun Kelly, X Ambassadors & Bebe Rexha;90;0;2;90;False
+F**k Love;XXXTENTACION Featuring Trippie Redd;41;88;17;91;False
+Believe;Eminem;92;0;1;92;True
+Juice;Yo Gotti;93;96;3;93;False
+Dark Knight Dummo;Trippie Redd Featuring Travis Scott;72;72;2;94;False
+When We;Tank;86;94;5;95;False
+Five More Minutes;Scotty McCreery;95;95;3;96;False
+Too Much To Ask;Niall Horan;66;91;9;97;False
+Never Be The Same;Camila Cabello;61;61;2;98;False
+All On Me;Devin Dawson;91;97;5;99;False
+Legends;Kelsea Ballerini;98;99;3;100;False
