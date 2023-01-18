@@ -3,6 +3,9 @@ import pandas as pd
 import networkx as nx
 import os
 import matplotlib.pyplot as plt
+import itertools
+import igraph as ig
+import cairocffi as cairo
 
 
 def get_data():
@@ -43,11 +46,56 @@ def get_data():
     return df
 
 
+# Data Preparation
 
-# building network
 # Assume a dataframe with columns:
 #   index, song_name, artist, filename, lyrics (tokenized)
-song_df = get_data()
-song_df.to_pickle("song_data.pkl")
+# song_df = get_data()
+# song_df.to_pickle("song_data.pkl")
+song_df = pd.read_pickle("song_data.pkl")
 print(song_df.head())
 
+# building data
+forbidden = [",", ";", ".", ":", "(", ")", "[", "]", "#", "'"]
+
+words = {}
+for lyrics in song_df["lyrics"]:
+    for word in lyrics:
+        words.setdefault(word, 0)
+        words[word] += 1
+words = dict(sorted(words.items(), key=lambda item: item[1])[::-1])
+words = list(words.keys())
+
+song_id = {song: i for i, song in enumerate(song_df["filename"])}
+word_id = {word: i for i, word in enumerate(words)}
+data = np.zeros((len(song_df["filename"]), len(words)), dtype=np.uint8)
+
+for i, song in enumerate(song_df["filename"]):
+    for word in song_df["lyrics"][i]:
+        data[song_id[song], word_id[word]] = 1
+
+# from here, data is expected to be a binary matrix of shape(#songs, #total words)
+
+edge_dict = {}
+for row in data:
+    ind1 = [i for i, x in enumerate(row) if x == 1]
+    pairs = list(itertools.combinations(ind1, 2))
+    for i, j in pairs:
+        edge_dict.setdefault(f"{i},{j}", 0)
+        edge_dict[f"{i},{j}"] += 1
+
+edges = []
+for k in list(edge_dict.keys()):
+    i, j = k.split(",")
+    i = int(i)
+    j = int(j)
+    if edge_dict[k] > 1:
+        edges.append((i, j, edge_dict[k]))
+G = nx.Graph()
+G.add_weighted_edges_from(edges)
+
+print(len(G.nodes()))
+print(len(G.edges()))
+
+g = ig.Graph.from_networkx(G)
+ig.plot(g, "network.pdf")
