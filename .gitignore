@@ -129,6 +129,6 @@ dmypy.json
 .pyre/
 
 # data folders
-# /charts
-# /songs
-# /combinedCharts
+/charts
+/songs
+/combinedCharts
