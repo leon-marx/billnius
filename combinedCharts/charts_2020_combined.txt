@@ -1,0 +1,818 @@
+,artist,title
+0,BTS,Dynamite
+1,Cardi B Featuring Megan Thee Stallion,WAP
+2,Drake Featuring Lil Durk,Laugh Now Cry Later
+3,DaBaby Featuring Roddy Ricch,Rockstar
+4,The Weeknd,Blinding Lights
+5,Harry Styles,Watermelon Sugar
+6,"Jack Harlow Featuring DaBaby, Tory Lanez & Lil Wayne",Whats Poppin
+7,24kGoldn Featuring iann dior,Mood
+8,Jawsh 685 x Jason Derulo,Savage Love (Laxed - Siren Beat)
+9,Lewis Capaldi,Before You Go
+10,SAINt JHN,Roses
+11,Gabby Barrett Featuring Charlie Puth,I Hope
+12,BLACKPINK X Selena Gomez,Ice Cream
+13,Chris Brown & Young Thug,Go Crazy
+14,Post Malone,Circles
+15,Dua Lipa,Break My Heart
+16,Pop Smoke Featuring Lil Baby & DaBaby,For The Night
+17,Harry Styles,Adore You
+18,Juice WRLD x Marshmello,Come & Go
+19,Pop Smoke Featuring Lil Tjay,Mood Swings
+20,Saweetie,Tap In
+21,Kane Brown With Swae Lee & Khalid,Be Like That
+22,Dua Lipa,Don't Start Now
+23,DJ Khaled Featuring Drake,Popstar
+24,Maddie & Tae,Die From A Broken Heart
+25,Luke Combs,Lovin' On You
+26,JP Saxe Featuring Julia Michaels,If The World Was Ending
+27,Maren Morris,The Bones
+28,Pop Smoke Featuring 50 Cent & Roddy Ricch,The Woo
+29,Megan Thee Stallion,Savage
+30,Jason Aldean,Got What I Got
+31,Rod Wave Featuring ATR Son Son,Rags2Riches
+32,Lee Brice,One Of Them Girls
+33,Lady Gaga & Ariana Grande,Rain On Me
+34,Lil Mosey,Blueberry Faygo
+35,Powfu Featuring beabadoobee,Death Bed
+36,Miley Cyrus,Midnight Sky
+37,Calvin Harris X The Weeknd,Over Now
+38,Future Featuring Drake,Life Is Good
+39,Juice WRLD,Wishing Well
+40,Kane Brown,Cool Again
+41,"Thomas Rhett Featuring Reba McEntire, Hillary Scott, Chris Tomlin & Keith Urban",Be A Light
+42,Luke Bryan,One Margarita
+43,Megan Thee Stallion,Girls In The Hood
+44,Taylor Swift,Cardigan
+45,Doja Cat Featuring Nicki Minaj,Say So
+46,Morgan Wallen,Chasin' You
+47,Maroon 5,Nobody's Love
+48,Justin Bieber Featuring Quavo,Intentions
+49,Lil Baby & 42 Dugg,We Paid
+50,Conan Gray,Heather
+51,Lil Baby,The Bigger Picture
+52,Doja Cat Featuring Gucci Mane,Like That
+53,Internet Money & Gunna Featuring Don Toliver & NAV,Lemonade
+54,StaySolidRocky,Party Girl
+55,Morgan Wallen,7 Summers
+56,Chris Stapleton,Starting Over
+57,AJR,Bang!
+58,Juice WRLD & The Weeknd,Smile
+59,Maluma & The Weeknd,Hawai
+60,Dan + Shay,I Should Probably Go To Bed
+61,Florida Georgia Line,I Love My Country
+62,Morgan Wallen,More Than My Hometown
+63,Moneybagg Yo,Said Sum
+64,DJ Khaled Featuring Drake,Greece
+65,Keith Urban,God Whispered Your Name
+66,Money Man Featuring Lil Baby,24
+67,Machine Gun Kelly X blackbear,My Ex's Best Friend
+68,"J Balvin, Dua Lipa, Bad Bunny & Tainy",Un Dia (One Day)
+69,Surf Mesa Featuring Emilee,ily
+70,Topic & A7S,Breaking Me
+71,HARDY Featuring Lauren Alaina & Devin Dawson,One Beer
+72,YoungBoy Never Broke Again,Kacey Talk
+73,Jameson Rodgers,Some Girls
+74,Ava Max,Kings & Queens
+75,Justin Moore,Why We Drink
+76,Ashley McBryde,One Night Standards
+77,Billie Eilish,My Future
+78,Internet Money Featuring Juice WRLD & Trippie Redd,Blastoff
+79,Parker McCollum,Pretty Heart
+80,Blake Shelton Featuring Gwen Stefani,Happy Anywhere
+81,Tim McGraw,I Called Mama
+82,Ty Dolla $ign Featuring Nicki Minaj,Expensive
+83,Ozuna x Karol G x Myke Towers,Caramelo
+84,Polo G,Martin & Gina
+85,Gunna Featuring Young Thug,Dollaz On My Head
+86,Tate McRae,You Broke Me First.
+87,Migos Featuring YoungBoy Never Broke Again,Need It
+88,Don Toliver,After Party
+89,WhoHeem,Lets Link
+90,Ariana Grande & Justin Bieber,Stuck With U
+91,Taylor Swift,The 1
+92,Chase Rice,Lonely If You Are
+93,Chris Janson,Done
+94,Nio Garcia x Anuel AA x Myke Towers x Brray x Juanka,La Jeepeta
+95,Lil Durk Featuring Lil Baby & Polo G,3 Headed Goat
+96,YoungBoy Never Broke Again,All In
+97,Pop Smoke,Got It On Me
+98,Jon Pardi,Ain't Always The Cowboy
+99,Rod Wave,Girl Of My Dreams
+108,Justin Bieber Featuring Chance The Rapper,Holy
+113,Justin Bieber & benny blanco,Lonely
+120,Fleetwood Mac,Dreams
+124,Pop Smoke,What You Know Bout Love
+129,Shawn Mendes,Wonder
+134,Sada Baby Featuring Nicki Minaj,Whole Lotta Choppas
+138,Travis Scott Featuring Young Thug & M.I.A.,Franchise
+140,Russell Dickerson,Love You Like I Used To
+141,21 Savage & Metro Boomin Featuring Drake,Mr. Right Now
+146,Dua Lipa,Levitating
+149,21 Savage & Metro Boomin,Runnin
+151,Yung Bleu Featuring Drake,You're Mines Still
+155,Matt Stell,Everywhere But On
+156,Luke Combs,Better Together
+159,Sam Smith,Diamonds
+162,Megan Thee Stallion Featuring Young Thug,Don't Stop
+165,SZA Featuring Ty Dolla $ign,Hit Different
+167,Chris Lane,"Big, Big Plans"
+168,Jhene Aiko Featuring H.E.R.,B.S.
+169,Ne-Yo & Jeremih,U 2 Luv
+170,G-Eazy Featuring blackbear,Hate The Way
+172,"Sech, Daddy Yankee & J Balvin Featuring Rosalia & Farruko",Relacion
+173,Niko Moon,Good Time
+174,Chloe X Halle,Do It
+177,DaBaby Featuring Young Thug,Blind
+178,Ritt Momney,Put Your Records On
+179,Marshmello & Demi Lovato,OK Not To Be OK
+180,Larray,Canceled
+181,21 Savage & Metro Boomin,Glock In My Lap
+184,Kenny Chesney,Happy Does
+191,Machine Gun Kelly,Bloody Valentine
+192,BRS Kash,Throat Baby (Go Baby)
+193,Kelsea Ballerini,Hole In The Bottle
+196,T.I. Featuring Lil Baby,Pardon
+197,Keith Urban Duet With P!nk,One Too Many
+199,Lady A,Champagne Night
+269,Luke Combs Featuring Amanda Shires,Without You
+279,Lil Tecca & Lil Uzi Vert,Dolly
+287,VEDO,You Got It
+288,YoungBoy Never Broke Again Featuring Lil Wayne,My Window
+289,Lil Tecca & Polo G Featuring Lil Durk,When You Down
+290,Anitta Featuring Cardi B & Myke Towers,Me Gusta
+291,YFN Lucci,Wet. (She Got That...)
+296,YoungBoy Never Broke Again,Drug Addiction
+299,Big Sean Featuring Post Malone,Wolves
+325,21 Savage & Metro Boomin Featuring Young Thug,Rich N*gga Sh*t
+331,21 Savage & Metro Boomin,Slidin
+332,21 Savage & Metro Boomin,Many Men
+336,Why Don't We,Fallin'
+347,Bryson Tiller Featuring Drake,Outta Time
+355,21 Savage & Metro Boomin,My Dawg
+356,21 Savage & Metro Boomin,Brand New Draco
+358,BLACKPINK,Lovesick Girls
+360,21 Savage & Metro Boomin Featuring Young Nudy,Snitches & Rats
+370,21 Savage & Metro Boomin,No Opp Left Behind
+373,21 Savage & Metro Boomin,Steppin On N*ggas
+375,21 Savage & Metro Boomin,RIP Luv
+382,Bryson Tiller,Always Forever
+383,Bryson Tiller,Years Go By
+390,21 Savage & Metro Boomin,Said N Done
+392,Polo G,Epidemic
+395,Machine Gun Kelly & Halsey,Forget Me Too
+400,Roddy Ricch,The Box
+403,Tones And I,Dance Monkey
+405,Arizona Zervas,Roxanne
+406,Maroon 5,Memories
+407,Lewis Capaldi,Someone You Loved
+410,Justin Bieber,Yummy
+411,Billie Eilish,Everything I Wanted
+412,Dan + Shay & Justin Bieber,"10,000 Hours"
+413,The Weeknd,Heartless
+414,blackbear,Hot Girl Bummer
+415,Billie Eilish,No Time To Die
+416,Mustard & Roddy Ricch,Ballin'
+417,DaBaby,BOP
+420,Selena Gomez,Lose You To Love Me
+421,Lizzo,Good As Hell
+422,"A Boogie Wit da Hoodie Featuring Roddy Ricch, Gunna & London On Da Track",Numbers
+423,Justin Bieber Featuring Post Malone & Clever,Forever
+424,Camila Cabello Featuring DaBaby,My Oh My
+425,Roddy Ricch Featuring Mustard,High Fashion
+426,Trevor Daniel,Falling
+427,Lil Baby,Woah
+428,Halsey,You Should Be Sad
+429,Billie Eilish,Bad Guy
+430,Chris Brown Featuring Drake,No Guidance
+431,Shawn Mendes & Camila Cabello,Senorita
+432,Jonas Brothers,What A Man Gotta Do
+433,Sam Hunt,Kinfolks
+434,Travis Scott,HIGHEST IN THE ROOM
+435,Eminem Featuring Juice WRLD,Godzilla
+436,SHAED,Trampoline
+437,Old Dominion,One Man Band
+438,Ed Sheeran & Justin Bieber,I Don't Care
+439,Black Eyed Peas X J Balvin,RITMO (Bad Boys For Life)
+440,Jonas Brothers,Sucker
+441,Jonas Brothers,Only Human
+442,Kane Brown,Homesick
+444,Lizzo,Truth Hurts
+445,Sam Smith,To Die For
+446,Karol G & Nicki Minaj,Tusa
+447,"Migos, Young Thug & Travis Scott",g n f (Give No Fxk)
+448,Pop Smoke,Dior
+449,Lil Baby,Sum 2 Prove
+451,Doja Cat & Tyga,Juicy
+452,Jimmie Allen,Make Me Want To
+454,H.E.R. Featuring YG,Slide
+455,YNW Melly & Juice WRLD,Suicidal
+456,Russ & BIA,BEST ON EARTH
+457,A Boogie Wit da Hoodie,Me And My Guitar
+458,Ed Sheeran Featuring Camila Cabello & Cardi B,South Of The Border
+459,Polo G Featuring NLE Choppa & Stunna 4 Vegas,Go Stupid
+460,Rod Wave,Heart On Ice
+461,Juice WRLD & YoungBoy Never Broke Again,Bandit
+462,Blake Shelton Duet With Gwen Stefani,Nobody But You
+463,Luke Bryan,What She Wants Tonight
+464,Carly Pearce & Lee Brice,I Hope You're Happy Now
+465,A Boogie Wit da Hoodie Featuring Young Thug,Might Not Give Up
+466,Riley Green,I Wish Grandpas Never Died
+467,JACKBOYS Featuring Young Thug,Out West
+468,Jason Aldean,We Back
+469,Ingrid Andress,More Hearts Than Mine
+471,Jordan Davis,Slow Dance In A Parking Lot
+472,A Boogie Wit da Hoodie,Thug Love
+473,Jake Owen,Homemade
+474,DaBaby Featuring Lil Baby & Moneybagg Yo,TOES
+476,The Weeknd,After Hours
+477,Khalid x Disclosure,Know Your Worth
+478,Bad Bunny & Sech,Ignorantes
+479,A Boogie Wit da Hoodie Featuring DaBaby,Stain
+480,Nicki Minaj,Yikes
+481,YoungBoy Never Broke Again,Make No Sense
+482,Diplo Presents Thomas Wesley Featuring Morgan Wallen,Heartless
+484,Dustin Lynch,Ridin' Roads
+485,Justin Bieber,Come Around Me
+486,Brett Young,Catch
+487,Megan Thee Stallion,B.I.T.C.H.
+488,Kelsea Ballerini,homecoming queen?
+489,Selena Gomez,Rare
+490,A Boogie Wit da Hoodie,King Of My City
+491,Garth Brooks & Blake Shelton,Dive Bar
+492,BrockHampton,SUGAR
+493,Summer Walker & Usher,Come Thru
+494,A Boogie Wit da Hoodie,Cinderella Story
+495,Bad Bunny,Vete
+496,Idina Menzel & AURORA,Into The Unknown
+497,Justin Bieber,Habitual
+498,Jhene Aiko,P*$$y Fairy (OTW)
+499,Justin Bieber,All Around Me
+532,Lil Wayne Featuring Big Sean & Lil Baby,I Do It
+542,Luke Combs,Even Though I'm Leaving
+546,Young Thug Featuring Gunna,Hot
+547,Jon Pardi,Heartache Medication
+549,Taylor Swift,Only The Young
+555,Demi Lovato,Anyone
+559,Dua Lipa,Physical
+560,Lil Wayne,Mahogany
+562,DaBaby,VIBEZ
+569,Lil Uzi Vert,Futsal Shuffle 2020
+572,Meek Mill Featuring Roddy Ricch,Letter To Nipsey
+577,Don Toliver,No Idea
+581,Mac Miller,Good News
+582,Roddy Ricch & Gunna,Start Wit Me
+586,Lil Wayne,Mama Mia
+587,Lil Wayne,Funeral
+588,Meghan Trainor Featuring Nicki Minaj,Nice To Meet Ya
+591,Tory Lanez & T-Pain,Jerry Sprunger
+592,Justin Bieber Featuring Kehlani,Get Me
+595,DaniLeigh Featuring Chris Brown,Easy
+597,MoneyBagg Yo Featuring Lil Baby,U Played
+598,NLE Choppa,Camelot
+599,Baby Keem,ORANGE SODA
+627,Eminem,Darkness
+630,Eminem Featuring Ed Sheeran,Those Kinda Nights
+635,Eminem Featuring Young M.A,Unaccommodating
+637,Mac Miller,Blue World
+638,Lil Nas X,Panini
+647,Mac Miller,Circles
+651,"Eminem Featuring Royce da 5'9"" & White Gold",You Gon' Learn
+653,Halsey,Graveyard
+656,BTS,Black Swan
+660,Eminem Featuring Skylar Grey,Leaving Heaven
+662,Mac Miller,Complicated
+663,Mac Miller,Hand Me Downs
+666,Eminem,Premonition (Intro)
+667,Mac Miller,I Can See
+670,Eminem,In Too Deep
+674,Mac Miller,Woods
+679,Mac Miller,Everybody
+682,Eminem,Marsh
+683,Eminem Featuring Don Toliver,No Regrets
+688,Eminem Featuring Anderson .Paak,Lock It Up
+690,Mac Miller,Surf
+692,Eminem,Stepdad
+693,Post Malone Featuring Ozzy Osbourne & Travis Scott,Take What You Want
+699,Mac Miller,That's On Me
+700,"THE SCOTTS, Travis Scott & Kid Cudi",The Scotts
+702,Drake,Toosie Slide
+710,Juice WRLD,Righteous
+727,Surfaces,Sunday Best
+729,Luke Combs Featuring Eric Church,Does To Me
+739,Thomas Rhett Featuring Jon Pardi,Beer Can't Fix
+740,twenty one pilots,Level Of Concern
+741,Demi Lovato,I Love Me
+743,Travis Denning,After A Few
+744,Lil Baby,All In
+746,Sam Hunt,Hard To Forget
+747,BENEE Featuring Gus Dapperton,Supalonely
+748,Travis Scott,Goosebumps
+750,The Weeknd,In Your Eyes
+755,NLE Choppa Featuring Roddy Ricch,Walk Em Down
+757,DaBaby Featuring YoungBoy Never Broke Again,Jump
+760,Lady Gaga,Stupid Love
+761,Bad Bunny,Yo Perreo Sola
+762,Sam Smith & Demi Lovato,I'm Ready
+764,Lil Uzi Vert,Sasuke
+766,DaBaby,Find My Way
+768,PARTYNEXTDOOR & Rihanna,Believe It
+769,Miranda Lambert,Bluebird
+770,Lil Baby,Emotionally Scarred
+772,Kenny Chesney,Here And Now
+773,"NAV, Gunna & Travis Scott",Turks
+779,Regard,Ride It.
+781,Scotty McCreery,In Between
+782,YoungBoy Never Broke Again,Ain't Easy
+785,YoungBoy Never Broke Again,Diamonds
+786,Lil Uzi Vert,Myron
+787,Noah Cyrus & Leon Bridges,July
+788,Megan Thee Stallion,Captain Hook
+789,YoungBoy Never Broke Again Featuring Sherhonda Gaulden,Bout My Business
+790,Lil Uzi Vert,That Way
+791,YoungBoy Never Broke Again,Rough Ryder
+793,Alicia Keys,Underdog
+795,DaBaby Featuring Ashanti & Megan Thee Stallion,NASTY
+796,Carrie Underwood,Drinking Alone
+797,"G Herbo Featuring Chance The Rapper, Juice WRLD & Lil Uzi Vert",PTSD
+798,YoungBoy Never Broke Again Featuring DaBaby,Thug Of Spades
+799,"Bad Bunny, Jowell & Randy & Nengo Flow",Safaera
+802,6ix9ine,Gooba
+832,Marshmello & Halsey,Be Kind
+845,Drake Featuring Giveon,Chicago Freestyle
+849,Kehlani Featuring Tory Lanez,Can I
+850,Drake Featuring Playboi Carti,Pain 1993
+864,Lil Tjay Featuring Fivio Foreign & Pop Smoke,Zoo York
+867,Kehlani,Toxic
+876,"Future, Drake & Young Thug",D4L
+879,Kehlani Featuring Jhene Aiko,Change Your Life
+883,Young T & Bugsey Featuring Headie One,Don't Rush
+884,Drake Featuring Future,Desires
+887,Moneybagg Yo,Me Vs Me
+889,Luke Combs,Six Feet Apart
+890,Lil Durk,Viral Moment
+891,Arcangel x Sech,Sigues Con El
+893,Drake,Time Flies
+894,Lil Baby & 42 Dugg,Grace
+898,Drake Featuring Fivio Foreign & Sosa Geek,Demons
+964,Andrew Jannakos,Gone Too Soon
+971,YoungBoy Never Broke Again,Dead Trollz
+975,YoungBoy Never Broke Again,Cross Roads
+980,YoungBoy Never Broke Again,The Last Backyard...
+987,YoungBoy Never Broke Again,Right Foot Creep
+997,YoungBoy Never Broke Again,Dirty Stick
+1006,Juice WRLD,Conversations
+1008,Juice WRLD X Halsey,Life's A Mess
+1009,Juice WRLD & Marshmello Featuring Polo G & The Kid LAROI,Hate The Other Side
+1011,Juice WRLD,Blood On My Jeans
+1013,Juice WRLD,Titanic
+1015,Juice WRLD,Bad Energy
+1021,Kid Cudi & Eminem,The Adventures Of Moon Man & Slim Shady
+1033,Juice WRLD,Stay High
+1034,Juice WRLD,Fighting Demons
+1037,Juice WRLD & Trippie Redd,Tell Me U Luv Me
+1041,Juice WRLD,Up Up And Away
+1045,Juice WRLD,Screw Juice
+1046,Juice WRLD,I Want It
+1049,Juice WRLD,Can't Die
+1050,Juice WRLD,Man Of The Year
+1059,LOCASH,One Big Country Song
+1071,"Black Eyed Peas, Ozuna + J.Rey Soul",Mamacita
+1074,Pop Smoke,Something Special
+1082,Pop Smoke,Gangstas
+1083,Summer Walker,Let It Go
+1085,Summer Walker & PARTYNEXTDOOR,My Affection
+1088,Pop Smoke Featuring Quavo,Aim For The Moon
+1089,Trevor Daniel x Selena Gomez,Past Life
+1098,Pop Smoke,44 Bulldog
+1132,BLACKPINK,How You Like That
+1148,Kanye West Featuring Travis Scott,Wash Us In The Blood
+1153,6ix9ine & Nicki Minaj,Trollz
+1169,Polo G Featuring Juice WRLD,Flex
+1170,Beyonce,Black Parade
+1174,6LACK Featuring Lil Baby,Know My Rights
+1178,Katy Perry,Daisies
+1179,Kid LAROI & Juice WRLD,Go!
+1186,Polo G,21
+1191,Eric Church,Stick That In Your Country Song
+1196,BRELAND,My Truck
+1197,Jonas Brothers Featuring Karol G,X
+1199,NLE Choppa,Shotta Flow 5
+1200,BTS,Life Goes On
+1203,Ariana Grande,Positions
+1207,Shawn Mendes & Justin Bieber,Monster
+1210,Billie Eilish,Therefore I Am
+1211,Megan Thee Stallion,Body
+1212,BTS,Blue & Grey
+1213,Mariah Carey,All I Want For Christmas Is You
+1214,Bad Bunny & Jhay Cortez,Dakiti
+1220,Brenda Lee,Rockin' Around The Christmas Tree
+1221,BTS,Stay
+1224,Morgan Wallen,Somebody's Problem
+1229,Ariana Grande Feat. Doja Cat & Megan Thee Stallion,34+35
+1230,Bobby Helms,Jingle Bell Rock
+1236,Andy Williams,It's The Most Wonderful Time Of The Year
+1241,Wham!,Last Christmas
+1244,Jose Feliciano,Feliz Navidad
+1245,Morgan Wallen,Still Goin Down
+1247,Nat King Cole,The Christmas Song (Merry Christmas To You)
+1248,Dean Martin,"Let It Snow, Let It Snow, Let It Snow"
+1252,Luke Combs,Forever After All
+1253,Miley Cyrus Featuring Dua Lipa,Prisoner
+1254,Lil Nas X,Holiday
+1263,Ariana Grande,pov
+1265,CJ,Whoopty
+1268,BTS,Fly To My Room
+1269,BTS,Telepathy
+1270,Megan Thee Stallion Featuring DaBaby,Cry Baby
+1271,BTS,Dis-ease
+1272,King Von,Took Her To The O
+1276,Jack Harlow,Tyler Herro
+1280,Harry Styles,Golden
+1281,Megan Thee Stallion,Shots Fired
+1282,Morgan Wallen,Livin' The Dream
+1284,Saweetie Featuring Jhene Aiko,Back To The Streets
+1285,Meek Mill Featuring Lil Durk,Pain Away
+1289,Future & Lil Uzi Vert,Drankin N Smokin
+1291,Megan Thee Stallion Featuring City Girls & Hot Girl Meg,Do It On The Tip
+1293,Megan Thee Stallion,Circles
+1296,Karol G,Bichota
+1298,Morgan Wallen,Cover Me Up
+1299,The Kid LAROI,So Done
+1313,Burl Ives,A Holly Jolly Christmas
+1319,The Ronettes,Sleigh Ride
+1324,Kelly Clarkson,Underneath The Tree
+1328,Andy Williams,Happy Holiday / The Holiday Season
+1329,Lil Baby,On Me
+1330,Darlene Love,Christmas (Baby Please Come Home)
+1331,Bing Crosby,White Christmas
+1332,Michael Buble,It's Beginning To Look A Lot Like Christmas
+1333,Gene Autry,Rudolph The Red-Nosed Reindeer
+1334,Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra,It's Beginning To Look A Lot Like Christmas
+1335,Gene Autry,Here Comes Santa Claus (Right Down Santa Claus Lane)
+1336,Perry Como With Mitchell Ayers And His Orchestra,(There's No Place Like) Home For The Holidays (1959)
+1338,Ariana Grande,Santa Tell Me
+1339,Chuck Berry,Run Rudolph Run
+1340,Lil Baby,Errbody
+1344,Paul McCartney,Wonderful Christmastime
+1358,Kelly Clarkson & Brett Eldredge,Under The Mistletoe
+1362,The Kid LAROI,Without You
+1370,Justin Bieber,Rockin' Around The Christmas Tree
+1371,Juice WRLD x benny blanco,Real Shit
+1373,Bad Bunny & Rosalia,La Noche de Anoche
+1374,Trey Lewis,Dicked Down In Dallas
+1375,Mariah Carey Featuring Ariana Grande & Jennifer Hudson,Oh Santa!
+1379,Carrie Underwood,Favorite Time Of Year
+1387,Dan + Shay,Take Me Home For Christmas
+1395,Carrie Underwood & John Legend,Hallelujah
+1396,DaBaby,Practice
+1398,Bad Bunny,Te Mudaste
+1399,Carrie Underwood,Silent Night
+1431,Thurl Ravenscroft,"You're A Mean One, Mr. Grinch"
+1432,Elvis Presley,Blue Christmas
+1435,Bing Crosby & The Andrews Sisters,Mele Kalikimaka (Merry Christmas)
+1437,Taylor Swift,Willow
+1438,Donny Hathaway,This Christmas
+1442,Nat King Cole,Deck The Halls
+1444,Eagles,Please Come Home For Christmas
+1445,Jackson 5,Santa Claus Is Comin' To Town
+1446,The Beach Boys,Little Saint Nick
+1448,Michael Buble,Have Yourself A Merry Little Christmas
+1449,Bing Crosby,I'll Be Home For Christmas
+1458,Ed Sheeran,Afterglow
+1459,Eminem,Gnat
+1476,Taylor Swift,Champagne Problems
+1477,Gabby Barrett,The First Noel
+1483,Popp Hunna,Adderall (Corvette Corvette)
+1485,Kid Cudi,Tequila Shots
+1488,Jack Harlow Featuring Big Sean,Way Out
+1490,Taylor Swift,'Tis The Damn Season
+1491,H.E.R.,Damage
+1492,Lil Durk,Backdoor
+1496,Taylor Swift Featuring HAIM,"No Body, No Crime"
+1497,DDG,Moonwalking In Calabasas
+1518,Lil Uzi Vert Featuring Chief Keef,Bean (Kobe)
+1525,Lil Uzi Vert & 21 Savage,Yessirskiii
+1526,Lil Uzi Vert,Baby Pluto
+1536,Lil Uzi Vert,P2
+1541,Lil Uzi Vert,Lo Mein
+1544,Lil Uzi Vert,Lotus
+1551,Lil Uzi Vert,Silly Watch
+1553,Lil Uzi Vert Featuring Future,Wassup
+1554,"Lil Yachty, Drake & DaBaby",Oprah's Bank Account
+1559,Lil Uzi Vert Featuring Young Thug & Gunna,Strawberry Peels
+1561,Lil Uzi Vert,Moon Relate
+1565,Lil Uzi Vert,I Can Show You
+1567,Lil Uzi Vert,Trap This Way (This Way)
+1569,Bad Bunny,Si Veo A Tu Mama
+1571,Lil Uzi Vert Featuring NAV,Leaders
+1572,Lil Baby & Gunna,Heatin Up
+1575,Lil Uzi Vert Featuring Lil Durk,No Auto
+1576,SZA X Justin Timberlake,The Other Side
+1579,Bad Bunny,La Dificil
+1581,Lil Uzi Vert,Homecoming
+1582,Lil Uzi Vert,Come This Way
+1586,Lil Uzi Vert Featuring Young Thug,Got The Guap
+1588,Lil Uzi Vert Featuring Young Nudy,Money Spread
+1589,Don Toliver,Cardigan
+1594,Lil Uzi Vert,Prices
+1645,Future & Lil Uzi Vert,Stripes Like Burberry
+1649,Future & Lil Uzi Vert,That's It
+1653,Future & Lil Uzi Vert,Real Baby Pluto
+1656,Phoebe & Maggie,Iris
+1663,Future & Lil Uzi Vert,Marni On Me
+1666,Future & Lil Uzi Vert,Million Dollar Play
+1667,Future & Lil Uzi Vert,Sleeping On The Floor
+1684,Thomas Rhett,What's Your Country Song
+1685,Future & Lil Uzi Vert,Plastic
+1692,Darius Rucker,Beers And Sunshine
+1693,Jason Derulo,Take You Dancing
+1694,Farruko,La Toxica
+1696,Future,Rockstar Chainz
+1699,Future & Lil Uzi Vert,Bought A Bad Bitch
+1731,Ariana Grande Featuring Doja Cat,Motive
+1734,Ariana Grande Featuring The Weeknd,Off The Table
+1742,Ariana Grande,Just Like Magic
+1746,Ariana Grande,Shut Up
+1747,Michael Jackson,Thriller
+1748,Ariana Grande,Nasty
+1751,Ariana Grande Featuring Ty Dolla $ign,Safety Net
+1762,Ariana Grande,Six Thirty
+1764,Ariana Grande,My Hair
+1769,Ariana Grande,Obvious
+1770,Ariana Grande,West Side
+1774,Ariana Grande,Love Language
+1779,Trippie Redd,Weeeeee
+1791,"Lil Durk, 6LACK & Young Thug",Stay Down
+1797,DJ Chose Featuring BeatKing,Thick
+1881,Taylor Swift Featuring Bon Iver,Exile
+1894,Mulatto,B*tch From da Souf
+1997,Pop Smoke Featuring Karol G,Enjoy Yourself
+1999,J. Cole,the.climb.back
+2018,A$AP Ferg Featuring  Nicki Minaj & MadeinTYO,Move Ya Hips
+2065,Taylor Swift,The Last Great American Dynasty
+2068,Taylor Swift,My Tears Ricochet
+2072,Taylor Swift,August
+2084,Taylor Swift,Invisible String
+2090,Taylor Swift,Betty
+2091,DaBaby x Stunna 4 Vegas,No Dribble
+2092,Taylor Swift,Mirrorball
+2096,J. Cole,Lion King On Ice
+2097,Taylor Swift,Seven
+2163,Rod Wave,Fuck The World
+2166,Rod Wave,Pray 4 Love
+2173,Rod Wave,Thief In The Night
+2175,Future,Tycoon
+2176,Rod Wave,I Remember
+2177,Rod Wave,The Greatest
+2183,Rod Wave,Ribbon In The Sky
+2187,Taylor Swift,The Man
+2188,Kane Brown & John Legend,Last Time I Say Sorry
+2194,Rod Wave,Thug Life
+2198,Rod Wave,No Weakness
+2220,The Weeknd,Alone Again
+2223,The Weeknd,Scared To Live
+2224,The Weeknd,Hardest To Love
+2227,The Weeknd,Too Late
+2231,The Weeknd,Snowchild
+2238,The Weeknd,Escape From LA
+2240,The Weeknd & Ariana Grande,Save Your Tears
+2244,The Weeknd,Faith
+2268,The Weeknd,Repeat After Me (Interlude)
+2279,The Weeknd,Until I Bleed Out
+2294,Kelsea Ballerini x Halsey,The Other Girl
+2322,Lil Baby Featuring Lil Uzi Vert,Commercial
+2327,Lil Baby Featuring Future,Live Off My Closet
+2352,Bad Bunny X Daddy Yankee,La Santa
+2353,Lil Baby,Get Ugly
+2357,Lil Baby & Moneybagg Yo,No Sucker
+2358,Lil Baby,How
+2362,Bad Bunny,Pero Ya No
+2363,Lil Baby Featuring Lil Wayne,Forever
+2367,BTS,ON
+2372,YoungBoy Never Broke Again,Lil Top
+2377,Lil Baby,Same Thing
+2381,Ashe Featuring Niall Horan,Moral Of The Story
+2388,Bad Bunny & Yaviah,Bichiyal
+2390,Lil Baby & Young Thug,We Should
+2393,Bad Bunny,Solia
+2396,Bad Bunny X Anuel AA,Esta Cabron Ser Yo
+2398,Lil Baby,Can't Explain
+2434,Playboi Carti,@ MEH
+2443,DaBaby Featuring Quavo,PICK UP
+2452,DaBaby Featuring Future & jetsonmade,LIGHTSKIN SH*T
+2462,DaBaby,CAN'T STOP
+2463,DaBaby,BLAME IT ON BABY
+2468,DaBaby,SAD SHIT
+2470,DaBaby Featuring A Boogie Wit da Hoodie & London On Da Track,DROP
+2473,DaBaby,TALK ABOUT IT
+2484,DaBaby,CHAMPION
+2485,Kelly Clarkson,I Dare You
+2489,Tory Lanez,Broke In A Minute
+2553,J. Cole,Snow On Tha Bluff
+2556,A Boogie Wit da Hoodie,Bleed
+2587,Tyla Yaweh & Post Malone,Tommy Lee
+2593,YoungBoy Never Broke Again Featuring Lil Baby,One Shot
+2594,J.I The Prince Of N.Y,Need Me
+2663,Meek Mill,Otherside Of America
+2679,Sleepy Hallow,Deep End Freestyle
+2681,Lady Gaga & BLACKPINK,Sour Candy
+2688,Gunna Featuring Roddy Ricch,Cooler Than A Bitch
+2694,Brantley Gilbert,Hard Days
+2698,Future Featuring YoungBoy Never Broke Again,Trillionaire
+2699,Kane Brown,Worldwide Beautiful
+2754,Gunna Featuring Travis Scott,Top Floor
+2756,Gunna,Wunna
+2758,Gunna Featuring Lil Baby,Blindfold
+2764,Gunna,SkyBox
+2766,Gunna,Argentina
+2769,Gunna,Met Gala
+2775,Agust D,Daechwita
+2777,Gunna,Nasty Girl / On Camera
+2782,Future Featuring Travis Scott,Solitaires
+2783,Gunna,MOTW
+2785,Gunna,Gimmick
+2792,Polo G Featuring Lil Baby,Be Something
+2797,Gunna,Feigning
+2814,Lil Nas X Featuring Billy Ray Cyrus,Old Town Road
+2832,Lil Tecca,Ran$om
+2833,Taylor Swift,Lover
+2838,Wale Featuring Jeremih,On Chill
+2839,Khalid,Talk
+2841,Ed Sheeran Featuring Khalid,Beautiful People
+2842,DaBaby,Suge
+2846,Lil Baby & DaBaby,Baby
+2847,JACKBOYS & Sheck Wes,GANG GANG
+2848,Lady Antebellum,What If I Never Get Over You
+2851,Don Toliver Featuring Quavo & Offset,HAD ENOUGH
+2852,Chris Brown Featuring Gunna,Heat
+2853,Summer Walker,Playing Games
+2855,JACKBOYS Featuring Don Toliver,WHAT TO DO?
+2860,Thomas Rhett,Remember You Young
+2866,"Layton Greene, Lil Baby, City Girls & PnB Rock",Leave Em Alone
+2868,"JACKBOYS, Pop Smoke & Travis Scott",GATTI
+2874,Niall Horan,Nice To Meet Ya
+2877,YNW Melly & 9lokknine,223's
+2879,Joji,Slow Dancing In The Dark
+2884,Post Malone Featuring DaBaby,Enemies
+2888,Roddy Ricch Featuring A Boogie Wit da Hoodie,Tip Toe
+2890,Trippie Redd Featuring DaBaby,Death
+2891,Ant Saunders,Yellow Hearts
+2893,Juice WRLD,Let Me Know (I Wonder Why Freestyle)
+2894,"DJ Snake, J. Balvin & Tyga",Loco Contigo
+2895,Doja Cat,Candy
+2897,"Anuel AA, Daddy Yankee, Karol G, Ozuna & J Balvin",China
+2982,Khalid,Eleven
+2983,Moneybagg Yo X Megan Thee Stallion,All Dat
+2985,John Legend,Conversations In The Dark
+2988,Moneybagg Yo Featuring DaBaby,Protect da Brand
+2991,Selena Gomez,Look At Her Now.
+2996,Roddy Ricch Featuring Meek Mill,Peta
+2999,Olivia Rodrigo,All I Want
+3053,Tory Lanez,Stupid Again
+3058,Selena Gomez,Boyfriend
+3083,Polo G,DND
+3099,Doja Cat,Boss Bitch
+3161,Rod Wave,Letter From Houston
+3185,Rod Wave,Freestyle
+3334,"Mike WiLL Made-It, Nicki Minaj & YoungBoy Never Broke Again",What That Speed Bout!?
+3364,NAV Featuring Lil Baby,Don't Need Friends
+3365,King Von Featuring Polo G,The Code
+3375,The Kid LAROI Featuring YoungBoy Never Brok Again & Internet Money,Tragic
+3376,King Von Featuring Lil Durk,All These N**gas
+3380,King Von Featuring Lil Durk,Crazy Story 2.0
+3382,The Kid LAROI,Always Do
+3383,NAV With Gunna,Young Wheezy
+3398,The Kid LAROI Featuring Machine Gun Kelly,"F*ck You, Goodbye"
+3452,Ty Dolla $ign Featuring Post Malone,Spicy
+3468,Luke Combs,The Other Guy
+3483,Luke Combs,Cold As You
+3498,Joel Corry X MNEK,Head & Heart
+3499,Little Big Town,"Wine, Beer, Whiskey"
+3538,Taylor Swift,This Is Me Trying
+3543,Taylor Swift,Illicit Affairs
+3546,Taylor Swift,Mad Woman
+3556,Taylor Swift,Epiphany
+3557,Taylor Swift,Peace
+3570,Taylor Swift,Hoax
+3594,Logic,Perfect
+3746,YoungBoy Never Broke Again,Red Eye
+3757,YoungBoy Never Broke Again,Fine By Time
+3758,YoungBoy Never Broke Again,Bad Bad
+3759,YoungBoy Never Broke Again,Knocked Off
+3779,YoungBoy Never Broke Again,RIP Lil Phat
+3783,BTS,My Time
+3784,YoungBoy Never Broke Again,Long RD
+3786,BTS,Filter
+3788,YoungBoy Never Broke Again,Bat Man
+3792,Pop Smoke Featuring Quavo,Shake The Room
+3797,Selena Gomez,Feel Me
+3859,PARTYNEXTDOOR Featuring Drake,Loyal
+3927,Lil Uzi Vert,POP
+3932,Lil Uzi Vert,Bigger Than Life
+3933,Lil Uzi Vert,Celebration Station
+3935,Lil Uzi Vert,You Better Move
+3936,Lil Uzi Vert,I'm Sorry
+3938,Lil Uzi Vert,Venetia
+3944,Lil Uzi Vert,Chrome Heart Tags
+3950,Lil Uzi Vert,Bust Me
+3964,Jhene Aiko Featuring Future & Miguel,Happiness Over Everything (H.O.E.)
+3971,Lil Uzi Vert,Secure The Bag
+3975,Lil Uzi Vert Featuring Syd,Urgency
+3986,Jhene Aiko,Triggered
+3992,Jhene Aiko Featuring Big Sean,None Of Your Concern
+4042,Frank Sinatra,Jingle Bells
+4043,Jonas Brothers,Like It's Christmas
+4044,Dean Martin,Baby It's Cold Outside
+4068,John Legend,Happy Xmas (War Is Over)
+4078,Ellie Goulding & Juice WRLD,Hate Me
+4091,DaBaby Featuring Offset,Baby Sitter
+4165,Rosalia & Travis Scott,TKN
+4182,"Lil Yachty & Tierra Whack Featuring A$AP Rocky & Tyler, The Creator",T.D
+4183,Lady Gaga,Alice
+4185,Anuel AA & Bad Bunny,Hasta Que Dios Diga
+4187,Kygo & OneRepublic,Lose Somebody
+4293,Lil Tjay,20/20
+4450,Pop Smoke Featuring Rowdy Rebel,Make It Rain
+4495,Zac Brown Band,The Man Who Loves You The Most
+4661,Lil Durk,The Voice
+4668,Big Sean Featuring Travis Scott,Lithuania
+4681,Big Sean Featuring Nipsey Hussle,Deep Reverence
+4694,Big Sean Featuring Ty Dolla $ign & Jhene Aiko,Body Language
+4696,Big Sean,Why Would I Stop?
+4773,Travis Scott,The Plan
+4795,Nas Featuring Fivio Foreign & A$AP Ferg,Spicy
+4888,Zayn,Better
+4890,Machine Gun Kelly,Drunk Face
+4893,Karol G,"Ay, Dios Mio!"
+4896,Tory Lanez,Money Over Fallouts
+5093,Camila Cabello,First Man
+5094,Ali Gatie,What If I Told You That I Love You
+5124,Drake Featuring Chris Brown,Not You Too
+5131,Drake,Deep Pockets
+5134,Drake,When To Say When
+5138,Drake,Landed
+5144,Drake,From Florida With Love
+5150,Drake,Losses
+5151,Drake,War
+5164,Lil Baby,Social Distancing
+5180,Lil Baby,Low Down
+5185,Lil Baby,Humble
+5252,Future,Trapped In The Sun
+5253,Future Featuring Lil Uzi Vert,All Bad
+5267,Future,Hard To Choose One
+5268,Future,Ridin Strikers
+5270,Future,Hitek Tek
+5274,Future,Too Comfortable
+5278,Future,Posted With Demons
+5280,Future,Touch The Sky
+5281,Future,One Of My
+5283,Future Featuring Young Thug,Harlem Shake
+5287,Polo G,Don't Believe The Hype
+5291,Polo G,Beautiful Pain (Losin My Mind)
+5292,Polo G,33
+5294,Polo G,I Know
+5367,Joji,Run
+5373,Lil Nas X & Cardi B Or Nas,Rodeo
+5382,Anuel AA,KEII
+5389,Meek Mill Featuring Justin Timberlake,Believe
+5396,Niall Horan,No Judgement
+5457,Bebe Rexha Featuring Doja Cat,"Baby, I'm Jealous"
+5497,Clairo,Sofia
+5539,Taylor Swift,Gold Rush
+5544,Taylor Swift,Tolerate It
+5548,Kid Cudi,She Knows This
+5551,Taylor Swift,Happiness
+5553,"Kid Cudi, Skepta & Pop Smoke",Show Out
+5556,Taylor Swift Featuring Bon Iver,Evermore
+5560,Taylor Swift,Ivy
+5562,Taylor Swift Featuring The National,Coney Island
+5563,Kid Cudi,Another Day
+5566,Taylor Swift,Dorothea
+5567,Taylor Swift,Long Story Short
+5570,Taylor Swift,Cowboy Like Me
+5574,Taylor Swift,Marjorie
+5577,Kid Cudi,Mr. Solo Dolo III
+5579,Kid Cudi,Dive
+5581,Taylor Swift,Closure
+5584,Kid Cudi,Heaven On Earth
+5588,The Kid LAROI & Juice WRLD,Reminds Me Of You
+5589,Kid Cudi,Sad People
+5590,Kid Cudi,Damaged
+5599,Kid Cudi,Beautiful Trip
+5842,Pop Smoke,Yea Yea
+5853,Pop Smoke Featuring Quavo & Future,Snitchin
+5854,Pop Smoke,Bad Bitch From Tokyo (Intro)
+5856,Pop Smoke Featuring Swae Lee,Creature
+5864,Pop Smoke Featuring Tyga & Quavo,West Coast Shit
+5875,Pop Smoke Featuring King Combs,Diana
+5878,Pop Smoke,Tunnel Vision (Outro)
+5898,6ix9ine,YaYa
+5963,Bad Bunny,Yo Visto Asi
+5971,Bad Bunny,Haciendo Que Me Amas
+5973,Bad Bunny,Te Deseo Lo Mejor
+5977,Bad Bunny,Booker T
+5978,Bad Bunny,El Mundo Es Mio
+5980,Bad Bunny,Hoy Cobre
+5986,Bad Bunny,Maldita Pobreza
+5993,Bad Bunny,La Droga
