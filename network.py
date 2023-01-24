@@ -13,7 +13,7 @@ def get_data(year):
     return df
 
 
-def build_network(data, min_count=50, min_connection=10):
+def build_network(data, min_count=50, min_connection=10, save_neo4j_config=False):
     """
     Given a suitable dataframe, constructs a network with the following properties:
 
@@ -80,6 +80,12 @@ def build_network(data, min_count=50, min_connection=10):
     print("Adding edges to the network...")
     G.add_edges_from(edges)
 
+    if save_neo4j_config:
+        with open("neo4j_config.csv", "w") as f:
+            f.write("start,stop,weight\n")
+            for edge in edges:
+                f.write(f"{edge[0]},{edge[1]},{edge[2]['weight']}\n")
+
     return G
 
 
@@ -92,7 +98,7 @@ if __name__ == "__main__":
 
     data = get_data(year)
 
-    G = build_network(data)
+    G = build_network(data, save_neo4j_config=True)
 
     print(G.number_of_nodes())
     print(G.number_of_edges())
