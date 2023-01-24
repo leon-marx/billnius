@@ -1,0 +1,502 @@
+artist;title
+Madonna;Like A Virgin
+Duran Duran;The Wild Boys
+The Honeydrippers;Sea Of Love
+New Edition;Cool It Now
+Pat Benatar;We Belong
+Jack Wagner;All I Need
+Daryl Hall John Oates;Out Of Touch
+Bryan Adams;Run To You
+Chicago;You're The Inspiration
+Julian Lennon;Valotte
+Bruce Springsteen;Born In The USA
+Chaka Khan;I Feel For You
+Jermaine Jackson;Do What You Do
+Foreigner;I Want To Know What Love Is
+Paul McCartney;No More Lonely Nights
+Philip Bailey With Phil Collins;Easy Lover
+Bob Seger;Understanding
+Ray Parker Jr.;Jamie
+Don Henley;The Boys Of Summer
+Band Aid;Do They Know It's Christmas?
+Cyndi Lauper;All Through The Night
+Survivor;I Can't Hold Back
+Wham! Featuring George Michael;Careless Whisper
+Rebbie Jackson;Centipede
+Prince And The Revolution;I Would Die 4 U
+Billy Ocean;Lover Boy
+Wham!;Wake Me Up Before You Go-Go
+The Cars;Hello Again
+Rick Springfield;Bruce
+Lionel Richie;Penny Lover
+Stevie Wonder;Love Light In Flight
+The Pointer Sisters;Neutron Dance
+John Cafferty & The Beaver Brown Band;Tender Years
+Sheila E.;The Belle Of St. Mark
+Daryl Hall John Oates;Method Of Modern Love
+Ashford & Simpson;Solid
+Steve Perry;Foolish Heart
+Giuffria;Call To The Heart
+The Time;Jungle Love
+Kool & The Gang;Misled
+Elton John;In Neon
+Sheena Easton;Strut
+Midnight Star;Operator
+U2;(Pride) In The Name Of Love
+Culture Club;Mistake No. 3
+General Public;Tenderness
+Cyndi Lauper;Money Changes Everything
+Glenn Frey;The Heat Is On
+Sheena Easton;Sugar Walls
+John Fogerty;The Old Man Down The Road
+Toto;Stranger In Town
+Dan Hartman;We Are The Young
+David Bowie;Tonight
+Diana Ross;Missing You
+Barbra Streisand With Kim Carnes;Make No Mistake, He's Mine
+Huey Lewis & The News;Walking On A Thin Line
+New Edition;Mr. Telephone Man
+Tina Turner;Better Be Good To Me
+Teena Marie;Lover Girl
+George Benson;20/20
+Laura Branigan;Ti Amo
+John Hunter;Tragedy
+Frankie Goes To Hollywood;Two Tribes
+The Kinks;Do It Again
+The Temptations;Treat Her Like A Lady
+John Parr;Naughty Naughty
+Corey Hart;It Ain't Enough
+Alphaville;Big In Japan
+Tommy Shaw;Lonely School
+Stevie Wonder;I Just Called To Say I Love You
+Billy Ocean;Caribbean Queen (No More Love On The Run)
+Prince And The Revolution;Purple Rain
+Bronski Beat;Small Town Boy
+Autograph;Turn Up The Radio
+Billy Squier;Eye On You
+Deep Purple;Knocking At Your Back Door
+Rod Stewart;All Right Now
+REO Speedwagon;I Do'wanna Know
+Jeffrey Osborne;Don't Stop
+The Honeydrippers;Rockin' At Midnight
+Kenny Rogers & Dolly Parton;The Greatest Gift Of All
+Dennis DeYoung;Desert Moon
+Chicago;Hard Habit To Break
+Roger Hodgson;Had A Dream (Sleeping With The Enemy)
+Nolan Thomas;Yo Little Brother
+Lorenzo Lamas;Fools Like Me
+Rick Springfield With Randy Crawford;Taxi Dancing
+Billy Idol;Catch My Fall
+John Waite;Tears
+Rick Dees;Eat My Shorts
+Kenny Rogers With Kim Carnes & James Ingram;What About Me?
+Shalamar;Amnesia
+Dazz Band;Let It All Blow
+Sammy Hagar;I Can't Drive 55
+Whodini;Friends/Five Minutes Of Funk
+The Pointer Sisters;I'm So Excited
+David Bowie;Blue Jean
+Billy Satellite;I Wanna Go Back
+Scandal Featuring Patty Smyth;Hands Tied
+Peter Wolf;I Need You Tonight
+Eugene Wilde;Gotta Get You Home Tonight
+Paul Hardcastle;Rain Forest
+David Lee Roth;California Girls
+REO Speedwagon;Can't Fight This Feeling
+Tina Turner;Private Dancer
+Pat Benatar;Ooh Ooh Song
+Frankie Goes To Hollywood;Relax
+Eric Carmen;I Wanna Hear It From Your Lips
+Chaka Khan;This Is My Night
+Jeffrey Osborne;The Borderlines
+Kim Wilde;Go For It
+Kim Carnes;Invitation To Dance
+Journey;Only The Young
+Julian Lennon;Too Late For Goodbyes
+Billy Joel;Keeping The Faith
+Survivor;High On You
+Commodores;Nightshift
+Scandal Featuring Patty Smyth;Beat Of A Heart
+The Cars;Why Can't I Have You
+Little River Band;Playing To Win
+Kenny Rogers;Crazy
+John Waite;Restless Heart
+Animotion;Obsession
+Duran Duran;Save A Prayer
+Bryan Adams;Somebody
+David Bowie/Pat Metheny Group;This Is Not America
+Jermaine Stewart;The Word Is Out
+The Manhattan Transfer;Baby Come Back To Me
+Jermaine Jackson & Pia Zadora;When The Rain Begins To Fall
+Madonna;Material Girl
+Mick Jagger;Just Another Night
+Phil Collins;One More Night
+Prince And The Revolution Duet With Apollonia;Take Me With U
+Toto;Holyanna
+Dan Hartman;Second Nature
+Roman Holliday;One Foot Back In Your Door
+The Firm;Radioactive
+Bruce Cockburn;If I Had A Rocket Launcher
+Bruce Springsteen;I'm On Fire
+Debarge;Rhythm Of The Night
+Greg Kihn;Lucky
+Isley, Jasper, Isley;Kiss and Tell
+The Alan Parsons Project;Let's Talk About Me
+Steve Miller;Bongo Bongo
+Patti LaBelle;New Attitude
+Chicago;Along Comes A Woman
+Don Henley;All She Wants to Do Is Dance
+Santana;Say It Again
+Murray Head;One Night In Bangkok
+The Time;The Bird
+Simple Minds;Don't You (Forget About Me)
+The Vels;Look My Way
+Go West;We Close Our Eyes
+Madonna;Crazy For You
+Robey;One Night In Bangkok
+Sade;Smooth Operator
+John Waite;Change
+The Manhattans;You Send Me
+Midnight Star;Scientific Love
+Eric Clapton;Forever Man
+UTFO;Roxanne, Roxanne
+Barbra Streisand;Emotion
+Alison Moyet;Invisible
+Mary Jane Girls;In My House
+Triumph;Follow Your Heart
+The Tubes;Piece By Piece
+Foreigner;That Was Yesterday
+Daryl Hall John Oates;Some Things Are Better Left Unsaid
+The Power Station;Some Like It Hot
+Tom Petty And The Heartbreakers;Don't Come Around Here No More
+John Fogerty;Rock And Roll Girls
+Tears For Fears;Everybody Wants To Rule The World
+Jesse Johnson's Revue;Be Your Man
+Luther Vandross;'Til My Baby Comes Home
+Maze Featuring Frankie Beverly;Back In Stride
+USA For Africa;We Are The World
+Wham!;Everything She Wants
+Kenny Loggins;Vox Humana
+Billy Ocean;Suddenly
+David Lee Roth;Just A Gigolo/I Ain't Got Nobody
+Kool & The Gang;Fresh
+Howard Jones;Things Can Only Get Better
+The Pointer Sisters;Baby Come And Get It
+Los Lobos;Will The Wolf Survive
+Katrina And The Waves;Walking On Sunshine
+Limahl;The NeverEnding Story
+Giuffria;Lonely In Love
+Dan Fogelberg;Go Down Easy
+Sheena Easton;Swear
+Donnie Iris;Injured In The Game of Love
+Alphaville;Forever Young
+Harold Faltermeyer;Axel F
+REO Speedwagon;One Lonely Night
+Rick Springfield;Celebrate Youth
+New Edition;Lost In Love
+Rick James;Can't Stop
+Glenn Frey;Smuggler's Blues
+Shannon;Do You Wanna Get Away
+Boy Meets Girl;Oh Girl
+Frankie Goes To Hollywood;Welcome To The Pleasure Dome
+Philip Bailey;Walking On The Chinese Wall
+Jules Shear;Steady
+John Parr;Magical
+'Til Tuesday;Voices Carry
+Kurtis Blow;Basketball
+Fiona;Talk To Me
+Robin George;Heartline
+Bryan Adams;Heaven
+Julian Lennon;Say You're Wrong
+Tina Turner;Show Some Respect
+Survivor;The Search Is Over
+Bon Jovi;Only Lonely
+Dave Edmunds;High School Nights
+Eric Carmen;I'm Through With Love
+Madonna;Angel
+Eurythmics;Would I Lie To You?
+Mick Jagger;Lucky In Love
+Peter Wolf;OO-EE-Diddley-Bop
+Teena Marie;Jammin'
+Chaka Khan;Through the Fire
+Freddie Mercury;I Was Born To Love You
+Melissa Manchester;Mathematics
+The Alan Parsons Project;Days Are Numbers (The Traveller)
+Natalie Cole;Dangerous
+Graham Parker & The Shot;Wake Up (Next To You)
+Jean Knight;My Toot Toot
+Gino Vannelli;Black Cars
+Dokken;Alone Again
+Maureen Steele;Save The Night For Me
+The Firm;Satisfaction Guaranteed
+Slade;Little Sheila
+Alex Brown;(Come On) Shout
+Belouis Some;Imagination
+Phil Collins;Sussudio
+John Cafferty & The Beaver Brown Band;Tough All Over
+Kim Carnes;Crazy In The Night (Barking At Airplanes)
+Whitney Houston;You Give Good Love
+Paul Young;Everytime You Go Away
+Menudo;Hold Me
+Lone Justice;Ways To Be Wicked
+Klymaxx;Meeting In The Ladies Room
+Al Corley;Square Rooms
+Prince And The Revolution;Raspberry Beret
+Duran Duran;A View To A Kill
+Cyndi Lauper;The Goonies `R' Good Enough
+Robert Plant;Little By Little
+Amy Grant;Find A Way
+Kim Mitchell;Go For Soda
+Hooters;All You Zombies
+Paul Hyde & Payolas;You're The Only Love
+The Beach Boys;Getcha Back
+Night Ranger;Sentimental Street
+Air Supply;Just As I Am
+Commodores;Animal Instinct
+John Fogerty;Centerfield
+Men At Work;Everything I Need
+Supertramp;Cannonball
+Depeche Mode;People Are People
+Don Henley;Not Enough Love In The World
+Kenny Loggins;Forever
+Jack Wagner;The Lady Of My Heart
+Freddie Jackson;Rock Me Tonight
+Atlantic Starr;Freak-A-Ristic
+Bruce Springsteen;Glory Days
+Daryl Hall John Oates;Possession Obsession
+Heart;What About Love?
+Debarge;Who's Holding Donna Now
+Paul Hardcastle;19
+Foreigner;Reaction To Action
+Animotion;Let Him Go
+Dead Or Alive;You Spin Me Round (Like A Record)
+Nile Rodgers;Let's Go Out Tonight
+Go West;Call Me
+Sting;If You Love Somebody Set Them Free
+The Power Station;Get It On (Bang A Gong)
+Corey Hart;Never Surrender
+Rick Springfield;State Of the Heart
+Tom Petty And The Heartbreakers;Make It Better (Forget About Me)
+Lisa Lisa And Cult Jam With Full Force;I Wonder If I Take You Home
+Jermaine Jackson;(Closest Thing To) Perfect
+Dolly Parton (Duet With Kenny Rogers);Real Love
+Tears For Fears;Shout
+Patti LaBelle;Stir It Up
+Jeff Beck & Rod Stewart;People Get Ready
+Vitamin Z;Burning Flame
+Sister Sledge;Frankie
+George Thorogood & The Destroyers;Willie & The Hand Jive
+Cock Robin;When Your Heart Is Weak
+Aretha Franklin;Freeway Of Love
+Weird Al Yankovic;Like A Surgeon
+Sade;Your Love Is King
+John Parr;St. Elmo's Fire (Man In Motion)
+Huey Lewis & The News;The Power Of Love
+Bryan Adams;Summer Of '69
+Tina Turner;We Don't Need Another Hero (Thunderdome)
+Pat Benatar;Invincible (Theme From The Legend Of Billie Jean)
+Billy Ocean;Mystery Lady
+Kool & The Gang;Cherish
+Howard Jones;Life In One Day
+Carly Simon;Tired Of Being Blonde
+Peabo Bryson;Take No Prisoners (In The Game Of Love)
+Ratt;Lay It Down
+Stephanie Mills;Bit By Bit (Theme From Fletch)
+Eric Clapton;See What Love Can Do
+Billy Joel;You're Only Human (Second Wind)
+The Pointer Sisters;Dare Me
+Motley Crue;Smokin' In The Boys Room
+REO Speedwagon;Live Every Moment
+Dire Straits;Money For Nothing
+Y&T;Summertime Girls
+a-ha;Take On Me
+Phil Collins;Don't Lose My Number
+The Motels;Shame
+Mary Jane Girls;Wild And Crazy Love
+Loose Ends;Hangin' On A String
+Limahl;Only For Love
+King;Love And Pride
+Jesse Johnson's Revue;I Want My Girl
+Alison Moyet;Love Resurrection
+Godley & Creme;Cry
+Wham!;Freedom
+Prince And The Revolution;Pop Life
+Michael McDonald;No Lookin' Back
+Billy Crystal;You Look Marvelous
+Katrina And The Waves;Do You Want Crying
+Laura Branigan;Spanish Eddie
+Curtie & The Boom Box;Black Kisses Never Make You Blue
+UB40;I Got You Babe
+Lone Justice;Sweet Sweet Baby(I'm Falling)
+Cheap Trick;Tonight It's You
+Eurythmics;There Must Be An Angel
+Kim Carnes;Abadabadango
+Julian Lennon;Jesse
+Ready For The World;Oh Sheila
+Bon Jovi;In And Out Of Love
+Belouis Some;Some People
+The Beach Boys;It's Getting Late
+John Waite;Every Step Of The Way
+John Cafferty & The Beaver Brown Band;C-I-T-Y
+Hooters;And We Danced
+Air Supply;Power Of Love (You Are My Lady)
+Urgent;Running Back
+The J. Geils Band;Fright Night
+Madonna;Dress You Up
+Whitney Houston;Saving All My Love For You
+Foreigner;Down On Love
+Survivor;First Night
+Steve Arrington;Dancin' In The Key Of Life
+What Is This;I'll Be Around
+Amy Grant;Wise Up
+Tom Petty And The Heartbreakers;Rebels
+John Mellencamp;Lonely Ol' Night
+Sting;Fortress Around Your Heart
+Loverboy;Lovin' Every Minute Of It
+Night Ranger;Four In The Morning (I Can't Take Anymore)
+ABC;Be Near Me
+'Til Tuesday;Looking Over My Shoulder
+9.9;All Of Me For All Of You
+Eric Martin;Information
+David Foster;Love Theme From St. Elmo's Fire (Instrumental)
+David Bowie & Mick Jagger;Dancing In The Street
+Stevie Wonder;Part-Time Lover
+Daryl Hall John Oates;The Way You Do The Things You Do/My Girl
+Bruce Springsteen;I'm Goin' Down
+Don Henley;Sunset Grill
+Paul Young;I'm Gonna Tear Your Playhouse Down
+Jan Hammer;Miami Vice Theme
+The Power Station;Communication
+El DeBarge With DeBarge;You Wear It Well
+Starship;We Built This City
+The Romantics;Test Of Time
+Orchestral Manoeuvres In The Dark;So In Love
+Oingo Boingo;Weird Science
+Maurice White;Stand By Me
+Freddie Jackson;You Are My Lady
+Scritti Politti;Perfect Way
+Natalie Cole;A Little Bit of Heaven
+Depeche Mode;Master & Servant/(Set Me Free) Remotivate Me
+Talking Heads;And She Was
+Kate Bush;Running Up That Hill (A Deal With God)
+Tears For Fears;Head Over Heels
+Bryan Adams;One Night Love Affair
+Glenn Frey;You Belong To The City
+Corey Hart;Boy In The Box
+Heart;Never
+Five Star;All Fall Down
+Klymaxx;I Miss You
+Roger Daltrey;After The Fire
+Thompson Twins;Lay Your Hands On Me
+Cheech & Chong;Born In East L.A.
+Jennifer Holliday;Hard Times For Lovers
+Mr. Mister;Broken Wings
+Diana Ross;Eaten Alive
+Commodores;Janet
+Eddie & The Tide;One In A Million
+Dead Or Alive;Lover Come Back To Me
+Gino Vannelli;Hurts To Be In Love
+Aretha Franklin;Who's Zoomin' Who
+The Family;Screams Of Passion
+Starpoint;Object Of My Desire
+Howard Jones;Like To Get To Know You Well
+Rene & Angela;I'll Be Good
+Morris Day;The Oak Tree
+Jane Wiedlin;Blue Kiss
+Go West;Eye To Eye
+Phil Collins and Marilyn Martin;Separate Lives
+Tina Turner;One Of The Living
+Olivia Newton-John;Soul Kiss
+Billy Joel;The Night Is Still Young
+Ray Parker Jr.;Girls Are More Fun
+Eddie Murphy;Party All The Time
+Marillion;Kayleigh
+Tommy Shaw;Remo's Theme (What If)
+Wang Chung;To Live And Die In L.A.
+Katrina And The Waves;Que Te Quiero
+Ta Mara & The Seen;Everybody Dance
+Kenny Loggins;I'll Be There
+Ratt;You're In Love
+ZZ Top;Sleeping Bag
+Simple Minds;Alive & Kicking
+Eurythmics & Aretha Franklin;Sisters Are Doin' It For Themselves
+Prince And The Revolution;America
+Baltimora;"Tarzan Boy (From ""Teenage Mutant Ninja Turtles III"")"
+Laura Branigan;Hold Me
+KISS;Tears Are Falling
+John Waite;Welcome To Paradise
+Quarterflash;Talk To Me
+Miami Sound Machine;Conga
+Arcadia;Election Day
+Elton John;Wrap Her Up
+Sheena Easton;Do It For Love
+Kool & The Gang;Emergency
+Christopher Cross;Charm The Snake
+Clarence Clemons & Jackson Browne;You're A Friend Of Mine
+Jack Wagner;Too Young
+The Motels;Shock
+Motley Crue;Home Sweet Home
+John Mellencamp;Small Town
+The Cars;Tonight She Comes
+Dire Straits;Walk Of Life
+Survivor;Burning Heart
+Artists United Against Apartheid;Sun City
+The Pointer Sisters;Freedom
+New Edition;Count Me Out
+Lionel Richie;Say You, Say Me
+Sting;Love Is The Seventh Wave
+Dionne & Friends Featuring Elton John, Gladys Knight And Stevie Wonder;That's What Friends Are For
+James Taylor;Everyday
+Night Ranger;Goodbye
+John Cafferty & The Beaver Brown Band;Small Town Girl
+Pete Townshend;Face The Face
+Rush;The Big Money
+Stevie Nicks;Talk To Me
+Jellybean Featuring Catherine Buchanan;Sidewalk Talk
+Sheila E.;A Love Bizarre
+Loverboy;Dangerous
+INXS;This Time
+John Parr;Love Grammar
+Robert Palmer;Discipline Of Love
+Lisa Lisa And Cult Jam With Full Force;Can You Feel The Beat
+Bryan Adams/Tina Turner;It's Only Love
+Paul McCartney;Spies Like Us
+Stevie Wonder;Go Home
+Pat Benatar;Sex As A Weapon
+Paul Young;Everything Must Change
+Kenny Rogers;Morning Desire
+Sade;The Sweetest Taboo
+Mike + The Mechanics;Silent Running (On Dangerous Ground)
+Wham!;I'm Your Man
+Billy Ocean;When The Going Gets Tough, The Tough Get Going
+Corey Hart;Everything In My Heart
+Bruce Springsteen;My Hometown
+Whitney Houston;How Will I Know
+a-ha;The Sun Always Shines on T.V.
+The Dream Academy;Life In A Northern Town
+Twisted Sister;Leader Of The Pack
+Asia;Go
+Queen;One Vision
+Nick Lowe And His Cowboy Outfit;I Knew The Bride (When She Use To Rock And Roll)
+James Brown;Living In America
+Ready For The World;Digital Display
+El DeBarge With DeBarge;The Heart Is Not So Smart
+Jon Butcher Axis;Sounds Of Your Voice
+Diana Ross;Chain Reaction
+Isley, Jasper, Isley;Caravan Of Love
+Eugene Wilde;Don't Say No Tonight
+Hooters;Day By Day
+Barbra Streisand;Somewhere
+Orchestral Manoeuvres In The Dark;Secret
+Charlie Sexton;Beat's So Lonely
+Freddie Jackson;He'll Never Love You (Like I Do)
+Mr. Mister;Kyrie
+Fortune;Stacy
+Alisha;Baby Talk
+Chaka Khan;Own The Night
+Starship;Sara
+Atlantic Starr;Secret Lovers
+Sly Fox;Let's Go All The Way
+Joni Mitchell;Good Friends
+Roger Daltrey;Let Me Down Easy
+The Alarm;Strength

@@ -1,0 +1,101 @@
+artist;title
+Ricky Nelson;Poor Little Fool
+Perez Prado And His Orchestra;Patricia
+Bobby Darin;Splish Splash
+Elvis Presley With The Jordanaires;Hard Headed Woman
+Kalin Twins;When
+Duane Eddy His Twangy Guitar And The Rebels;Rebel-'rouser
+The Coasters;Yakety Yak
+Jack Scott;My True Love
+The Johnny Otis Show;Willie And The Hand Jive
+Peggy Lee;Fever
+Frankie Avalon;Ginger Bread
+Jimmy Clanton And His Rockets;Just A Dream
+Patti Page;Left Right Out Of Your Heart (Hi Lee Hi Lo Hi Lup Up Up)
+Pat Boone;If Dreams Came True
+Jerry Butler and The Impressions;For Your Precious Love
+The Danleers;One Summer Night
+Jody Reynolds;Endless Sleep
+The Elegants;Little Star
+Doris Day;Everybody Loves A Lover
+Bobby Freeman;Do You Want To Dance
+Johnny Cash And The Tennessee Two;Guess Things Happen That Way
+Johnny Mathis;A Certain Smile
+The Olympics;Western Movies
+Sheb Wooley;The Purple People Eater
+Chuck Willis;What Am I Living For
+Poni-Tails;Born Too Late
+The Crickets;Think It Over
+Jimmie Rodgers;Secretly
+The Four Lads;Enchanted Island
+Dean Martin;Angel Baby
+Big Bopper;Chantilly Lace
+Don Gibson;Blue Blue Day
+Tony And Joe;The Freeze
+Elvis Presley With The Jordanaires;Don't Ask Me Why
+Bobby Day;Rock-in Robin
+Gerry Granahan;No Chemise, Please
+Perry Como;Moon Talk
+Buddy Knox with the Rhythm Orchids;Somebody Touched Me
+Pat Boone;That's How Much I Love You
+Bobby Hamilton;Crazy Eyes For You
+Buddy Holly;Early In The Morning
+The Slades;You Cheated
+Clyde McPhatter;Come What May
+Jan & Arnie;Jennie Lee
+The Diamonds;Kathy-O
+Gino & Gina;(It's Been A Long Time) Pretty Baby
+Dion & The Belmonts;I Wonder Why
+Dean Martin;Return To Me
+The Everly Brothers;All I Have To Do Is Dream
+Jimmy Bowen with the Rhythm Orchids;By The Light Of The Silvery Moon
+The Kirby Stone Four;Baubles, Bangles And Beads
+The Rinky-Dinks;Early In The Morning
+Nat King Cole;Come Closer To Me (Acercate Mas)
+Domenico Modugno;Nel Blu Dipinto Di Blu (Volare)
+The Three G's;Let's Go Steady For The Summer
+Jack Scott;Leroy
+Eydie Gorme;You Need Hands
+The Crickets;Fool's Paradise
+Tony Bennett;Young And Warm And Wonderful
+Bobby Day;Over And Over
+Bobby Hendricks;Itchy Twitchy Feeling
+Ed Townsend;For Your Love
+Toni Arden;Padre
+Jerry Lee Lewis And His Pumping Piano;High School Confidential
+The Platters;You're Making A Mistake
+Jim Backus & Friend;Delicious!
+The Four Preps;Big Man
+Dean Martin;Volare (Nel Blu Dipinto Di Blu)
+The Honeycones;Op
+The Playmates;Don't Go Home
+Frank Gallup;Got A Match?
+Connie Francis;Stupid Cupid
+Oscar McLollie and Jeanette Baker;Hey Girl - Hey Boy
+Sam Cooke;Win Your Love For Me
+Eydie Gorme;Gotta Have Rain
+Paul Anka;Midnight
+The Diamonds;Happy Years
+Bobby Freeman;Betty Lou Got A New Pair Of Shoes
+David Seville;The Bird On My Head
+Chuck Berry;Johnny B. Goode
+Chuck Berry;Beautiful Delilah
+Bill Doggett;Blip Blop
+Lee Andrews And The Hearts;Try The Impossible
+Eddie Cochran;Summertime Blues
+The Daddy-O's;Got A Match?
+Jackie Wilson;To Be Loved
+Kitty Wells;Jealousy
+The Upbeats;Just Like In The Movies
+Jim Reeves;Blue Boy
+The Ames Brothers;Stay
+Joe South;The Purple People Eater Meets The Witch Doctor
+The Everly Brothers;Bird Dog
+Jimmie Rodgers;Are You Really Mine
+Marty Robbins;She Was Only Seventeen (He Was One Year More)
+Fats Domino;Little Mary
+Thurston Harris;Over And Over
+Robert & Johnny;I Believe In You
+The Ames Brothers;Little Serenade
+Billy Williams;I'll Get By (As Long As I Have You)
+Frankie Vaughan;Judy

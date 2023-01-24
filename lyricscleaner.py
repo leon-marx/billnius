@@ -90,5 +90,5 @@ for year in range(1955, 2024, 1):
     df_songs['filename'] = songlist
 
     # print(df_songs.head())
-    df_songs.to_csv(f"./songs_cleaned/songs_{year}.csv", sep=";", index=False)
+    df_songs.to_csv(f"./songs_cleaned_version_2/songs_{year}.csv", sep=";", index=False)
     print("")

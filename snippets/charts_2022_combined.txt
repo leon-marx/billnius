@@ -1,0 +1,743 @@
+artist;title
+Mariah Carey;All I Want For Christmas Is You
+Brenda Lee;Rockin' Around The Christmas Tree
+Bobby Helms;Jingle Bell Rock
+Burl Ives;A Holly Jolly Christmas
+Adele;Easy On Me
+Andy Williams;It's The Most Wonderful Time Of The Year
+Wham!;Last Christmas
+Jose Feliciano;Feliz Navidad
+The Kid LAROI & Justin Bieber;Stay
+The Ronettes;Sleigh Ride
+Nat King Cole;The Christmas Song (Merry Christmas To You)
+Dean Martin;Let It Snow, Let It Snow, Let It Snow
+Kelly Clarkson;Underneath The Tree
+Lil Durk Featuring Morgan Wallen;Broadway Girls
+Glass Animals;Heat Waves
+Darlene Love;Christmas (Baby Please Come Home)
+Perry Como And The Fontane Sisters With Mitchell Ayres And His Orchestra;It's Beginning To Look A Lot Like Christmas
+Ariana Grande;Santa Tell Me
+Gene Autry;Rudolph The Red-Nosed Reindeer
+Andy Williams;Happy Holiday / The Holiday Season
+Bing Crosby;White Christmas
+Lil Nas X & Jack Harlow;Industry Baby
+Ed Sheeran;Shivers
+Doja Cat;Need To Know
+Chuck Berry;Run Rudolph Run
+Kodak Black;Super Gremlin
+GAYLE;abcdefu
+Perry Como With Mitchell Ayers And His Orchestra;(There's No Place Like) Home For The Holidays (1959)
+Elton John & Dua Lipa;Cold Heart (PNAU Remix)
+Michael Buble;It's Beginning To Look A Lot Like Christmas
+Ed Sheeran;Bad Habits
+Silk Sonic (Bruno Mars & Anderson .Paak);Smokin Out The Window
+Frank Sinatra;Jingle Bells
+Thurl Ravenscroft;You're A Mean One, Mr. Grinch
+Eartha Kitt With Henri Rene And His Orchestra;Santa Baby
+Paul McCartney;Wonderful Christmastime
+Vince Guaraldi Trio;Linus And Lucy (Peanuts Theme)
+Olivia Rodrigo;Good 4 U
+Justin Bieber;Ghost
+Eagles;Please Come Home For Christmas
+Jackson 5;Santa Claus Is Comin' To Town
+SZA;I Hate U
+The Beach Boys;Little Saint Nick
+Justin Bieber;Mistletoe
+Walker Hayes;Fancy Like
+Nat King Cole;Deck The Halls
+Michael Buble;Have Yourself A Merry Little Christmas
+Vince Guaraldi Trio;Christmastime Is Here
+Lil Nas X;Thats What I Want
+Post Malone & The Weeknd;One Right Now
+Billie Eilish;Happier Than Ever
+CKay;Love Nwantiti (Ah Ah Ah)
+Drake Featuring 21 Savage & Project Pat;Knife Talk
+Dustin Lynch Featuring Lauren Alaina Or MacKenzie Porter;Thinking 'Bout You
+Ed Sheeran & Elton John;Merry Christmas
+NEIKED X Mae Muller X Polo G;Better Days
+Adele;Oh My God
+Drake Featuring Future & Young Thug;Way 2 Sexy
+Jordan Davis Featuring Luke Bryan;Buy Dirt
+THE ANXIETY: WILLOW & Tyler Cole;Meet Me At Our Spot
+Chris Stapleton;You Should Probably Leave
+Taylor Swift;Christmas Tree Farm (Old Timey Version)
+Dan + Shay;Pick Out A Christmas Tree
+Michael Ray;Whiskey And Rain
+Drake Featuring Lil Baby;Girls Want Girls
+Morgan Wallen;Sand In My Boots
+Nardo Wick Featuring G Herbo, Lil Durk & 21 Savage;Who Want Smoke??
+Taylor Swift;All Too Well (Taylor's Version)
+Latto;Big Energy
+Imagine Dragons X JID;Enemy
+Camila Cabello;I'll Be Home For Christmas
+Blxst & Tyga Featuring Ty Dolla $ign;Chosen
+Kane Brown;One Mississippi
+Juice WRLD;Burn
+Chloe;Have Mercy
+Doja Cat;Woman
+Roddy Ricch;25 Million
+Rod Wave;By Your Side
+Kelly Clarkson;Christmas Isn't Canceled (Just You)
+Giveon;For Tonight
+Oliver Tree;Life Goes On
+Cody Johnson;'Til You Can't
+Parker McCollum;To Be Loved By You
+Coldplay x BTS;My Universe
+Roddy Ricch Featuring Lil Baby;Moved To Miami
+Jimmie Allen & Brad Paisley;Freedom Was A Highway
+Juice WRLD & Justin Bieber;Wandered To LA.
+Juice WRLD;Already Dead
+Jon Pardi;Tequila Little Time
+Moneybagg Yo;Scorpio
+Roddy Ricch Featuring Kodak Black & 21 Savage;Hibachi
+Eric Church;Heart On Fire
+Taylor Swift;Message In A Bottle (Taylor's Version) (From The Vault)
+Zac Brown Band;Same Boat
+Roddy Ricch;Thailand
+Young Thug With Drake & Travis Scott;Bubbly
+Acraze Featuring Cherish;Do It To It
+Summer Walker & SZA;No Love
+Kenny Chesney;Knowing You
+Baby Keem & Kendrick Lamar;Family Ties
+Wizkid Featuring Justin Bieber & Tems;Essence
+Doja Cat Featuring SZA;Kiss Me More
+Doja Cat & The Weeknd;You Right
+Carolina Gaitan, Mauro Castillo, Adassa, Rhenzy Feliz, Diane Guerrero, Stephanie Beatriz & Encanto Cast;We Don't Talk About Bruno
+Jessica Darrow;Surface Pressure
+V;Christmas Tree
+Muni Long;Hrs And Hrs
+Luke Combs;Doin' This
+Kelsea Ballerini Featuring Kenny Chesney;Half Of My Hometown
+Wale Featuring J. Cole;Poke It Out
+Emmy Meli;I Am Woman
+Ari Lennox;Pressure
+Dierks Bentley, BRELAND & HARDY;Beers On Me
+Sam Hunt;23
+Dua Lipa;Levitating
+The Weeknd & Ariana Grande;Save Your Tears
+Jason Aldean & Carrie Underwood;If I Didn't Love You
+Maneskin;Beggin'
+Lil Nas X;Montero (Call Me By Your Name)
+Farruko;Pepas
+Silk Sonic (Bruno Mars & Anderson .Paak);Leave The Door Open
+Ryan Hurd With Maren Morris;Chasing After You
+Stephanie Beatriz, Olga Merediz & Encanto Cast;The Family Madrigal
+Diane Guerrero & Stephanie Beatriz;What Else Can I Do?
+ERNEST Featuring Morgan Wallen;Flower Shops
+Lauren Spencer-Smith;Fingers Crossed
+Stephanie Beatriz;Waiting On A Miracle
+Sebastian Yatra;Dos Oruguitas
+Gunna & Future;Too Easy
+Drake Featuring Travis Scott;Fair Trade
+Aventura x Bad Bunny;Volvi
+Walker Hayes;AA
+H.E.R. Featuring Chris Brown;Come Through
+Russell Dickerson;Home Sweet
+Blake Shelton;Come Back As A Country Boy
+YoungBoy Never Broke Again & Birdman;Black Ball
+Yung Bleu, Chris Brown & 2 Chainz;Baddest
+Swedish House Mafia & The Weeknd;Moth To A Flame
+Nardo Wick, Lil Baby & Future;Me Or Sum
+The Walters;I Love You So
+Polo G;Bad Man (Smooth Criminal)
+Carly Pearce & Ashley McBryde;Never Wanted To Be That Girl
+Priscilla Block;Just About Over You
+Gunna & Future Featuring Young Thug;Pushin P
+The Weeknd;Sacrifice
+The Weeknd;Take My Breath
+Gunna & 21 Savage;Thought I Was Playing
+Gunna Featuring Lil Baby;25k Jacket
+The Weeknd;Gasoline
+The Weeknd;Is There Someone Else?
+The Weeknd;Out Of Time
+The Weeknd;How Do I Make You Love Me?
+Gunna;Poochie Gown
+Gunna Featuring Young Thug;Mop
+Gunna;Alotta Cake
+Gunna Featuring Kodak Black;How You Did That
+The Weeknd Featuring Tyler, The Creator;Here We Go... Again
+The Weeknd;Less Than Zero
+Gunna Featuring G Herbo;IDK That Bitch
+The Weeknd;Best Friends
+Gunna;Livin Wild
+The Weeknd Featuring Lil Wayne;I Heard You're Married
+Maren Morris;Circles Around This Town
+The Weeknd;Dawn FM
+Gunna;Private Island
+Gunna;South To West
+Gunna & Chloe;You & Me
+The Weeknd;Starry Eyes
+The Weeknd;Don't Break My Heart
+Gunna;Flooded
+Gunna & Chris Brown Featuring Yung Bleu;Die Alone
+The Weeknd;Every Angel Is Terrifying
+Rod Wave;Cold December
+Charlie Puth;Light Switch
+Gunna Featuring Drake;P Power
+YoungBoy Never Broke Again;No Switch
+YoungBoy Never Broke Again;Bring It On
+YoungBoy Never Broke Again;Bring The Hook
+YoungBoy Never Broke Again;Fish Scale
+The Game & Kanye West;Eazy
+Internet Money Featuring YoungBoy Never Broke Again;Flossin'
+Key Glock;Proud
+YoungBoy Never Broke Again;Know Like I Know
+Cole Swindell / Lainey Wilson;Never Say Never
+Stephanie Beatriz, Olga Merediz, John Leguizamo, Adassa, Maluma & Encanto Cast;All Of You
+YoungBoy Never Broke Again;2Hoo
+YoungBoy Never Broke Again;Long Live
+YoungBoy Never Broke Again;Dis & That
+Yung Bleu & Kehlani;Beautiful Lies
+YoungBoy Never Broke Again;Smoke One
+Chris Brown;Iffy
+Gucci Mane Featuring Lil Durk;Rumors
+The Chainsmokers;High
+Benny The Butcher & J. Cole;Johnny P's Caddy
+Fireboy DML & Ed Sheeran;Peru
+Doja Cat;Get Into It (Yuh)
+Miranda Lambert;If I Was A Cowboy
+NLE Choppa;Shotta Flow 6
+XXXTENTACION;Vice City
+Em Beihold;Numb Little Bug
+Jaymes Young;Infinity
+Tiesto & Ava Max;The Motto
+Megan Thee Stallion;Megan's Piano
+Carlos Vives;Colombia, Mi Encanto
+Nicki Minaj X Lil Baby;Do We Have A Problem?
+King Von & 21 Savage;Don't Play That
+Juice WRLD;Cigarettes
+Tate McRae;She's All I Wanna Be
+YG Featuring J. Cole & Moneybagg Yo;Scared Money
+Machine Gun Kelly & WILLOW;Emo Girl
+Red Hot Chili Peppers;Black Summer
+$NOT & A$AP Rocky;Doja
+Queen Naija & Big Sean;Hate Our Love
+Alesso / Katy Perry;When I'm Gone
+Becky G X Karol G;MAMIII
+Nicki Minaj X Lil Baby;Bussin
+Ed Sheeran Featuring Taylor Swift;The Joker And The Queen
+Dr. Dre Featuring Snoop Dogg;Still D.R.E.
+Future;Worst Day
+Dr. Dre Featuring Snoop Dogg;The Next Episode
+Eminem;Lose Yourself
+Fivio Foreign, Kanye West & Alicia Keys;City Of Gods
+Dove Cameron;Boyfriend
+Mary J. Blige;Good Morning Gorgeous
+Saweetie Featuring H.E.R.;Closer
+Jung Kook;Stay Alive
+Jack Harlow;Nail Tech
+Lil Durk;Ahhh Ha
+Gunna;Banking On Me
+Yeat;Poppin
+Jessie Murph;Pray
+HARDY;Give Heaven Some Hell
+Tyga X Doja Cat;Freaky Deaky
+Labrinth & Zendaya;I'm Tired
+YoungBoy Never Broke Again;I Hate YoungBoy
+Kodak Black;Usain Boo
+Thomas Rhett;Slow Down Summer
+Kodak Black;I Wish
+JNR CHOI & Sam Tompkins;To The Moon!
+Lil Shordie Scott;Rocking A Cardigan In Atlanta
+Camila Cabello Featuring Ed Sheeran;Bam Bam
+Elle King & Miranda Lambert;Drunk (And I Don't Wanna Go Home)
+Russ Featuring Ktlyn;Handsomer
+Gucci Mane;Publicity Stunt
+King Von;War
+Machine Gun Kelly & Lil Wayne;Ay!
+DaBaby & YoungBoy Never Broke Again;Neighborhood Superstar
+King Von Featuring G Herbo;Facetime
+King Von Featuring Fivio Foreign;Straight To It
+King Von & Lil Durk;Evil Twins
+King Von Featuring Moneybagg Yo;Trust Nothing
+Megan Thee Stallion & Dua Lipa;Sweetest Pie
+Lil Durk Featuring Gunna;What Happened To Virgil
+Lil Durk Featuring Future;Petty Too
+Lil Durk;No Interviews
+Lil Durk;Golden Child
+Kevin Gates Featuring Juicy J;Thinking With My Dick
+Nirvana;Something In The Way
+Lil Durk;Barbarian
+Lil Durk;Shootout @ My Crib
+Lil Durk;Started From
+Lil Durk;Headtaps
+Lil Durk;Smoking & Thinking
+Lil Durk;Grow Up/Keep It On Speaker
+Lil Durk;Blocklist
+Lil Durk Featuring Summer Walker;Difference Is
+Lil Durk;Federal Nightmares
+Imagine Dragons;Bones
+Lil Durk;Pissed Me Off
+Coi Leray & Nicki Minaj;Blick Blick!
+4*TOWN (From Disney And Pixar's Turning Red);Nobody Like U
+Juice WRLD;Sometimes
+Lil Durk;Computer Murderers
+Carrie Underwood;Ghost Story
+AnnenMayKantereit & Giant Rooks;Tom's Diner
+Machine Gun Kelly & Bring Me The Horizon;Maybe
+Lucky Daye;Over
+Yeat;Money So Big
+Russell Dickerson & Jake Scott;She Likes It
+BoyWithUke X blackbear;IDGAF
+Yahritza y Su Esencia;Soy El Unico
+Morgan Wallen;Wasted On You
+Nicki Minaj & Fivio Foreign;We Go Up
+Machine Gun Kelly X blackbear;Make Up Sex
+Daddy Yankee & Bad Bunny;X Ultima Vez
+Anitta;Envolver
+Tate McRae;Chaotic
+J Balvin & Ed Sheeran;Sigue
+Jason Aldean;Trouble With A Heartbreak
+Harry Styles;As It Was
+Lil Tjay;In My Head
+Shawn Mendes;When You're Gone
+JID & J. Cole Featuring Kenny Mason & Sheck Wes;Stick
+Scotty McCreery;Damn Strait
+Parmalee;Take My Name
+5 Seconds Of Summer;Complete Mess
+YoungBoy Never Broke Again;4KT Baby
+Gucci Mane Featuring Key Glock & Young Dolph;Blood All On It
+Rauw Alejandro & Chencho Corleone;Desesperados
+Jack Harlow;First Class
+Lil Baby;Right On
+Lil Baby;In A Minute
+BIA Featuring J. Cole;London
+Camila Cabello Featuring WILLOW;Psychofreak
+42 Dugg & EST Gee;Thump Shit
+Chloe;Treat Me
+Pusha T Featuring JAY-Z & Pharrell Williams;Neck & Wrist
+BRELAND Featuring Thomas Rhett;Praise The Lord
+The Kid LAROI;Thousand Miles
+Megan Thee Stallion;Plan B
+Karol G;Provenza
+Morgan Wallen;Don't Think Jesus
+Ed Sheeran Featuring Lil Baby;2step
+Zach Bryan;Something In The Orange
+Southside, Travis Scott & Future;Hold That Heat
+Pusha T Featuring Lil Uzi Vert & Don Toliver;Scrape It Off
+Lizzo;About Damn Time
+Luke Combs;Tomorrow Me
+Lauren Spencer-Smith;Flowers
+Pusha T Featuring Kanye West & Kid Cudi;Rock N Roll
+Pusha T Featuring Kanye West;Dreamin Of The Past
+Kay Flock, Cardi B, Dougie B & Bory300;Shake It
+Kane Brown;Leave You Alone
+Pusha T;Brambleton
+Future Featuring Drake & Tems;Wait For U
+Future;Puffin On Zootiez
+Future;712PM
+Future;I'm Dat N***a
+Future Featuring Drake;I'm On One
+Future;Love You Better
+Future Featuring Kanye West;Keep It Burnin
+Future;Massaging Me
+Future Featuring Gunna & Young Thug;For A Nut
+Future Featuring EST Gee;Chickens
+Future;Gold Stacks
+Future Featuring Kodak Black;Voodoo
+Justin Bieber & Don Toliver;Honest
+Future;We Jus Wanna Get High
+Future;Holy Ghost
+Lil Baby;Frozen
+Future;Back To The Basics
+Future;The Way Things Going
+PSY Featuring SUGA;That That
+Benson Boone;In The Stars
+Bailey Zimmerman;Fall In Love
+Sam Smith;Love Me More
+Bad Bunny;Moscow Mule
+Bad Bunny;Titi Me Pregunto
+Bad Bunny;Despues de La Playa
+Bad Bunny & Chencho Corleone;Me Porto Bonito
+Morgan Wallen;Thought You Should Know
+Bad Bunny & Rauw Alejandro;Party
+Kendrick Lamar;The Heart Part 5
+Bad Bunny;Un Ratito
+Bad Bunny & Jhay Cortez;Tarot
+Jack Harlow;Dua Lipa
+Bad Bunny;Yo No Soy Celoso
+Jack Harlow Featuring Drake;Churchill Downs
+Bad Bunny & Bomba Estereo;Ojitos Lindos
+Bad Bunny;Neverita
+Bad Bunny & Tony Dize;La Corriente
+Bad Bunny;Efecto
+Bad Bunny;Aguacero
+Bad Bunny;Dos Mil 16
+Bad Bunny & The Marias;Otro Atardecer
+Taylor Swift;This Love (Taylor's Version)
+Bad Bunny & Buscabulla;Andrea
+Bad Bunny;El Apagon
+Bad Bunny;Un Verano Sin Ti
+Bad Bunny;Un Coco
+Bad Bunny;Me Fui de Vacaciones
+Bad Bunny;Ensename A Bailar
+Bad Bunny;Agosto
+Lady Gaga;Hold My Hand
+Nate Smith;Whiskey On You
+Jack Harlow;I'd Do Anything To Make You Smile
+Jack Harlow;Young Harleezy
+Jack Harlow Featuring Lil Wayne;Poison
+Kendrick Lamar;N95
+Kendrick Lamar, Blxst & Amanda Reifer;Die Hard
+Morgan Wallen;You Proof
+Kendrick Lamar & Kodak Black;Silent Hill
+Kendrick Lamar;United In Grief
+Kendrick Lamar Featuring Sampha;Father Time
+Kendrick Lamar;Rich Spirit
+Kendrick Lamar & Taylour Paige;We Cry Together
+Kendrick Lamar;Worldwide Steppers
+Kendrick Lamar;Count Me Out
+Kendrick Lamar, Summer Walker & Ghostface Killah;Purple Hearts
+Kendrick Lamar, Baby Keem, & Sam Dew;Savior
+Post Malone Featuring Roddy Ricch;Cooped Up
+Kendrick Lamar;Rich (Interlude)
+Kendrick Lamar & Tanna Leone;Mr. Morale
+Kendrick Lamar;Crown
+Kendrick Lamar;Auntie Diaries
+Kendrick Lamar;Savior (Interlude)
+Kendrick Lamar;Mirror
+Kendrick Lamar Featuring Beth Gibbons;Mother I Sober
+Harry Styles;Late Night Talking
+Harry Styles;Music For A Sushi Restaurant
+Harry Styles;Matilda
+Harry Styles;Daylight
+Harry Styles;Little Freak
+Harry Styles;Grapejuice
+Harry Styles;Satellite
+Harry Styles;Cinema
+Harry Styles;Daydreaming
+Harry Styles;Keep Driving
+Harry Styles;Love Of My Life
+Harry Styles;Boyfriends
+Quavo & Takeoff;Hotel Lobby (Unc And Phew)
+Kane Brown;Like I Love Country Music
+Ella Mai;DFMU
+Kate Bush;Running Up That Hill (A Deal With God)
+Kanye West & XXXTENTACION;True Love
+SleazyWorld Go Featuring Lil Baby;Sleazy Flow
+Moneybagg Yo;See Wat I'm Sayin
+Sleepy Hallow Featuring 347aidan;Die Young
+Calvin Harris, Dua Lipa & Young Thug;Potion
+Cole Swindell;She Had Me At Heads Carolina
+Nicky Youre & dazy;Sunroof
+Hitkidd & GloRilla;F.N.F. (Let's Go)
+Keith Urban;Wild Hearts
+Jon Pardi;Last Night Lonely
+Tim McGraw;7500 OBO
+Stephen Sanchez;Until I Found You
+Post Malone Featuring Doja Cat;I Like You (A Happier Song)
+Polo G;Distraction
+Post Malone Featuring Gunna;I Cannot Be (A Sadder Song)
+Post Malone;Wrapped Around Your Finger
+Post Malone;Lemon Tree
+Post Malone;Reputation
+Post Malone Featuring The Kid LAROI;Wasting Angels
+Post Malone;Insane
+Post Malone Featuring Fleet Foxes;Love/Hate Letter To Alcohol
+Doja Cat;Vegas
+Shakira & Rauw Alejandro;Te Felicito
+Post Malone;When I'm Alone
+Post Malone;Euthanasia
+Joji;Glimpse Of Us
+BTS;Yet To Come
+Bailey Zimmerman;Rock And A Hard Place
+Pharrell Williams Featuring 21 Savage & Tyler, The Creator;Cash In Cash Out
+Halsey;So Good
+BTS;Run BTS
+OneRepublic;I Ain't Worried
+Tyler Hubbard;5 Foot 9
+Dylan Scott;New Truck
+Drake Featuring 21 Savage;Jimmy Cooks
+Drake;Sticky
+Drake;Falling Back
+Drake;Texts Go Green
+Drake;Massive
+Beyonce;Break My Soul
+Luke Combs;The Kind Of Love We Make
+Drake;Calling My Name
+Drake;A Keeper
+Drake;Currents
+Drake;Flight's Booked
+Drake;Overdrive
+Drake;Liability
+Lil Baby, 42 Dugg & Veeze;U-Digg
+Drake;Down Hill
+Drake;Tie That Binds
+Corey Kent;Wild As Her
+Charlie Puth Featuring Jung Kook;Left And Right
+Taylor Swift;Carolina
+Lil Nas X & Youngboy Never Broke Again;Late To Da Party (F*CK BET)
+Eminem & Snoop Dogg;From The D 2 The LBC
+Chris Brown Featuring WizKid;Call Me Everyday
+Chris Brown Featuring Jack Harlow;Psychic
+Chris Brown;WE (Warm Embrace)
+Lil Durk Featuring EST Gee;Burglars & Murderers
+Chris Brown Featuring Lil Baby;Addicted
+Lil Durk Featuring Doodie Lo;Did Shit To Me
+Chris Brown Featuring Lil Wayne & BLEU;Possessive
+Cardi B, Ye & Lil Durk;Hot Shit
+Metallica;Master Of Puppets
+Jelly Roll;Son Of A Sinner
+City Girls & Usher;Good Love
+Ingrid Andress With Sam Hunt;Wishful Drinking
+Luke Bryan;Country On
+j-hope;More
+Marshmello & Khalid;Numb
+Jake Owen;Best Thing Since Backroads
+Sia;Unstoppable
+Yeat;Rich Minion
+Steve Lacy;Bad Habit
+Brent Faiyaz;All Mine
+Brent Faiyaz;Loose Change
+Brent Faiyaz;Price Of Fame
+Yung Gravy;Betty (Get Money)
+Brent Faiyaz & DJ Dahi Featuring Tyler, The Creator;Gravity
+Brent Faiyaz;Rolling Stone
+Burna Boy;Last Last
+Brent Faiyaz Featuring Alicia Keys;Ghetto Gatsby
+Brent Faiyaz;Heal Your Heart (Interlude)
+Brent Faiyaz Featuring Joony;FYTB
+Brent Faiyaz Featuring Drake;Wasting Time
+Billie Eilish;TV
+Megan Thee Stallion Featuring Future;Pressurelicious
+John Rich;Progress
+Tems;Free Mind
+Billie Eilish;The 30th
+Mitchell Tenpenny;Truth About You
+Chris Young With Mitchell Tenpenny;At The End Of A Bar
+Justin Moore;With A Woman You Love
+Mac Miller;Love Lost
+YoungBoy Never Broke Again;Vette Motors
+Russ & Ed Sheeran;Are You Entertained
+Bizarrap & Quevedo;Bzrp Music Sessions, Vol. 52
+Beyonce;Cuff It
+Beyonce;Alien Superstar
+Beyonce;Church Girl
+Beyonce;I'm That Girl
+Beyonce Featuring BEAM;Energy
+Beyonce;Cozy
+Beyonce;Plastic Off The Sofa
+Beyonce;Virgo's Groove
+Beyonce;Summer Renaissance
+NAV, Travis Scott & Lil Baby;Never Sleep
+Beyonce;Heated
+Beyonce;Thique
+Beyonce Featuring Grace Jones & Tems;Move
+Beyonce;Pure/Honey
+Beyonce;America Has A Problem
+Beyonce;All Up In Your Mind
+Jax;Victoria's Secret
+Gabby Barrett;Pick Me Up
+Nardo Wick;Dah Dah DahDah
+DJ Khaled Featuring Drake & Lil Baby;Staying Alive
+benny blanco, BTS & Snoop Dogg;Bad Decisions
+YoungBoy Never Broke Again;Umm Hmm
+YoungBoy Never Broke Again;I Know
+YoungBoy Never Broke Again Featuring Rod Wave;Home Ain't Home
+YoungBoy Never Broke Again;Fuck Da Industry
+YoungBoy Never Broke Again;Free Dem 5's
+YoungBoy Never Broke Again;Lost Soul Survivor
+YoungBoy Never Broke Again;Hold Your Own
+YoungBoy Never Broke Again;Top Sound
+YoungBoy Never Broke Again;Kamikaze
+YoungBoy Never Broke Again;My Time
+Trippie Redd, Moneybagg Yo & Offset;Big 14
+Rosalia;Despecha
+YoungBoy Never Broke Again;7 Days
+Nicki Minaj;Super Freaky Girl
+Rod Wave;Alone
+Rod Wave Featuring Jack Harlow;Yungen
+Rod Wave;Never Get Over Me
+Rod Wave;Sweet Little Lies
+Rod Wave;Forever
+Megan Thee Stallion;Her
+Rod Wave;Stone Rolling
+Rod Wave;No Deal
+Rod Wave;I Know It
+Megan Thee Stallion Featuring Key Glock;Ungrateful
+Rod Wave;Pieces
+Megan Thee Stallion Featuring Latto;Budget
+Rod Wave;Rockstar Heart
+Rod Wave;Time Kills (Love Birds)
+Rod Wave;Fading
+Jordan Davis;What My World Spins Around
+BLACKPINK;Pink Venom
+Bailey Zimmerman;Where It Ends
+The Weeknd;Die For You
+Offset;54321
+Jackson Dean;Don't Come Lookin'
+Thomas Rhett Featuring Riley Green;Half Of Me
+Lizzo;2 Be Loved (Am I Ready)
+Demi Lovato;29
+Rosa Linn;Snap
+Lee Brice;Soul
+Manuel Turizo;La Bachata
+Elton John & Britney Spears;Hold Me Closer
+DJ Khaled Featuring Rick Ross, Lil Wayne, JAY-Z, John Legend & Fridayy;God Did
+DJ Khaled Featuring Future & SZA;Beautiful
+DJ Khaled Featuring Future & Lil Baby;Big Time
+Lil Tjay;Beat The Odds
+Karol G x Maldy;Gatubela
+DJ Khaled Featuring Kanye West & Eminem;Use This Gospel (Remix)
+DJ Khaled Featuring Juice WRLD;Juice WRLD Did
+DJ Khaled Featuring Lil Durk, 21 Savage & Roddy Ricch;Keep Going
+DJ Khaled Featuring Quavo & Takeoff;Party
+JVKE;Golden Hour
+DJ Khaled Featuring Nardo Wick & Kodak Black;It Ain't Safe
+DJ Khaled Featuring Drake;No Secret
+David Guetta & Bebe Rexha;I'm Good (Blue)
+DJ Khaled Featuring Don Toliver & Travis Scott;Let's Pray
+HARDY Featuring Lainey Wilson;Wait In The Truck
+Lil Baby;Detox
+Yeat;Talk
+d4vd;Romantic Homicide
+Rema & Selena Gomez;Calm Down
+Steve Lacy;Static
+Armani White;Billie Eilish.
+Romeo Santos & Justin Timberlake;Sin Fin
+Kane Brown With Katelyn Brown;Thank God
+Chris Brown;Under The Influence
+YoungBoy Never Broke Again;Put It On Me
+Lil Baby;Freestyle
+Yeat Featuring Lil Uzi Vert;Flawless
+Ghost;Mary On A Cross
+YoungBoy Never Broke Again;Purge Me
+Zach Bryan;Burn, Burn, Burn
+BLACKPINK;Shut Down
+Omar Apollo;Evergreen
+Little Big Town;Hell Yeah
+BLEU & Nicki Minaj;Love In The Way
+Steve Lacy;Dark Red
+EST Gee Featuring Jack Harlow;Backstage Passes
+Sam Smith & Kim Petras;Unholy
+GloRilla & Cardi B;Tomorrow 2
+Lil Nas X;Star Walkin' (League Of Legends Worlds Anthem)
+Zac Brown Band;Out In The Middle
+Moneybagg Yo;Blow
+AJR;World's Smallest Violin
+Zach Bryan;Oklahoma Smoke Show
+Grupo Frontera;No Se Va
+Jimmie Allen;Down Home
+YG;Toxic
+Megan Moroney;Tennessee Orange
+Diddy & Bryson Tiller;Gotta Move On
+Lewis Capaldi;Forget Me
+Carly Pearce;What He Didn't Do
+Lil Yachty;Poland
+Lil Baby;Heyy
+Quavo, Takeoff & YoungBoy Never Broke Again;To The Bone
+Rauw Alejandro, Lyanno & Brray;Lokera
+Kodak Black;Walk
+Taylor Swift;Anti-Hero
+Taylor Swift;Lavender Haze
+Taylor Swift;Maroon
+Taylor Swift Featuring Lana Del Rey;Snow On The Beach
+Taylor Swift;Midnight Rain
+Taylor Swift;Bejeweled
+Taylor Swift;Question...?
+Taylor Swift;You're On Your Own, Kid
+Taylor Swift;Karma
+Taylor Swift;Vigilante Shit
+Taylor Swift;Mastermind
+Taylor Swift;Labyrinth
+Taylor Swift;Sweet Nothing
+Taylor Swift;Would've, Could've, Should've
+Taylor Swift;Bigger Than The Whole Sky
+Taylor Swift;The Great War
+Taylor Swift;Paris
+Taylor Swift;High Infidelity
+Taylor Swift;Glitch
+Lil Baby;California Breeze
+Taylor Swift;Dear Reader
+Lil Baby Featuring Fridayy;Forever
+Lil Uzi Vert;Just Wanna Rock
+Lil Baby;Real Spill
+Shakira + Ozuna;Monotonia
+Lil Baby;Stand On It
+Lil Baby & Young Thug;Never Hating
+Lil Baby;Not Finished
+Lil Baby & Nardo Wick;Pop Out
+Lil Baby;Perfect Timing
+Meghan Trainor;Made You Look
+Lil Baby Featuring Future;From Now On
+Oliver Tree & Robin Schulz;Miss You
+Rihanna;Lift Me Up
+SZA;Shirt
+Juice WRLD;In My Head
+Michael Jackson;Thriller
+"Bobby ""Boris"" Pickett And The Crypt-Kickers";Monster Mash
+Ray Parker Jr.;Ghostbusters
+JIN;The Astronaut
+Trippie Redd & Don Toliver;Ain't Safe
+Kodak Black;300 Blackout
+Drake & 21 Savage;Rich Flex
+Drake & 21 Savage;Major Distribution
+Drake & 21 Savage;On BS
+Drake & 21 Savage;Spin Bout U
+Drake & 21 Savage Featuring Travis Scott;Pussy & Millions
+Drake & 21 Savage;Privileged Rappers
+Drake & 21 Savage;Circo Loco
+Drake;BackOutsideBoyz
+Drake & 21 Savage;Hours In Silence
+Drake & 21 Savage;Broke Boys
+Drake & 21 Savage;Treacherous Twins
+Drake;Middle Of The Ocean
+Drake;Jumbotron Shit Poppin
+Drake & 21 Savage;More M’s
+Drake;I Guess It's Fuck Me
+21 Savage;3AM On Glenwood
+Joji;Die For You
+Selena Gomez;My Mind & Me
+Lainey Wilson;Heart Like A Truck
+Rod Wave;Break My Heart
+Luke Combs;Going, Going, Gone
+Pharrell Williams & Travis Scott;Down In Atlanta
+Rod Wave;Got It Right
+Gene Autry;Here Comes Santa Claus (Right Down Santa Claus Lane)
+Elvis Presley;Blue Christmas
+Lauren Spencer-Smith;Last Christmas
+Lizzo;Someday At Christmas
+Metro Boomin, The Weeknd & 21 Savage;Creepin'
+Metro Boomin, Future & Chris Brown;Superhero (Heroes & Villains)
+Metro Boomin Featuring Don Toliver & Future;Too Many Nights
+Metro Boomin, 21 Savage & Young Nudy;Umbrella
+Metro Boomin, Travis Scott & 21 Savage;Niagara Falls (Foot Or 2)
+Metro Boomin & Travis Scott;Raindrops (Insane)
+Morgan Wallen;One Thing At A Time
+Metro Boomin, Travis Scott & Young Thug;Trance
+Metro Boomin & Young Thug;Metro Spider
+Metro Boomin & John Legend;On Time
+Morgan Wallen;Tennessee Fan
+Metro Boomin & 21 Savage Featuring Mustafa;Walk Em Down (Don't Kill Civilians)
+Metro Boomin Featuring Don Toliver;Around Me
+Metro Boomin & Future Featuring Don Toliver;I Can't Save You (Interlude)
+Morgan Wallen;Days That End In Why
+Metro Boomin & A$AP Rocky Featuring Takeoff;Feel The Fiyaaaah
+Metro Boomin & Gunna;All The Money (Bonus)
+Arcangel & Bad Bunny;La Jumpa
+Metro Boomin, Travis Scott & Future;Lock On Me
+RM With Youjeen;Wild Flower
+Kelly Clarkson & Ariana Grande;Santa, Can't You Hear Me
+Kane Brown;Blue Christmas
+RAYE Featuring 070 Shake;Escapism
+SZA;Kill Bill
+SZA;Nobody Gets Me
+SZA;Blind
+SZA;Low
+SZA;Love Language
+SZA;Seek & Destroy
+SZA;Snooze
+SZA Featuring Don Toliver;Used
+SZA;SOS
+SZA;Special
+SZA Featuring Phoebe Bridgers;Ghost In The Machine
+SZA;Gone Girl
+SZA;Notice Me
+SZA;Smoking On My Ex Pack
+SZA Featuring Travis Scott;Open Arms
+SZA;F2F
+SZA;Conceited
+SZA;Far
+SZA;Too Late
+SZA Featuring Ol' Dirty Bastard;Forgiveless
+A Boogie Wit da Hoodie Featuring Kodak Black;Water (Drowning Pt. 2)
