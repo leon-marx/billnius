@@ -1,4 +1,4 @@
-start,stop,weight
+left_word,right_word,rel_weight
 lyric,like,659
 lyric,'s,608
 lyric,get,555
